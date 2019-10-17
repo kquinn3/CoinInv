@@ -1,0 +1,690 @@
+Pennies,Flowing Hair Cents (1793),Flowing Hair Cents1793 CHAIN "AMERI." S-1 1C MS,NGC Universal ID: 223G,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1816 1C MS,NGC Universal ID: 224Z,Philadelphia,2820982
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1807 1C MS,NGC Universal ID: 224M,Philadelphia,829221
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1808 1C MS,NGC Universal ID: 224P,Philadelphia,1109000
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1796 DRAPED BUST 1C MS,NGC Universal ID: 223W,Philadelphia,363375
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1793 LIBERTY CAP 1C MS,NGC Universal ID: 223L,Philadelphia,11056
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1796 LIBERTY CAP 1C MS,NGC Universal ID: 223V,Philadelphia,109825
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1795 PL EDGE JEFFERSON S-80 1C MS,NGC Universal ID: 2722,Philadelphia,0
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1795 REEDED EDGE S-79 1C MS,NGC Universal ID: 223U,Philadelphia,0
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1795 PLAIN EDGE 1C MS,NGC Universal ID: 223T,Philadelphia,501500
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1795 LT EDGE JEFFERSON NC-1 1C MS,NGC Universal ID: 26ZZ,Philadelphia,0
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1795 LETTER EDGE 1C MS,NGC Universal ID: 223S,Philadelphia,37000
+Pennies,Liberty Cap Cents (1793-1796),Liberty Cap Cents1794 1C MS,NGC Universal ID: 223M,Philadelphia,918521
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1806 S-270 1C MS,NGC Universal ID: 224L,Philadelphia,348000
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1805 1C MS,NGC Universal ID: 224K,Philadelphia,941116
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1804 RESTRIKE 1C MS,NGC Universal ID: 224J,Philadelphia,0
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1804 S-266 1C MS,NGC Universal ID: 224H,Philadelphia,96500
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1802 NO STEMS 1C MS,NGC Universal ID: 224F,Philadelphia,3435100
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1803 1C MS,NGC Universal ID: 224G,Philadelphia,3131691
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1801 3 ERRORS 1C MS,NGC Universal ID: 224C,Philadelphia,1362837
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1801 1/000 1C MS,NGC Universal ID: 224D,Philadelphia,1362837
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1802 1C MS,NGC Universal ID: 224E,Philadelphia,3435100
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1801 1C MS,NGC Universal ID: 224B,Philadelphia,1362837
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1800 80/79 2ND HAIR 1C MS,NGC Universal ID: 2U57,Philadelphia,2822175
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1800/798 1ST HAIR 1C MS,NGC Universal ID: 2U59,Philadelphia,2822175
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1799/8 1C MS,NGC Universal ID: 2247,Philadelphia,0
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1800 1C MS,NGC Universal ID: 2248,Philadelphia,2822175
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1798/7 1C MS,NGC Universal ID: 2245,Philadelphia,1841745
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1799 1C MS,NGC Universal ID: 2246,Philadelphia,0
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1797 NO STEM REV OF 97 1C MS,NGC Universal ID: 2243,Philadelphia,897510
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1797 STEMS REV OF 97 1C MS,NGC Universal ID: 2242,Philadelphia,897510
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1798 1C MS,NGC Universal ID: 2244,Philadelphia,1841745
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1797 PLAIN EDGE 1C MS,NGC Universal ID: 223Z,Philadelphia,897510
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1797 PL EDGE REV OF 95 1C MS,NGC Universal ID: 2U55,Philadelphia,897510
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1797 GRIPPED EDGE 1C MS,NGC Universal ID: 223Y,Philadelphia,897510
+Pennies,Draped Bust Cents (1796-1807),Draped Bust Cents1796 DRAPED "LIHERTY" 1C MS,NGC Universal ID: 223X,Philadelphia,363375
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1814 1C MS,NGC Universal ID: 224Y,Philadelphia,357830
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1813 1C MS,NGC Universal ID: 224X,Philadelphia,418000
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1812 1C MS,NGC Universal ID: 224W,Philadelphia,1075500
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1811/0 S-286 1C MS,NGC Universal ID: 224V,Philadelphia,0
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1810/09 S-281 1C MS,NGC Universal ID: 224T,Philadelphia,0
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1811 S-287 1C MS,NGC Universal ID: 224U,Philadelphia,218025
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1810 1C MS,NGC Universal ID: 224S,Philadelphia,1458500
+Pennies,Classic Head Cents (1808-1814),Classic Head Cents1809 S-280 1C MS,NGC Universal ID: 224R,Philadelphia,222867
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1837 HEAD OF 38 1C PF,NGC Universal ID: 272L,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1837 HEAD OF 36 1C PF,NGC Universal ID: 272K,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1838 1C PF,NGC Universal ID: 272M,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1837 1C PF,NGC Universal ID: 272J,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1836 1C PF,NGC Universal ID: 272H,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1831 1C SP,NGC Universal ID: 272F,Philadelphia,3359260
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1834 1C PF,NGC Universal ID: 2264,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1830 1C PF,NGC Universal ID: 272E,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1832 1C PF,NGC Universal ID: 272G,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1831 1C PF,NGC Universal ID: 2263,Philadelphia,3359260
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1829 BRONZED 1C PF,NGC Universal ID: 272D,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1828 1C PF,NGC Universal ID: 272B,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1823 SILVER RESTRIKE 1C PF,NGC Universal ID: 2729,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1827 1C PF,NGC Universal ID: 272A,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1829 1C PF,NGC Universal ID: 272C,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1823/2 N-1 1C PF,NGC Universal ID: 2728,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1823 1C PF,NGC Universal ID: 2727,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1822 1C PF,NGC Universal ID: 2726,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1820 1C PF,NGC Universal ID: 2724,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1817 1C PF,NGC Universal ID: 2723,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1821 1C PF,NGC Universal ID: 2725,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1819/8 1C PF,NGC Universal ID: 2262,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1839 SILLY HEAD 1C MS,NGC Universal ID: 225Y,Philadelphia,3128661
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1839 HEAD OF 38 1C MS,NGC Universal ID: 225X,Philadelphia,3128661
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1839 BOOBY HEAD 1C MS,NGC Universal ID: 225Z,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1839/6 HEAD OF 36 N-1 1C MS,NGC Universal ID: 225W,Philadelphia,3128661
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1838 1C MS,NGC Universal ID: 225V,Philadelphia,6370200
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1837 1C MS,NGC Universal ID: 225U,Philadelphia,5558300
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1836 1C MS,NGC Universal ID: 225T,Philadelphia,2111000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1834 1C MS,NGC Universal ID: 225R,Philadelphia,1855100
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1835 1C MS,NGC Universal ID: 225S,Philadelphia,3878400
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1833 1C MS,NGC Universal ID: 225P,Philadelphia,2739000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1832 1C MS,NGC Universal ID: 225N,Philadelphia,2362000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1831 1C MS,NGC Universal ID: 225M,Philadelphia,3359260
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1830 1C MS,NGC Universal ID: 225L,Philadelphia,1711500
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1829 1C MS,NGC Universal ID: 225K,Philadelphia,1414500
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1828 1C MS,NGC Universal ID: 225J,Philadelphia,2260624
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1827 1C MS,NGC Universal ID: 225H,Philadelphia,2357732
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1826 1C MS,NGC Universal ID: 225G,Philadelphia,1517425
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1824 1C MS,NGC Universal ID: 225D,Philadelphia,1262000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1825 1C MS,NGC Universal ID: 225F,Philadelphia,1461100
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1824/2 1C MS,NGC Universal ID: 225E,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1823 COPPER RESTRIKE 1C MS,NGC Universal ID: 225C,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1823/2 N-1 1C MS,NGC Universal ID: 225B,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1823 N-2 1C MS,NGC Universal ID: 225A,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1821 1C MS,NGC Universal ID: 2258,Philadelphia,389000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1822 1C MS,NGC Universal ID: 2259,Philadelphia,2072339
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1820/19 1C MS,NGC Universal ID: 2257,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1819/8 1C MS,NGC Universal ID: 2255,Philadelphia,0
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1820 1C MS,NGC Universal ID: 2256,Philadelphia,4407550
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1819 1C MS,NGC Universal ID: 2254,Philadelphia,2671000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1818 1C MS,NGC Universal ID: 2253,Philadelphia,3167000
+Pennies,Coronet Head Cents (1816-1839),Coronet Head Cents1817 1C MS,NGC Universal ID: 2252,Philadelphia,3948400
+Pennies,Flowing Hair Cents (1793),Flowing Hair Cents1793 WREATH VINE&BARS 1C SP,NGC Universal ID: 223K,Philadelphia,0
+Pennies,Flowing Hair Cents (1793),Flowing Hair Cents1793 WREATH LETTERED 1C MS,NGC Universal ID: 223J,Philadelphia,0
+Pennies,Flowing Hair Cents (1793),Flowing Hair Cents1793 WREATH VINE&BARS 1C MS,NGC Universal ID: 223H,Philadelphia,63353
+Pennies,Flowing Hair Cents (1793),Flowing Hair Cents1793 CHAIN "AMERICA" 1C MS,NGC Universal ID: 223F,Philadelphia,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2019 W 1C PF,NGC Universal ID: DN77,undefined,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1959 1C MS,NGC Universal ID: 22FS,Philadelphia,609715000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2019 S 1C PF,NGC Universal ID: DK52,undefined,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 BIRTH & CHILDHOOD 1C MS,NGC Universal ID: 22KC,Philadelphia,284400000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1957 1C PF,NGC Universal ID: 22LH,Philadelphia,1247952
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1958 1C PF,NGC Universal ID: 22LJ,Philadelphia,875652
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1909 VDB 1C MS,NGC Universal ID: 22AZ,Philadelphia,27995000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1956 1C PF,NGC Universal ID: 22LG,Philadelphia,669384
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1955 1C PF,NGC Universal ID: 22LF,Philadelphia,378200
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1950 1C PF,NGC Universal ID: 22LA,Philadelphia,51386
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1954 1C PF,NGC Universal ID: 22LE,Philadelphia,233300
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1953 1C PF,NGC Universal ID: 22LD,Philadelphia,128800
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1952 1C PF,NGC Universal ID: 22LC,Philadelphia,81980
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1951 1C PF,NGC Universal ID: 22LB,Philadelphia,57500
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1940 1C PF,NGC Universal ID: 22L7,Philadelphia,15872
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1942 1C PF,NGC Universal ID: 22L9,Philadelphia,32600
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1941 1C PF,NGC Universal ID: 22L8,Philadelphia,21100
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1938 1C PF,NGC Universal ID: 22L5,Philadelphia,14734
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1939 1C PF,NGC Universal ID: 22L6,Philadelphia,13520
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1936 SATIN 1C PF,NGC Universal ID: 22L2,Philadelphia,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1936 BRILLIANT 1C PF,NGC Universal ID: 22L3,Philadelphia,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1936 1C PF,NGC Universal ID: 2748,Philadelphia,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1937 1C PF,NGC Universal ID: 22L4,Philadelphia,9320
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1916 1C PF,NGC Universal ID: 22KZ,Philadelphia,600
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1915 1C PF,NGC Universal ID: 22KY,Philadelphia,1150
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1914 1C PF,NGC Universal ID: 22KX,Philadelphia,1365
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1913 1C PF,NGC Universal ID: 22KW,Philadelphia,2983
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1911 1C PF,NGC Universal ID: 22KU,Philadelphia,1725
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1912 1C PF,NGC Universal ID: 22KV,Philadelphia,2172
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1910 1C PF,NGC Universal ID: 22KT,Philadelphia,4118
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1909 LINCOLN 1C PF,NGC Universal ID: 22KS,Philadelphia,2618
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1909 VDB 1C PF,NGC Universal ID: 22KR,Philadelphia,1194
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1958 D 1C MS,NGC Universal ID: 22FR,Denver,800953300
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1958 1C MS,NGC Universal ID: 22FP,Philadelphia,253400652
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1957 D 1C MS,NGC Universal ID: 22FN,Denver,1051342000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1957 1C MS,NGC Universal ID: 22FM,Philadelphia,283787952
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1956 D 1C MS,NGC Universal ID: 22FL,Denver,1098201100
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1956 1C MS,NGC Universal ID: 22FK,Philadelphia,421414384
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1955 S 1C MS,NGC Universal ID: 22FJ,San Francisco,44610000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1955 D 1C MS,NGC Universal ID: 22FH,Denver,563257500
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1955 DOUBLED DIE OBV 1C MS,NGC Universal ID: 22FG,Philadelphia,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1955 1C MS,NGC Universal ID: 22FF,Philadelphia,330958000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1954 S 1C MS,NGC Universal ID: 22FE,San Francisco,96190000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1954 1C MS,NGC Universal ID: 22FC,Philadelphia,71873350
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1954 D 1C MS,NGC Universal ID: 22FD,Denver,251552500
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1953 S 1C MS,NGC Universal ID: 22FB,San Francisco,181835000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1953 D 1C MS,NGC Universal ID: 22FA,Denver,700515000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1953 1C MS,NGC Universal ID: 22F9,Philadelphia,256883800
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1952 1C MS,NGC Universal ID: 22F6,Philadelphia,186856980
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1952 S 1C MS,NGC Universal ID: 22F8,San Francisco,137800004
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1952 D 1C MS,NGC Universal ID: 22F7,Denver,746130000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1951 S 1C MS,NGC Universal ID: 22F5,San Francisco,136010000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1951 D 1C MS,NGC Universal ID: 22F4,Denver,625355000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1951 1C MS,NGC Universal ID: 22F3,Philadelphia,295633500
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1950 S 1C MS,NGC Universal ID: 22F2,San Francisco,118505000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1950 D 1C MS,NGC Universal ID: 22EZ,Denver,334950000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1950 1C MS,NGC Universal ID: 22EY,Philadelphia,272686386
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1949 S 1C MS,NGC Universal ID: 22EX,San Francisco,64290000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1949 1C MS,NGC Universal ID: 22EV,Philadelphia,217775000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1949 D 1C MS,NGC Universal ID: 22EW,Denver,153132000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1948 S 1C MS,NGC Universal ID: 22EU,San Francisco,81735000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1948 D 1C MS,NGC Universal ID: 22ET,Denver,172637000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1948 1C MS,NGC Universal ID: 22ES,Philadelphia,317570000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1947 D 1C MS,NGC Universal ID: 22EP,Denver,194750000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1947 1C MS,NGC Universal ID: 22EN,Philadelphia,190555000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1947 S 1C MS,NGC Universal ID: 22ER,San Francisco,99000000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1946 S 1C MS,NGC Universal ID: 22EM,San Francisco,198100000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1946 1C MS,NGC Universal ID: 22EK,Philadelphia,991655000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1945 D 1C MS,NGC Universal ID: 22EH,Denver,226268000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1946 D 1C MS,NGC Universal ID: 22EL,Denver,315690000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1945 S 1C MS,NGC Universal ID: 22EJ,San Francisco,181770000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1945 1C MS,NGC Universal ID: 22EG,Philadelphia,1040515000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 D STEEL 1C MS,NGC Universal ID: 22ED,Denver,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 S STEEL 1C MS,NGC Universal ID: 22EF,San Francisco,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 S 1C MS,NGC Universal ID: 22EE,San Francisco,282760000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 D/S 1C MS,NGC Universal ID: 2734,Denver,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 D 1C MS,NGC Universal ID: 22EC,Denver,430578000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 STEEL 1C MS,NGC Universal ID: 22EB,Philadelphia,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1944 1C MS,NGC Universal ID: 22EA,Philadelphia,1435400000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1943 S BRONZE 1C MS,NGC Universal ID: 22E9,San Francisco,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1943 D BRONZE 1C MS,NGC Universal ID: 22E7,Denver,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1943 S 1C MS,NGC Universal ID: 22E8,San Francisco,191550000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1943 BRONZE 1C MS,NGC Universal ID: 22E5,Philadelphia,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1943 D 1C MS,NGC Universal ID: 22E6,Denver,217660000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1943 1C MS,NGC Universal ID: 22E4,Philadelphia,684628670
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1942 D 1C MS,NGC Universal ID: 22E2,Denver,206698000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1942 S 1C MS,NGC Universal ID: 22E3,San Francisco,85590000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1941 S 1C MS,NGC Universal ID: 22DY,San Francisco,92360000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1941 D 1C MS,NGC Universal ID: 22DX,Denver,128700000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1942 1C MS,NGC Universal ID: 22DZ,Philadelphia,657828600
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1940 S 1C MS,NGC Universal ID: 22DV,San Francisco,112940000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1940 D 1C MS,NGC Universal ID: 22DU,Denver,81390000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1941 1C MS,NGC Universal ID: 22DW,Philadelphia,887039100
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1939 S 1C MS,NGC Universal ID: 22DS,San Francisco,52070000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1940 1C MS,NGC Universal ID: 22DT,Philadelphia,586825872
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1939 D 1C MS,NGC Universal ID: 22DR,Denver,15160000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1939 1C MS,NGC Universal ID: 22DP,Philadelphia,316479520
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1938 S 1C MS,NGC Universal ID: 22DN,San Francisco,15180000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1938 1C MS,NGC Universal ID: 22DL,Philadelphia,156696734
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1938 D 1C MS,NGC Universal ID: 22DM,Denver,20010000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1937 S 1C MS,NGC Universal ID: 22DK,San Francisco,34500000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1937 D 1C MS,NGC Universal ID: 22DJ,Denver,50430000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1937 1C MS,NGC Universal ID: 22DH,Philadelphia,309179320
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1936 S 1C MS,NGC Universal ID: 22DG,San Francisco,29130000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1936 D 1C MS,NGC Universal ID: 22DF,Denver,40620000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1936 1C MS,NGC Universal ID: 22DE,Philadelphia,309637569
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1935 D 1C MS,NGC Universal ID: 22DC,Denver,47000000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1935 1C MS,NGC Universal ID: 22DB,Philadelphia,245338000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1935 S 1C MS,NGC Universal ID: 22DD,San Francisco,38702000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1934 D 1C MS,NGC Universal ID: 22DA,Denver,28446000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1933 1C MS,NGC Universal ID: 22D7,Philadelphia,14360000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1934 1C MS,NGC Universal ID: 22D9,Philadelphia,219080000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1933 D 1C MS,NGC Universal ID: 22D8,Denver,6200000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1932 D 1C MS,NGC Universal ID: 22D6,Denver,10500000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1932 1C MS,NGC Universal ID: 22D5,Philadelphia,9062000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1931 S 1C MS,NGC Universal ID: 22D4,San Francisco,866000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1931 D 1C MS,NGC Universal ID: 22D3,Denver,4480000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1930 S 1C MS,NGC Universal ID: 22CZ,San Francisco,24286000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1931 1C MS,NGC Universal ID: 22D2,Philadelphia,19396000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1930 D 1C MS,NGC Universal ID: 22CY,Denver,40100000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1929 S 1C MS,NGC Universal ID: 22CW,San Francisco,50148000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1930 1C MS,NGC Universal ID: 22CX,Philadelphia,157415000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1929 D 1C MS,NGC Universal ID: 22CV,Denver,41730000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1929 1C MS,NGC Universal ID: 22CU,Philadelphia,185262000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1928 D 1C MS,NGC Universal ID: 22CS,Denver,31170000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1928 1C MS,NGC Universal ID: 22CR,Philadelphia,134116000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1928 S 1C MS,NGC Universal ID: 22CT,San Francisco,17266000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1927 S 1C MS,NGC Universal ID: 22CP,San Francisco,14276000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1927 D 1C MS,NGC Universal ID: 22CN,Denver,27170000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1926 S 1C MS,NGC Universal ID: 22CL,San Francisco,4550000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1926 D 1C MS,NGC Universal ID: 22CK,Denver,28020000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1927 1C MS,NGC Universal ID: 22CM,Philadelphia,144440000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1926 1C MS,NGC Universal ID: 22CJ,Philadelphia,157088000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1925 S 1C MS,NGC Universal ID: 22CH,San Francisco,26380000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1925 D 1C MS,NGC Universal ID: 22CG,Denver,22580000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1924 S 1C MS,NGC Universal ID: 22CE,San Francisco,11696000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1925 1C MS,NGC Universal ID: 22CF,Philadelphia,139949000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1924 D 1C MS,NGC Universal ID: 22CD,Denver,2520000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1924 1C MS,NGC Universal ID: 22CC,Philadelphia,75178000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1923 S 1C MS,NGC Universal ID: 22CB,San Francisco,8700000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1923 1C MS,NGC Universal ID: 22CA,Philadelphia,74723000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1922 NO D WEAK REVERSE 1C MS,NGC Universal ID: 2U6G,Denver,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1922 NO D STRONG REVERSE 1C MS,NGC Universal ID: 22C9,Denver,0
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1922 D 1C MS,NGC Universal ID: 22C8,Denver,7160000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1921 S 1C MS,NGC Universal ID: 22C7,San Francisco,15274000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1920 S 1C MS,NGC Universal ID: 22C5,San Francisco,46220000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1921 1C MS,NGC Universal ID: 22C6,Philadelphia,39157000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1920 D 1C MS,NGC Universal ID: 22C4,Denver,49280000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1920 1C MS,NGC Universal ID: 22C3,Philadelphia,310165000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1919 1C MS,NGC Universal ID: 22BY,Philadelphia,392021000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1919 S 1C MS,NGC Universal ID: 22C2,San Francisco,139760000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1919 D 1C MS,NGC Universal ID: 22BZ,Denver,57154000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1918 S 1C MS,NGC Universal ID: 22BX,San Francisco,34680000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1918 D 1C MS,NGC Universal ID: 22BW,Denver,47830000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1918 1C MS,NGC Universal ID: 22BV,Philadelphia,288104634
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1917 D 1C MS,NGC Universal ID: 22BT,Denver,55120000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1916 S 1C MS,NGC Universal ID: 22BR,San Francisco,22510000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1917 S 1C MS,NGC Universal ID: 22BU,San Francisco,32620000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1917 1C MS,NGC Universal ID: 22BS,Philadelphia,196429785
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1916 D 1C MS,NGC Universal ID: 22BP,Denver,35956000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1916 1C MS,NGC Universal ID: 22BN,Philadelphia,131833677
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1915 1C MS,NGC Universal ID: 22BK,Philadelphia,29092120
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1915 D 1C MS,NGC Universal ID: 22BL,Denver,22050000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1915 S 1C MS,NGC Universal ID: 22BM,San Francisco,4833000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1914 S 1C MS,NGC Universal ID: 22BJ,San Francisco,4137000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1913 S 1C MS,NGC Universal ID: 22BF,San Francisco,6101000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1914 1C MS,NGC Universal ID: 22BG,Philadelphia,75238432
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1914 D 1C MS,NGC Universal ID: 22BH,Denver,1193000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1913 D 1C MS,NGC Universal ID: 22BE,Denver,15804000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1913 1C MS,NGC Universal ID: 22BD,Philadelphia,76532352
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1912 S 1C MS,NGC Universal ID: 22BC,San Francisco,4431000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1912 D 1C MS,NGC Universal ID: 22BB,Denver,10411000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1912 1C MS,NGC Universal ID: 22BA,Philadelphia,68153060
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1911 S 1C MS,NGC Universal ID: 22B9,San Francisco,4026000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1911 1C MS,NGC Universal ID: 22B7,Philadelphia,101177787
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1910 S 1C MS,NGC Universal ID: 22B6,San Francisco,6045000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1911 D 1C MS,NGC Universal ID: 22B8,Denver,12672000
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1910 1C MS,NGC Universal ID: 22B5,Philadelphia,146801218
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1909 S LINCOLN 1C MS,NGC Universal ID: 22B4,San Francisco,1825000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2008 S 1C PF,NGC Universal ID: 274J,San Francisco,2169561
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1909 LINCOLN 1C MS,NGC Universal ID: 22B3,Philadelphia,72702618
+Pennies,Lincoln Cents_ Wheat Reverse (1909-1958),Lincoln Cents_ Wheat Reverse1909 S VDB 1C MS,NGC Universal ID: 22B2,San Francisco,484000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2007 S 1C PF,NGC Universal ID: 274H,San Francisco,2577166
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2004 S 1C PF,NGC Universal ID: 274E,San Francisco,2965422
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2003 S 1C PF,NGC Universal ID: 22N6,San Francisco,3298439
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2005 S 1C PF,NGC Universal ID: 274F,San Francisco,3344679
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2006 S 1C PF,NGC Universal ID: 274G,San Francisco,3054436
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2002 S 1C PF,NGC Universal ID: 22N5,San Francisco,3211995
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2001 S 1C PF,NGC Universal ID: 22N4,San Francisco,3184606
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2000 S 1C PF,NGC Universal ID: 22N3,San Francisco,4047993
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1999 S CLOSE "AM" 1C PF,NGC Universal ID: 274D,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1999 S 1C PF,NGC Universal ID: 22N2,San Francisco,3347966
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1998 S CLOSE "AM" 1C PF,NGC Universal ID: 274C,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1997 S 1C PF,NGC Universal ID: 22MY,San Francisco,2796678
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1998 S 1C PF,NGC Universal ID: 22MZ,San Francisco,2086507
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1996 S 1C PF,NGC Universal ID: 22MX,San Francisco,2525265
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1995 S 1C PF,NGC Universal ID: 22MW,San Francisco,2797481
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1994 S 1C PF,NGC Universal ID: 22MV,San Francisco,3269923
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1992 S 1C PF,NGC Universal ID: 22MT,San Francisco,4176560
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1991 S 1C PF,NGC Universal ID: 22MS,San Francisco,2867787
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1993 S 1C PF,NGC Universal ID: 22MU,San Francisco,3394792
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1990 NO S 1C PF,NGC Universal ID: 274B,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1990 S 1C PF,NGC Universal ID: 22MR,San Francisco,3299559
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1989 S 1C PF,NGC Universal ID: 22MP,San Francisco,3220194
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1987 S 1C PF,NGC Universal ID: 22MM,San Francisco,4227728
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1986 S 1C PF,NGC Universal ID: 22ML,San Francisco,3010497
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1988 S 1C PF,NGC Universal ID: 22MN,San Francisco,3262948
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1985 S 1C PF,NGC Universal ID: 22MK,San Francisco,3362821
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1984 S 1C PF,NGC Universal ID: 22MJ,San Francisco,3065110
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1983 S 1C PF,NGC Universal ID: 22MH,San Francisco,3279126
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 S 1C PF,NGC Universal ID: 22MG,San Francisco,3857479
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1981 S TYPE 2 1C PF,NGC Universal ID: 22MF,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1980 S 1C PF,NGC Universal ID: 22MD,San Francisco,3554806
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1981 S 1C PF,NGC Universal ID: 274A,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1981 S TYPE 1 1C PF,NGC Universal ID: 22ME,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1979 S TYPE 2 1C PF,NGC Universal ID: 22MC,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1979 S TYPE 1 1C PF,NGC Universal ID: 22MB,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1979 S 1C PF,NGC Universal ID: 2749,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1978 S 1C PF,NGC Universal ID: 22MA,San Francisco,3127781
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1977 S 1C PF,NGC Universal ID: 22M9,San Francisco,3251152
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1976 S 1C PF,NGC Universal ID: 22M8,San Francisco,4149730
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1975 S 1C PF,NGC Universal ID: 22M7,San Francisco,2845450
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1974 S 1C PF,NGC Universal ID: 22M6,San Francisco,2612568
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 S DDO SMALL DATE VP-004 1C PF,NGC Universal ID: DEKW,undefined,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1972 S 1C PF,NGC Universal ID: 22M4,San Francisco,3260996
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1973 S 1C PF,NGC Universal ID: 22M5,San Francisco,2760339
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1971 S 1C PF,NGC Universal ID: 22M3,San Francisco,3220733
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 S LARGE DATE 1C PF,NGC Universal ID: 22M2,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1968 S 1C PF,NGC Universal ID: 22LX,San Francisco,3041506
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1969 S 1C PF,NGC Universal ID: 22LY,San Francisco,2934631
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 S SMALL DATE 1C PF,NGC Universal ID: 22LZ,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1966 SMS 1C MS,NGC Universal ID: 22LV,San Francisco,2261583
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1967 SMS 1C MS,NGC Universal ID: 22LW,San Francisco,1863344
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1964 1C SP,NGC Universal ID: 22LT,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1962 1C PF,NGC Universal ID: 22LP,Philadelphia,3218019
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1963 1C PF,NGC Universal ID: 22LR,Philadelphia,3075645
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1965 SMS 1C MS,NGC Universal ID: 22LU,San Francisco,2360000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1964 1C PF,NGC Universal ID: 22LS,Philadelphia,3950762
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1961 1C PF,NGC Universal ID: 22LN,Philadelphia,3028244
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1960 LARGE DATE 1C PF,NGC Universal ID: 22LM,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1960 SMALL DATE 1C PF,NGC Universal ID: 22LL,Philadelphia,1691602
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1959 1C PF,NGC Universal ID: 22LK,Philadelphia,1149291
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1966 SMS 1C MS,NGC Universal ID: 22LV,San Francisco,2261583
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1967 SMS 1C MS,NGC Universal ID: 22LW,San Francisco,1863344
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1965 SMS 1C MS,NGC Universal ID: 22LU,San Francisco,2360000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2008 D SMS 1C MS,NGC Universal ID: 273V,Denver,745464
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2008 SMS 1C MS,NGC Universal ID: 273T,Philadelphia,745464
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2008 D 1C MS,NGC Universal ID: 273U,Denver,2849600000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2008 1C MS,NGC Universal ID: 273S,Philadelphia,2558800000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2007 D SMS 1C MS,NGC Universal ID: 273R,Denver,895628
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2007 D 1C MS,NGC Universal ID: 273P,Denver,3638800000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2007 SMS 1C MS,NGC Universal ID: 273N,Philadelphia,895628
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2006 D 1C MS,NGC Universal ID: 273K,Denver,3944000000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2006 D SMS 1C MS,NGC Universal ID: 273L,Denver,847361
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2007 1C MS,NGC Universal ID: 273M,Philadelphia,3762400000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2006 SMS 1C MS,NGC Universal ID: 273J,Philadelphia,847361
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2006 1C MS,NGC Universal ID: 273H,Philadelphia,4290000000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2005 SMS 1C MS,NGC Universal ID: 273E,Philadelphia,1160000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2005 D SMS 1C MS,NGC Universal ID: 273G,Denver,1160000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2005 D 1C MS,NGC Universal ID: 273F,Denver,3764450500
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2004 1C MS,NGC Universal ID: 273B,Philadelphia,3379600000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2004 D 1C MS,NGC Universal ID: 273C,Denver,3456400000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2005 1C MS,NGC Universal ID: 273D,Philadelphia,3935600000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2003 D 1C MS,NGC Universal ID: 22KB,Denver,3548000000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2003 1C MS,NGC Universal ID: 22KA,Philadelphia,3300000000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2001 D 1C MS,NGC Universal ID: 22K7,Denver,5374990000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2001 1C MS,NGC Universal ID: 22K6,Philadelphia,4959600000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2002 D 1C MS,NGC Universal ID: 22K9,Denver,4028055000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2000 D 1C MS,NGC Universal ID: 22K5,Denver,8774220000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2002 1C MS,NGC Universal ID: 22K8,Philadelphia,3260800000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2000 CHEERIOS PROMOTION 1C MS,NGC Universal ID: 2739,Philadelphia,10000000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1999 WIDE "AM" 1C MS,NGC Universal ID: 2738,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse2000 1C MS,NGC Universal ID: 22K4,Philadelphia,5503200000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1999 D 1C MS,NGC Universal ID: 22K3,Denver,6360065000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1998 D 1C MS,NGC Universal ID: 22JZ,Denver,5255353500
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1999 1C MS,NGC Universal ID: 22K2,Philadelphia,5237600000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1998 1C MS,NGC Universal ID: 22JY,Philadelphia,5032155000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1997 D 1C MS,NGC Universal ID: 22JX,Denver,4576555000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1996 1C MS,NGC Universal ID: 22JU,Philadelphia,6612465000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1996 D 1C MS,NGC Universal ID: 22JV,Denver,6510795000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1997 1C MS,NGC Universal ID: 22JW,Philadelphia,4622800000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1995 D 1C MS,NGC Universal ID: 22JT,Denver,7128560000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1995 DOUBLED DIE OBV 1C MS,NGC Universal ID: 22JS,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1995 1C MS,NGC Universal ID: 22JR,Philadelphia,6411440000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1994 D 1C MS,NGC Universal ID: 22JP,Denver,7131765000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1994 1C MS,NGC Universal ID: 22JN,Philadelphia,6500850000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1993 D 1C MS,NGC Universal ID: 22JM,Denver,6426650571
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1993 1C MS,NGC Universal ID: 22JL,Philadelphia,5684705000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1992 D 1C MS,NGC Universal ID: 22JJ,Denver,4448673300
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1991 D 1C MS,NGC Universal ID: 22JG,Denver,4158442076
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1992 1C MS,NGC Universal ID: 22JH,Philadelphia,4648905000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1991 1C MS,NGC Universal ID: 22JF,Philadelphia,5165940000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1990 D 1C MS,NGC Universal ID: 22JE,Denver,4922894533
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1989 D 1C MS,NGC Universal ID: 22JC,Denver,5345467111
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1990 1C MS,NGC Universal ID: 22JD,Philadelphia,6851765000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1989 1C MS,NGC Universal ID: 22JB,Philadelphia,7261535000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1988 D 1C MS,NGC Universal ID: 22JA,Denver,5253740443
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1988 1C MS,NGC Universal ID: 22J9,Philadelphia,6092810000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1987 1C MS,NGC Universal ID: 22J7,Philadelphia,4682466931
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1987 D 1C MS,NGC Universal ID: 22J8,Denver,4879389514
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1986 1C MS,NGC Universal ID: 22J5,Philadelphia,4491395493
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1985 D 1C MS,NGC Universal ID: 22J4,Denver,5287399926
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1985 1C MS,NGC Universal ID: 22J3,Philadelphia,5648489887
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1986 D 1C MS,NGC Universal ID: 22J6,Denver,4442866698
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1984 D 1C MS,NGC Universal ID: 22J2,Denver,5569238906
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1984 DOUBLED DIE OBV 1C MS,NGC Universal ID: 22HZ,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1984 1C MS,NGC Universal ID: 22HY,Philadelphia,8151079000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1983 D 1C MS,NGC Universal ID: 22HX,Denver,6467199428
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1983 DOUBLED DIE REV 1C MS,NGC Universal ID: 22HW,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1983 1C MS,NGC Universal ID: 22HV,Philadelphia,7752355000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 D SM DT ZINC 1C MS,NGC Universal ID: 22HU,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 D LG DT ZINC 1C MS,NGC Universal ID: 22HT,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 SM DT ZINC 1C MS,NGC Universal ID: 22HS,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 LG DT ZINC 1C MS,NGC Universal ID: 22HR,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 D SMALL DATE BRONZE - TRANSITIONAL 1C MS,NGC Universal ID: CUTS,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 D LG DT BRONZE 1C MS,NGC Universal ID: 22HP,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 LG DT BRONZE 1C MS,NGC Universal ID: 22HM,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 SM DT BRONZE 1C MS,NGC Universal ID: 22HN,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 D 1C MS,NGC Universal ID: 22HK,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1982 1C MS,NGC Universal ID: 22HL,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1981 D 1C MS,NGC Universal ID: 22HJ,Denver,5373235677
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1981 1C MS,NGC Universal ID: 22HG,Philadelphia,7491750000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1980 D 1C MS,NGC Universal ID: 22HH,Denver,5140098660
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1979 D 1C MS,NGC Universal ID: 22HE,Denver,4139357254
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1980 1C MS,NGC Universal ID: 22HF,Philadelphia,7414705000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1979 1C MS,NGC Universal ID: 22HD,Philadelphia,6018515000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1978 1C MS,NGC Universal ID: 22HB,Philadelphia,5558605000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1977 1C MS,NGC Universal ID: 22H9,Philadelphia,4469930000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1977 D 1C MS,NGC Universal ID: 22HA,Denver,4149062300
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1978 D 1C MS,NGC Universal ID: 22HC,Denver,4280233400
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1976 D 1C MS,NGC Universal ID: 22H8,Denver,4221592455
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1976 1C MS,NGC Universal ID: 22H7,Philadelphia,4674292426
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1975 D 1C MS,NGC Universal ID: 22H6,Denver,4505245300
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1974 S 1C MS,NGC Universal ID: 22H5,San Francisco,409426660
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1975 1C MS,NGC Universal ID: 22H4,Philadelphia,5451476142
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1974 D 1C MS,NGC Universal ID: 22H3,Denver,4235098000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1973 S 1C MS,NGC Universal ID: 22GZ,San Francisco,317177295
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1974 1C MS,NGC Universal ID: 22H2,Philadelphia,4232140523
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1973 D 1C MS,NGC Universal ID: 22GY,Denver,3549576588
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1973 1C MS,NGC Universal ID: 22GX,Philadelphia,3728245000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1972 S 1C MS,NGC Universal ID: 22GW,San Francisco,376939108
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1972 D 1C MS,NGC Universal ID: 22GV,Denver,2665071400
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1972 DOUBLED DIE OBV 1C MS,NGC Universal ID: 22GU,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1971 S 1C MS,NGC Universal ID: 22GS,San Francisco,525133459
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1972 1C MS,NGC Universal ID: 22GT,Philadelphia,2933255000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1971 D 1C MS,NGC Universal ID: 22GR,Denver,2911045600
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1971 1C MS,NGC Universal ID: 22GP,Philadelphia,1919490000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 S LARGE DATE 1C MS,NGC Universal ID: 22GN,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 S SMALL DATE 1C MS,NGC Universal ID: 22GM,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 D 1C MS,NGC Universal ID: 22GL,Denver,2891438900
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1970 1C MS,NGC Universal ID: 22GK,Philadelphia,1898315000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1969 S DOUBLED DIE OBV 1C MS,NGC Universal ID: 22GJ,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1969 S 1C MS,NGC Universal ID: 22GH,San Francisco,544375000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1969 1C MS,NGC Universal ID: 22GF,Philadelphia,1136910000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1969 D 1C MS,NGC Universal ID: 22GG,Denver,4002832200
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1968 S 1C MS,NGC Universal ID: 22GE,San Francisco,258270001
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1968 D 1C MS,NGC Universal ID: 22GD,Denver,2886269600
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1968 1C MS,NGC Universal ID: 22GC,Philadelphia,1707880970
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1967 1C MS,NGC Universal ID: 22GB,"Philadelphia, Denver, San Francisco",3048667100
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1966 1C MS,NGC Universal ID: 22GA,"Philadelphia, Denver, San Francisco",2188147783
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1965 1C MS,NGC Universal ID: 22G9,"Philadelphia, Denver, San Francisco",1497224900
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1964 D 1C MS,NGC Universal ID: 22G8,Denver,3799071500
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1963 D 1C MS,NGC Universal ID: 22G6,Denver,1774020400
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1964 1C MS,NGC Universal ID: 22G7,"Philadelphia, San Francisco",2648575000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1963 1C MS,NGC Universal ID: 22G5,Philadelphia,754110000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1962 D 1C MS,NGC Universal ID: 22G4,Denver,1793148400
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1961 D 1C MS,NGC Universal ID: 22G2,Denver,1753266700
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1961 1C MS,NGC Universal ID: 22FZ,Philadelphia,753345000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1962 1C MS,NGC Universal ID: 22G3,Philadelphia,606045000
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1960 D LARGE DATE 1C MS,NGC Universal ID: 22FY,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1960 D SMALL DATE 1C MS,NGC Universal ID: 22FX,Denver,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1960 LARGE DATE 1C MS,NGC Universal ID: 22FW,Philadelphia,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1960 SMALL DATE 1C MS,NGC Universal ID: 22FV,Philadelphia,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2018 S 1C PF,NGC Universal ID: D5AP,San Francisco,0
+Pennies,Lincoln Cents_ Memorial Reverse (1959-2008),Lincoln Cents_ Memorial Reverse1959 D 1C MS,NGC Universal ID: 22FT,Denver,1279760000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2017 S 1C PF,NGC Universal ID: CS93,San Francisco,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2017 S 1C SP,NGC Universal ID: CZW6,San Francisco,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2016 S 1C PF,NGC Universal ID: CCM9,San Francisco,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2014 S 1C PF,NGC Universal ID: ASSU,San Francisco,1190369
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2013 S 1C PF,NGC Universal ID: 2U7E,San Francisco,1237926
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2015 S 1C PF,NGC Universal ID: BHXP,San Francisco,1022410
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2012 S 1C PF,NGC Universal ID: 2TTV,San Francisco,1237415
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2011 S 1C PF,NGC Universal ID: 22N7,San Francisco,1673010
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2010 S UNION SHIELD 1C PF,NGC Universal ID: 274P,San Francisco,1689216
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 S BRONZE PRESIDENCY 1C PF,NGC Universal ID: 274N,San Francisco,2995615
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 S BRONZE PROFESSIONAL LIFE 1C PF,NGC Universal ID: 274M,San Francisco,2995615
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 S BRONZE FORMATIVE YEARS 1C PF,NGC Universal ID: 274L,San Francisco,2995615
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse(2019) Explore & Discover 1C MS,NGC Universal ID: DPKM,undefined,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 S BRONZE BIRTH & CHILDHOOD 1C PF,NGC Universal ID: 274K,San Francisco,2995615
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2019 W 1C MS,NGC Universal ID: DN8L,undefined,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2019 D 1C MS,NGC Universal ID: DK4Y,undefined,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2019 1C MS,NGC Universal ID: DK4X,undefined,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2018 1C MS,NGC Universal ID: D5AM,Philadelphia,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2017 D 1C MS,NGC Universal ID: CS92,Denver,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2016 D 1C MS,NGC Universal ID: CL5S,Denver,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2018 D 1C MS,NGC Universal ID: D5AN,Denver,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2017 P 1C MS,NGC Universal ID: CTRA,Philadelphia,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2016 1C MS,NGC Universal ID: CL5R,Philadelphia,0
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2015 D 1C MS,NGC Universal ID: BHXH,Denver,4674000000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2014 1C MS,NGC Universal ID: ASSP,Philadelphia,3990800000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2015 1C MS,NGC Universal ID: BHXD,Philadelphia,4691300000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2014 D 1C MS,NGC Universal ID: ASSR,Denver,4155600000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2013 1C MS,NGC Universal ID: 2U7C,Philadelphia,3750400000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2013 D 1C MS,NGC Universal ID: 2U7D,Denver,3319600000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2012 1C MS,NGC Universal ID: 2TTT,Philadelphia,3132000000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2012 D 1C MS,NGC Universal ID: 2TTU,Denver,2883200000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2011 D 1C MS,NGC Universal ID: 22KP,Denver,2536140000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2011 1C MS,NGC Universal ID: 22KN,Philadelphia,2402400000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2010 D UNION SHIELD 1C MS,NGC Universal ID: 22KM,Denver,2047200000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2010 D SMS UNION SHIELD 1C MS,NGC Universal ID: 2747,Denver,583897
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2010 SMS UNION SHIELD 1C MS,NGC Universal ID: 2746,Philadelphia,583897
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2010 UNION SHIELD 1C MS,NGC Universal ID: 22KL,Philadelphia,1963630000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D SMS BRONZE PRESIDENCY 1C MS,NGC Universal ID: 2745,Denver,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 PRESIDENCY 1C MS,NGC Universal ID: 22KJ,Philadelphia,129600000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D SMS BRONZE PROFESSIONAL LIFE 1C MS,NGC Universal ID: 2743,Denver,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 SMS BRONZE PRESIDENCY 1C MS,NGC Universal ID: 2744,Philadelphia,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D PRESIDENCY 1C MS,NGC Universal ID: 22KK,Denver,198000000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 SMS BRONZE PROFESSIONAL LIFE 1C MS,NGC Universal ID: 2742,Philadelphia,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D SMS BRONZE FORMATIVE YEARS 1C MS,NGC Universal ID: 273Z,Denver,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 PROFESSIONAL LIFE 1C MS,NGC Universal ID: 22KG,Philadelphia,316000000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D PROFESSIONAL LIFE 1C MS,NGC Universal ID: 22KH,Denver,336000000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D FORMATIVE YEARS 1C MS,NGC Universal ID: 22KF,Denver,363600000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D BIRTH & CHILDHOOD 1C MS,NGC Universal ID: 22KD,Denver,350400000
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 SMS BRONZE FORMATIVE YEARS 1C MS,NGC Universal ID: 273Y,Philadelphia,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 D SMS BRONZE BIRTH & CHILDHOOD 1C MS,NGC Universal ID: 273X,Denver,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 SMS BRONZE BIRTH & CHILDHOOD 1C MS,NGC Universal ID: 273W,Philadelphia,784614
+Pennies,Lincoln Cents_ Bicentennial and Shield Reverse (2009-Date),Lincoln Cents_ Bicentennial and Shield Reverse2009 FORMATIVE YEARS 1C MS,NGC Universal ID: 22KE,Philadelphia,376000000
+Pennies,Indian Cents (1859-1909),Indian Cents1859 1C MS,NGC Universal ID: 227E,Philadelphia,36400000
+Pennies,Indian Cents (1859-1909),Indian Cents1861 1C MS,NGC Universal ID: 227G,Philadelphia,10100000
+Pennies,Indian Cents (1859-1909),Indian Cents1860 1C MS,NGC Universal ID: 227F,Philadelphia,20566000
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1839 PETITE HEAD N-8 1C MS,NGC Universal ID: 2265,Philadelphia,3128661
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1857 EAGLE 1C MS,NGC Universal ID: 2276,Philadelphia,17450000
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1858 SMALL LETTERS 1C PF,NGC Universal ID: 227D,Philadelphia,200
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1858 EAGLE 1C PF,NGC Universal ID: 272W,Philadelphia,200
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1858 LARGE LETTERS 1C PF,NGC Universal ID: 227C,Philadelphia,200
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1857 EAGLE 1C PF,NGC Universal ID: 227B,Philadelphia,100
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1856 EAGLE 1C PF,NGC Universal ID: 227A,Philadelphia,2500
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1858 1C MS,NGC Universal ID: 272V,Philadelphia,24600000
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1858 SMALL LETTERS 1C MS,NGC Universal ID: 2279,Philadelphia,24600000
+Pennies,Flying Eagle Cents (1856-1858),Flying Eagle Cents1858 LARGE LETTERS 1C MS,NGC Universal ID: 2277,Philadelphia,24600000
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1857 LARGE 1C PF,NGC Universal ID: 2275,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1856 LARGE 1C PF,NGC Universal ID: 2274,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1854 1C PF,NGC Universal ID: 2272,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1855 1C PF,NGC Universal ID: 2273,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1853 1C PF,NGC Universal ID: 272U,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1852 1C PF,NGC Universal ID: 226Z,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1851 1C PF,NGC Universal ID: 272T,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1850 1C PF,NGC Universal ID: 272S,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1849 1C PF,NGC Universal ID: 226Y,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1848 1C PF,NGC Universal ID: 226X,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1847 1C PF,NGC Universal ID: 272R,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1846 1C PF,NGC Universal ID: 226W,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1845 1C PF,NGC Universal ID: 226V,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1844 1C PF,NGC Universal ID: 226U,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1842 1C PF,NGC Universal ID: 272P,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1843 1C PF,NGC Universal ID: 226T,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1841 1C PF,NGC Universal ID: 226S,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1840 1C PF,NGC Universal ID: 226R,Philadelphia,0
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1839 PETITE HEAD N-8 1C PF,NGC Universal ID: 272N,Philadelphia,3128661
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1857 LARGE 1C MS,NGC Universal ID: 226P,Philadelphia,333546
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1855 1C MS,NGC Universal ID: 226M,Philadelphia,1574829
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1854 1C MS,NGC Universal ID: 226L,Philadelphia,4236156
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1856 LARGE 1C MS,NGC Universal ID: 226N,Philadelphia,2690463
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1853 1C MS,NGC Universal ID: 226K,Philadelphia,6641131
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1851 1C MS,NGC Universal ID: 226H,Philadelphia,9889707
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1848 1C MS,NGC Universal ID: 226E,Philadelphia,6415799
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1852 1C MS,NGC Universal ID: 226J,Philadelphia,5063094
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1849 1C MS,NGC Universal ID: 226F,Philadelphia,4178500
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1850 1C MS,NGC Universal ID: 226G,Philadelphia,4426844
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1845 1C MS,NGC Universal ID: 226B,Philadelphia,3894804
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1844 1C MS,NGC Universal ID: 226A,Philadelphia,2398752
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1847 1C MS,NGC Universal ID: 226D,Philadelphia,6183669
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1843 1C MS,NGC Universal ID: 2269,Philadelphia,2425342
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1846 1C MS,NGC Universal ID: 226C,Philadelphia,4120800
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1841 1C MS,NGC Universal ID: 2267,Philadelphia,1597367
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1842 1C MS,NGC Universal ID: 2268,Philadelphia,2383390
+Pennies,Braided Hair Cents (1839-1857),Braided Hair Cents1840 1C MS,NGC Universal ID: 2266,Philadelphia,2462700
+Pennies,Indian Cents (1859-1909),Indian Cents1909 INDIAN 1C PF,NGC Universal ID: 22AY,Philadelphia,2175
+Pennies,Indian Cents (1859-1909),Indian Cents1908 1C PF,NGC Universal ID: 22AX,Philadelphia,1620
+Pennies,Indian Cents (1859-1909),Indian Cents1905 1C PF,NGC Universal ID: 22AU,Philadelphia,2152
+Pennies,Indian Cents (1859-1909),Indian Cents1906 1C PF,NGC Universal ID: 22AV,Philadelphia,1725
+Pennies,Indian Cents (1859-1909),Indian Cents1907 1C PF,NGC Universal ID: 22AW,Philadelphia,1475
+Pennies,Indian Cents (1859-1909),Indian Cents1904 1C PF,NGC Universal ID: 22AT,Philadelphia,1817
+Pennies,Indian Cents (1859-1909),Indian Cents1903 1C PF,NGC Universal ID: 22AS,Philadelphia,1790
+Pennies,Indian Cents (1859-1909),Indian Cents1902 1C PF,NGC Universal ID: 22AR,Philadelphia,2018
+Pennies,Indian Cents (1859-1909),Indian Cents1898 1C PF,NGC Universal ID: 22AL,Philadelphia,1795
+Pennies,Indian Cents (1859-1909),Indian Cents1900 1C PF,NGC Universal ID: 22AN,Philadelphia,2262
+Pennies,Indian Cents (1859-1909),Indian Cents1901 1C PF,NGC Universal ID: 22AP,Philadelphia,1985
+Pennies,Indian Cents (1859-1909),Indian Cents1899 1C PF,NGC Universal ID: 22AM,Philadelphia,2031
+Pennies,Indian Cents (1859-1909),Indian Cents1894 1C PF,NGC Universal ID: 22AG,Philadelphia,2632
+Pennies,Indian Cents (1859-1909),Indian Cents1895 1C PF,NGC Universal ID: 22AH,Philadelphia,2062
+Pennies,Indian Cents (1859-1909),Indian Cents1893 1C PF,NGC Universal ID: 22AF,Philadelphia,2195
+Pennies,Indian Cents (1859-1909),Indian Cents1897 1C PF,NGC Universal ID: 22AK,Philadelphia,1938
+Pennies,Indian Cents (1859-1909),Indian Cents1896 1C PF,NGC Universal ID: 22AJ,Philadelphia,1862
+Pennies,Indian Cents (1859-1909),Indian Cents1892 1C PF,NGC Universal ID: 22AE,Philadelphia,2745
+Pennies,Indian Cents (1859-1909),Indian Cents1890 1C PF,NGC Universal ID: 22AC,Philadelphia,2740
+Pennies,Indian Cents (1859-1909),Indian Cents1891 1C PF,NGC Universal ID: 22AD,Philadelphia,2350
+Pennies,Indian Cents (1859-1909),Indian Cents1888 1C PF,NGC Universal ID: 22AA,Philadelphia,4582
+Pennies,Indian Cents (1859-1909),Indian Cents1889 1C PF,NGC Universal ID: 2732,Philadelphia,3336
+Pennies,Indian Cents (1859-1909),Indian Cents1887 1C PF,NGC Universal ID: 22A9,Philadelphia,2960
+Pennies,Indian Cents (1859-1909),Indian Cents1886 TYPE 2 1C PF,NGC Universal ID: 22A8,Philadelphia,4290
+Pennies,Indian Cents (1859-1909),Indian Cents1886 1C PF,NGC Universal ID: 272Z,Philadelphia,4290
+Pennies,Indian Cents (1859-1909),Indian Cents1886 TYPE 1 1C PF,NGC Universal ID: 22A7,Philadelphia,4290
+Pennies,Indian Cents (1859-1909),Indian Cents1885 1C PF,NGC Universal ID: 22A6,Philadelphia,3790
+Pennies,Indian Cents (1859-1909),Indian Cents1884 1C PF,NGC Universal ID: 22A5,Philadelphia,3942
+Pennies,Indian Cents (1859-1909),Indian Cents1883 1C PF,NGC Universal ID: 22A4,Philadelphia,6609
+Pennies,Indian Cents (1859-1909),Indian Cents1882 1C PF,NGC Universal ID: 22A3,Philadelphia,3100
+Pennies,Indian Cents (1859-1909),Indian Cents1881 1C PF,NGC Universal ID: 22A2,Philadelphia,3575
+Pennies,Indian Cents (1859-1909),Indian Cents1880 1C PF,NGC Universal ID: 229Z,Philadelphia,3955
+Pennies,Indian Cents (1859-1909),Indian Cents1879 1C PF,NGC Universal ID: 229Y,Philadelphia,3200
+Pennies,Indian Cents (1859-1909),Indian Cents1878 1C PF,NGC Universal ID: 229X,Philadelphia,2350
+Pennies,Indian Cents (1859-1909),Indian Cents1877 1C PF,NGC Universal ID: 229W,Philadelphia,900
+Pennies,Indian Cents (1859-1909),Indian Cents1876 1C PF,NGC Universal ID: 229V,Philadelphia,1150
+Pennies,Indian Cents (1859-1909),Indian Cents1875 1C PF,NGC Universal ID: 229U,Philadelphia,700
+Pennies,Indian Cents (1859-1909),Indian Cents1873 CLOSED 3 1C PF,NGC Universal ID: 229S,Philadelphia,1100
+Pennies,Indian Cents (1859-1909),Indian Cents1872 1C PF,NGC Universal ID: 229R,Philadelphia,950
+Pennies,Indian Cents (1859-1909),Indian Cents1874 1C PF,NGC Universal ID: 229T,Philadelphia,700
+Pennies,Indian Cents (1859-1909),Indian Cents1871 1C PF,NGC Universal ID: 229P,Philadelphia,960
+Pennies,Indian Cents (1859-1909),Indian Cents1870 1C PF,NGC Universal ID: 229N,Philadelphia,1000
+Pennies,Indian Cents (1859-1909),Indian Cents1867 1C PF,NGC Universal ID: 229K,Philadelphia,625
+Pennies,Indian Cents (1859-1909),Indian Cents1869 1C PF,NGC Universal ID: 229M,Philadelphia,600
+Pennies,Indian Cents (1859-1909),Indian Cents1868 1C PF,NGC Universal ID: 229L,Philadelphia,600
+Pennies,Indian Cents (1859-1909),Indian Cents1866 1C PF,NGC Universal ID: 229J,Philadelphia,725
+Pennies,Indian Cents (1859-1909),Indian Cents1865 1C PF,NGC Universal ID: 229H,Philadelphia,500
+Pennies,Indian Cents (1859-1909),Indian Cents1863 1C PF,NGC Universal ID: 229D,Philadelphia,460
+Pennies,Indian Cents (1859-1909),Indian Cents1864 L BRONZE 1C PF,NGC Universal ID: 229G,Philadelphia,20
+Pennies,Indian Cents (1859-1909),Indian Cents1864 COPPER NICKEL 1C PF,NGC Universal ID: 229E,Philadelphia,370
+Pennies,Indian Cents (1859-1909),Indian Cents1862 1C PF,NGC Universal ID: 229C,Philadelphia,550
+Pennies,Indian Cents (1859-1909),Indian Cents1864 BRONZE 1C PF,NGC Universal ID: 229F,Philadelphia,170
+Pennies,Indian Cents (1859-1909),Indian Cents1861 1C PF,NGC Universal ID: 229B,Philadelphia,1000
+Pennies,Indian Cents (1859-1909),Indian Cents1860 1C PF,NGC Universal ID: 229A,Philadelphia,1000
+Pennies,Indian Cents (1859-1909),Indian Cents1859 1C PF,NGC Universal ID: 2299,Philadelphia,800
+Pennies,Indian Cents (1859-1909),Indian Cents1909 INDIAN 1C MS,NGC Universal ID: 2297,Philadelphia,14368470
+Pennies,Indian Cents (1859-1909),Indian Cents1909 S INDIAN 1C MS,NGC Universal ID: 2298,San Francisco,309000
+Pennies,Indian Cents (1859-1909),Indian Cents1908 1C MS,NGC Universal ID: 2295,Philadelphia,32326367
+Pennies,Indian Cents (1859-1909),Indian Cents1907 1C MS,NGC Universal ID: 2294,Philadelphia,108137143
+Pennies,Indian Cents (1859-1909),Indian Cents1908 S 1C MS,NGC Universal ID: 2296,San Francisco,1115000
+Pennies,Indian Cents (1859-1909),Indian Cents1906 1C MS,NGC Universal ID: 2293,Philadelphia,96020530
+Pennies,Indian Cents (1859-1909),Indian Cents1905 1C MS,NGC Universal ID: 2292,Philadelphia,80717011
+Pennies,Indian Cents (1859-1909),Indian Cents1904 1C MS,NGC Universal ID: 228Z,Philadelphia,61326198
+Pennies,Indian Cents (1859-1909),Indian Cents1902 1C MS,NGC Universal ID: 228X,Philadelphia,87374704
+Pennies,Indian Cents (1859-1909),Indian Cents1900 1C MS,NGC Universal ID: 228V,Philadelphia,66831502
+Pennies,Indian Cents (1859-1909),Indian Cents1903 1C MS,NGC Universal ID: 228Y,Philadelphia,85092703
+Pennies,Indian Cents (1859-1909),Indian Cents1901 1C MS,NGC Universal ID: 228W,Philadelphia,79609158
+Pennies,Indian Cents (1859-1909),Indian Cents1899 1C MS,NGC Universal ID: 228U,Philadelphia,53598000
+Pennies,Indian Cents (1859-1909),Indian Cents1897 1C MS,NGC Universal ID: 228S,Philadelphia,50464392
+Pennies,Indian Cents (1859-1909),Indian Cents1898 1C MS,NGC Universal ID: 228T,Philadelphia,49821284
+Pennies,Indian Cents (1859-1909),Indian Cents1896 1C MS,NGC Universal ID: 228R,Philadelphia,39055431
+Pennies,Indian Cents (1859-1909),Indian Cents1894 1C MS,NGC Universal ID: 228N,Philadelphia,16749500
+Pennies,Indian Cents (1859-1909),Indian Cents1892 1C MS,NGC Universal ID: 228L,Philadelphia,37647087
+Pennies,Indian Cents (1859-1909),Indian Cents1895 1C MS,NGC Universal ID: 228P,Philadelphia,38341574
+Pennies,Indian Cents (1859-1909),Indian Cents1893 1C MS,NGC Universal ID: 228M,Philadelphia,46640000
+Pennies,Indian Cents (1859-1909),Indian Cents1890 1C MS,NGC Universal ID: 228J,Philadelphia,57180114
+Pennies,Indian Cents (1859-1909),Indian Cents1891 1C MS,NGC Universal ID: 228K,Philadelphia,47070000
+Pennies,Indian Cents (1859-1909),Indian Cents1887 1C MS,NGC Universal ID: 228F,Philadelphia,45223523
+Pennies,Indian Cents (1859-1909),Indian Cents1889 1C MS,NGC Universal ID: 228H,Philadelphia,48866025
+Pennies,Indian Cents (1859-1909),Indian Cents1888 1C MS,NGC Universal ID: 228G,Philadelphia,37489832
+Pennies,Indian Cents (1859-1909),Indian Cents1886 TYPE 2 1C MS,NGC Universal ID: 228E,Philadelphia,17650000
+Pennies,Indian Cents (1859-1909),Indian Cents1886 TYPE 1 1C MS,NGC Universal ID: 228D,Philadelphia,17650000
+Pennies,Indian Cents (1859-1909),Indian Cents1886 1C MS,NGC Universal ID: 272Y,Philadelphia,17650000
+Pennies,Indian Cents (1859-1909),Indian Cents1885 1C MS,NGC Universal ID: 228C,Philadelphia,11761594
+Pennies,Indian Cents (1859-1909),Indian Cents1884 1C MS,NGC Universal ID: 228B,Philadelphia,23257800
+Pennies,Indian Cents (1859-1909),Indian Cents1883 1C MS,NGC Universal ID: 228A,Philadelphia,45591500
+Pennies,Indian Cents (1859-1909),Indian Cents1882 1C MS,NGC Universal ID: 2289,Philadelphia,38578000
+Pennies,Indian Cents (1859-1909),Indian Cents1881 1C MS,NGC Universal ID: 2288,Philadelphia,39208000
+Pennies,Indian Cents (1859-1909),Indian Cents1878 1C MS,NGC Universal ID: 2285,Philadelphia,5797500
+Pennies,Indian Cents (1859-1909),Indian Cents1880 1C MS,NGC Universal ID: 2287,Philadelphia,38961000
+Pennies,Indian Cents (1859-1909),Indian Cents1879 1C MS,NGC Universal ID: 2286,Philadelphia,16228000
+Pennies,Indian Cents (1859-1909),Indian Cents1877 1C MS,NGC Universal ID: 2284,Philadelphia,852500
+Pennies,Indian Cents (1859-1909),Indian Cents1874 1C MS,NGC Universal ID: 227Z,Philadelphia,14187500
+Pennies,Indian Cents (1859-1909),Indian Cents1876 1C MS,NGC Universal ID: 2283,Philadelphia,7944000
+Pennies,Indian Cents (1859-1909),Indian Cents1875 1C MS,NGC Universal ID: 2282,Philadelphia,13528000
+Pennies,Indian Cents (1859-1909),Indian Cents1873 CLOSED 3 1C MS,NGC Universal ID: 227X,Philadelphia,11676500
+Pennies,Indian Cents (1859-1909),Indian Cents1873 OPEN 3 1C MS,NGC Universal ID: 227Y,Philadelphia,11676500
+Pennies,Indian Cents (1859-1909),Indian Cents1871 1C MS,NGC Universal ID: 227V,Philadelphia,3929500
+Pennies,Indian Cents (1859-1909),Indian Cents1872 1C MS,NGC Universal ID: 227W,Philadelphia,4042000
+Pennies,Indian Cents (1859-1909),Indian Cents1873 1C MS,NGC Universal ID: 272X,Philadelphia,11676500
+Pennies,Indian Cents (1859-1909),Indian Cents1869 1C MS,NGC Universal ID: 227T,Philadelphia,6420000
+Pennies,Indian Cents (1859-1909),Indian Cents1870 1C MS,NGC Universal ID: 227U,Philadelphia,5275000
+Pennies,Indian Cents (1859-1909),Indian Cents1867 1C MS,NGC Universal ID: 227R,Philadelphia,9821000
+Pennies,Indian Cents (1859-1909),Indian Cents1868 1C MS,NGC Universal ID: 227S,Philadelphia,10266500
+Pennies,Indian Cents (1859-1909),Indian Cents1866 1C MS,NGC Universal ID: 227P,Philadelphia,9826500
+Pennies,Indian Cents (1859-1909),Indian Cents1865 1C MS,NGC Universal ID: 227N,Philadelphia,35429286
+Pennies,Indian Cents (1859-1909),Indian Cents1864 L BRONZE 1C MS,NGC Universal ID: 227M,Philadelphia,13740000
+Pennies,Indian Cents (1859-1909),Indian Cents1864 1C MS,NGC Universal ID: C82P,undefined,0
+Pennies,Indian Cents (1859-1909),Indian Cents1864 COPPER NICKEL 1C MS,NGC Universal ID: 227K,Philadelphia,13740000
+Pennies,Indian Cents (1859-1909),Indian Cents1864 BRONZE 1C MS,NGC Universal ID: 227L,Philadelphia,39233714
+Pennies,Indian Cents (1859-1909),Indian Cents1863 1C MS,NGC Universal ID: 227J,Philadelphia,49840000
+Pennies,Indian Cents (1859-1909),Indian Cents1862 1C MS,NGC Universal ID: 227H,Philadelphia,28075000

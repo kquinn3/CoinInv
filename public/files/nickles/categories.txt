@@ -1,0 +1,4 @@
+Nickels,Shield Five Cents (1866-1883)
+Nickels,Liberty Head Five Cents (1883-1913)
+Nickels,Buffalo Five Cents (1913-1938)
+Nickels,Jefferson Five Cents (1938-Date)

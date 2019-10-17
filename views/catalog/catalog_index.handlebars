@@ -1,0 +1,59 @@
+<div style="height: 60px"></div>
+<section id="catalog-page" class="bg-light py-5">
+  <div class="container">
+    <h1 class="text-center">Coin Catalog Categories</h1>
+    <p class="text-center">Click on the coin category to see a listing of the coins. Create an account and add coins to
+      your collection.</p>
+    <div class="row my-5">
+      <div class="col-lg-5 offset-1">
+        <img class="mb-3 rounded-circle" src="img/Pennies.jpg" alt="Penny">
+        <br>
+        {{#each Penny}}
+        <h6><a href="/catalog/coins:{{_id}}">{{{category}}}</a></h6>
+        {{/each}}
+      </div>
+      <div class="col-lg-5 offset-1">
+        <img class="mb-3 rounded-circle" src="img/Nickels.jpg" alt="Nickel">
+        <br>
+        {{#each Nickel}}
+        <h6><a href="/catalog/coins:{{_id}}">{{{category}}}</a></h6>
+        {{/each}}
+      </div>
+    </div>
+
+    <div class="row my-5">
+      <div class="col-lg-5 offset-1">
+        <img class="mb-3 rounded-circle" src="img/Dimes.jpg" alt="Dime">
+        <br>
+        {{#each Dime}}
+        <h6><a href="/catalog/coins:{{_id}}">{{{category}}}</a></h6>
+        {{/each}}
+      </div>
+      <div class="col-lg-5 offset-1">
+        <img class="mb-3 rounded-circle" src="img/Quarters.jpg" alt="Quarter">
+        <br>
+        {{#each Quarter}}
+        <h6><a href="/catalog/coins:{{_id}}">{{{category}}}</a></h6>
+        {{/each}}
+      </div>
+    </div>
+
+    <div class="row my-5">
+      <div class="col-lg-5 offset-1">
+        <img class="mb-3 rounded-circle" src="img/HalfDollars.jpg" alt="Half Dollar">
+        <br>
+        {{#each HalfDollar}}
+        <h6><a href="/catalog/coins:{{_id}}">{{{category}}}</a></h6>
+        {{/each}}
+      </div>
+      <div class="col-lg-5 offset-1">
+        <img class="mb-3 rounded-circle" src="img/Dollars.jpg" alt="Dollar">
+        <br>
+        {{#each Dollar}}
+        <h6><a href="/catalog/coins:{{_id}}">{{{category}}}</a></h6>
+        {{/each}}
+      </div>
+    </div>
+
+  </div>
+</section>

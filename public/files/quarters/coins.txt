@@ -1,0 +1,1101 @@
+Quarters,Early Quarters (1796-1838),Early Quarters1796 25C MS,NGC Universal ID: 23RA,Philadelphia,6146
+Quarters,Barber Quarters (1892-1916),Barber Quarters1892 25C MS,NGC Universal ID: 23XT,Philadelphia,8236000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1915 25C PF,NGC Universal ID: 242X,Philadelphia,450
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1916 STANDING 25C MS,NGC Universal ID: 242Y,Philadelphia,52000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1838 SEATED 25C MS,NGC Universal ID: 23SE,Philadelphia,466000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1932 25C MS,NGC Universal ID: 2447,Philadelphia,5404000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1930 S 25C MS,NGC Universal ID: 2446,San Francisco,1556000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1998 S SILVER 25C PF,NGC Universal ID: 27KD,San Francisco,878792
+Quarters,Washington Quarters (1932-1998),Washington Quarters1997 S SILVER 25C PF,NGC Universal ID: 27KB,San Francisco,741678
+Quarters,Washington Quarters (1932-1998),Washington Quarters1998 S CLAD 25C PF,NGC Universal ID: 27KC,San Francisco,2086507
+Quarters,Washington Quarters (1932-1998),Washington Quarters1997 S CLAD 25C PF,NGC Universal ID: 27KA,San Francisco,2055000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1996 S SILVER 25C PF,NGC Universal ID: 27K9,San Francisco,775021
+Quarters,Washington Quarters (1932-1998),Washington Quarters1996 S CLAD 25C PF,NGC Universal ID: 27K8,San Francisco,1750244
+Quarters,Washington Quarters (1932-1998),Washington Quarters1995 S SILVER 25C PF,NGC Universal ID: 27K7,San Francisco,679985
+Quarters,Washington Quarters (1932-1998),Washington Quarters1995 S CLAD 25C PF,NGC Universal ID: 27K6,San Francisco,2117496
+Quarters,Washington Quarters (1932-1998),Washington Quarters1994 S CLAD 25C PF,NGC Universal ID: 27K4,San Francisco,2484594
+Quarters,Washington Quarters (1932-1998),Washington Quarters1994 S SILVER 25C PF,NGC Universal ID: 27K5,San Francisco,785329
+Quarters,Washington Quarters (1932-1998),Washington Quarters1993 S CLAD 25C PF,NGC Universal ID: 27K2,San Francisco,2633439
+Quarters,Washington Quarters (1932-1998),Washington Quarters1993 S SILVER 25C PF,NGC Universal ID: 27K3,San Francisco,761353
+Quarters,Washington Quarters (1932-1998),Washington Quarters1992 S SILVER 25C PF,NGC Universal ID: 27JZ,San Francisco,1317579
+Quarters,Washington Quarters (1932-1998),Washington Quarters1991 S 25C PF,NGC Universal ID: 27JX,San Francisco,2867787
+Quarters,Washington Quarters (1932-1998),Washington Quarters1992 S CLAD 25C PF,NGC Universal ID: 27JY,San Francisco,2858981
+Quarters,Washington Quarters (1932-1998),Washington Quarters1989 S 25C PF,NGC Universal ID: 27JW,San Francisco,3220194
+Quarters,Washington Quarters (1932-1998),Washington Quarters1990 S 25C PF,NGC Universal ID: 249C,San Francisco,3299559
+Quarters,Washington Quarters (1932-1998),Washington Quarters1988 S 25C PF,NGC Universal ID: 27JV,San Francisco,3262948
+Quarters,Washington Quarters (1932-1998),Washington Quarters1986 S 25C PF,NGC Universal ID: 27JT,San Francisco,3010497
+Quarters,Washington Quarters (1932-1998),Washington Quarters1987 S 25C PF,NGC Universal ID: 27JU,San Francisco,4227728
+Quarters,Washington Quarters (1932-1998),Washington Quarters1985 S 25C PF,NGC Universal ID: 27JS,San Francisco,3362821
+Quarters,Washington Quarters (1932-1998),Washington Quarters1983 S 25C PF,NGC Universal ID: 27JP,San Francisco,3279126
+Quarters,Washington Quarters (1932-1998),Washington Quarters1984 S 25C PF,NGC Universal ID: 27JR,San Francisco,3065110
+Quarters,Washington Quarters (1932-1998),Washington Quarters1982 S 25C PF,NGC Universal ID: 27JN,San Francisco,3857479
+Quarters,Washington Quarters (1932-1998),Washington Quarters1981 S TYPE 1 25C PF,NGC Universal ID: 249A,San Francisco,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1981 S 25C PF,NGC Universal ID: 27JM,San Francisco,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1981 S TYPE 2 25C PF,NGC Universal ID: 249B,San Francisco,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1980 S 25C PF,NGC Universal ID: 27JL,San Francisco,3554806
+Quarters,Washington Quarters (1932-1998),Washington Quarters1979 S TYPE 2 25C PF,NGC Universal ID: 2499,San Francisco,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1979 S 25C PF,NGC Universal ID: 27JK,San Francisco,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1978 S 25C PF,NGC Universal ID: 27JJ,San Francisco,3127781
+Quarters,Washington Quarters (1932-1998),Washington Quarters1979 S TYPE 1 25C PF,NGC Universal ID: 2498,San Francisco,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1977 S 25C PF,NGC Universal ID: 27JH,San Francisco,3251152
+Quarters,Washington Quarters (1932-1998),Washington Quarters1776-1976 S SILVER 25C PF,NGC Universal ID: B768,San Francisco,4000000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1974 S 25C PF,NGC Universal ID: 27JE,San Francisco,2612568
+Quarters,Washington Quarters (1932-1998),Washington Quarters1973 S 25C PF,NGC Universal ID: 27JD,San Francisco,2760339
+Quarters,Washington Quarters (1932-1998),Washington Quarters1776-1976 S CLAD 25C PF,NGC Universal ID: B767,San Francisco,7059099
+Quarters,Washington Quarters (1932-1998),Washington Quarters1972 S 25C PF,NGC Universal ID: 27JC,San Francisco,3260996
+Quarters,Washington Quarters (1932-1998),Washington Quarters1971 S 25C PF,NGC Universal ID: 27JB,San Francisco,3220733
+Quarters,Washington Quarters (1932-1998),Washington Quarters1970 S 25C PF,NGC Universal ID: 2497,San Francisco,2632810
+Quarters,Washington Quarters (1932-1998),Washington Quarters1968 S 25C PF,NGC Universal ID: 2495,San Francisco,3041506
+Quarters,Washington Quarters (1932-1998),Washington Quarters1969 S 25C PF,NGC Universal ID: 2496,San Francisco,2934631
+Quarters,Washington Quarters (1932-1998),Washington Quarters1967 SMS 25C MS,NGC Universal ID: 2494,San Francisco,1863344
+Quarters,Washington Quarters (1932-1998),Washington Quarters1966 SMS 25C MS,NGC Universal ID: 27JA,San Francisco,2261583
+Quarters,Washington Quarters (1932-1998),Washington Quarters1965 SMS 25C MS,NGC Universal ID: 27J9,San Francisco,2360000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1964 25C PF,NGC Universal ID: 27J7,Philadelphia,3950762
+Quarters,Washington Quarters (1932-1998),Washington Quarters1964 25C SP,NGC Universal ID: 27J8,Philadelphia,0
+Quarters,Washington Quarters (1932-1998),Washington Quarters1963 25C PF,NGC Universal ID: 27J6,Philadelphia,3075645
+Quarters,Washington Quarters (1932-1998),Washington Quarters1962 25C PF,NGC Universal ID: 27J5,Philadelphia,3218019
+Quarters,Washington Quarters (1932-1998),Washington Quarters1961 25C PF,NGC Universal ID: 2493,Philadelphia,3028244
+Quarters,Washington Quarters (1932-1998),Washington Quarters1960 25C PF,NGC Universal ID: 2492,Philadelphia,1691602
+Quarters,Washington Quarters (1932-1998),Washington Quarters1959 25C PF,NGC Universal ID: 248Z,Philadelphia,1149291
+Quarters,Washington Quarters (1932-1998),Washington Quarters1958 25C PF,NGC Universal ID: 27J4,Philadelphia,875652
+Quarters,Washington Quarters (1932-1998),Washington Quarters1957 25C PF,NGC Universal ID: 27J3,Philadelphia,1247952
+Quarters,Washington Quarters (1932-1998),Washington Quarters1956 25C PF,NGC Universal ID: 27J2,Philadelphia,669384
+Quarters,Washington Quarters (1932-1998),Washington Quarters1955 25C PF,NGC Universal ID: 27HZ,Philadelphia,378200
+Quarters,Washington Quarters (1932-1998),Washington Quarters1954 25C PF,NGC Universal ID: 27HY,Philadelphia,233300
+Quarters,Washington Quarters (1932-1998),Washington Quarters1952 25C PF,NGC Universal ID: 248X,Philadelphia,81980
+Quarters,Washington Quarters (1932-1998),Washington Quarters1953 25C PF,NGC Universal ID: 248Y,Philadelphia,128800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1951 25C PF,NGC Universal ID: 27HX,Philadelphia,57500
+Quarters,Washington Quarters (1932-1998),Washington Quarters1942 25C PF,NGC Universal ID: 27HV,Philadelphia,21123
+Quarters,Washington Quarters (1932-1998),Washington Quarters1950 25C PF,NGC Universal ID: 27HW,Philadelphia,51386
+Quarters,Washington Quarters (1932-1998),Washington Quarters1940 25C PF,NGC Universal ID: 27HT,Philadelphia,11246
+Quarters,Washington Quarters (1932-1998),Washington Quarters1941 25C PF,NGC Universal ID: 27HU,Philadelphia,15287
+Quarters,Washington Quarters (1932-1998),Washington Quarters1939 25C PF,NGC Universal ID: 27HS,Philadelphia,8795
+Quarters,Washington Quarters (1932-1998),Washington Quarters1938 25C PF,NGC Universal ID: 27HR,Philadelphia,8045
+Quarters,Washington Quarters (1932-1998),Washington Quarters1965 SMS 25C MS,NGC Universal ID: 27J9,San Francisco,2360000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1937 25C PF,NGC Universal ID: 27HP,Philadelphia,5542
+Quarters,Washington Quarters (1932-1998),Washington Quarters1998 D 25C MS,NGC Universal ID: 248W,Denver,821000000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1936 25C PF,NGC Universal ID: 27HN,Philadelphia,3837
+Quarters,Washington Quarters (1932-1998),Washington Quarters1998 P 25C MS,NGC Universal ID: 248V,Philadelphia,896268000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1996 P 25C MS,NGC Universal ID: 248R,Philadelphia,925040000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1997 P 25C MS,NGC Universal ID: 248T,Philadelphia,595740000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1997 D 25C MS,NGC Universal ID: 248U,Denver,599680000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1996 D 25C MS,NGC Universal ID: 248S,Denver,906868000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1995 D 25C MS,NGC Universal ID: 248P,Denver,1103216000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1995 P 25C MS,NGC Universal ID: 248N,Philadelphia,1004336000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1994 D 25C MS,NGC Universal ID: 248M,Denver,880034110
+Quarters,Washington Quarters (1932-1998),Washington Quarters1994 P 25C MS,NGC Universal ID: 248L,Philadelphia,825600000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1993 D 25C MS,NGC Universal ID: 248K,Denver,645476128
+Quarters,Washington Quarters (1932-1998),Washington Quarters1992 P 25C MS,NGC Universal ID: 248G,Philadelphia,384764000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1993 P 25C MS,NGC Universal ID: 248J,Philadelphia,639276000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1992 D 25C MS,NGC Universal ID: 248H,Denver,389777107
+Quarters,Washington Quarters (1932-1998),Washington Quarters1991 D 25C MS,NGC Universal ID: 248F,Denver,630966693
+Quarters,Washington Quarters (1932-1998),Washington Quarters1991 P 25C MS,NGC Universal ID: 248E,Philadelphia,570968000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1990 D 25C MS,NGC Universal ID: 248D,Denver,927638181
+Quarters,Washington Quarters (1932-1998),Washington Quarters1989 D 25C MS,NGC Universal ID: 248B,Denver,896535597
+Quarters,Washington Quarters (1932-1998),Washington Quarters1989 P 25C MS,NGC Universal ID: 248A,Philadelphia,512868000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1990 P 25C MS,NGC Universal ID: 248C,Philadelphia,613792000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1988 P 25C MS,NGC Universal ID: 2488,Philadelphia,562052000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1988 D 25C MS,NGC Universal ID: 2489,Denver,596810688
+Quarters,Washington Quarters (1932-1998),Washington Quarters1987 D 25C MS,NGC Universal ID: 2487,Denver,655594696
+Quarters,Washington Quarters (1932-1998),Washington Quarters1987 P 25C MS,NGC Universal ID: 2486,Philadelphia,582499481
+Quarters,Washington Quarters (1932-1998),Washington Quarters1986 D 25C MS,NGC Universal ID: 2485,Denver,504298660
+Quarters,Washington Quarters (1932-1998),Washington Quarters1986 P 25C MS,NGC Universal ID: 2484,Philadelphia,551199333
+Quarters,Washington Quarters (1932-1998),Washington Quarters1985 P 25C MS,NGC Universal ID: 2482,Philadelphia,775818962
+Quarters,Washington Quarters (1932-1998),Washington Quarters1985 D 25C MS,NGC Universal ID: 2483,Denver,519962888
+Quarters,Washington Quarters (1932-1998),Washington Quarters1984 D 25C MS,NGC Universal ID: 247Z,Denver,546483064
+Quarters,Washington Quarters (1932-1998),Washington Quarters1984 P 25C MS,NGC Universal ID: 247Y,Philadelphia,676545000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1983 D 25C MS,NGC Universal ID: 247X,Denver,617806446
+Quarters,Washington Quarters (1932-1998),Washington Quarters1983 P 25C MS,NGC Universal ID: 247W,Philadelphia,673535000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1982 P 25C MS,NGC Universal ID: 247U,Philadelphia,500931000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1982 D 25C MS,NGC Universal ID: 247V,Denver,480042788
+Quarters,Washington Quarters (1932-1998),Washington Quarters1981 P 25C MS,NGC Universal ID: 247S,Philadelphia,601716000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1980 D 25C MS,NGC Universal ID: 247R,Denver,518327487
+Quarters,Washington Quarters (1932-1998),Washington Quarters1980 P 25C MS,NGC Universal ID: 247P,Philadelphia,635832000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1979 D 25C MS,NGC Universal ID: 247N,Denver,489789780
+Quarters,Washington Quarters (1932-1998),Washington Quarters1981 D 25C MS,NGC Universal ID: 247T,Denver,575722833
+Quarters,Washington Quarters (1932-1998),Washington Quarters1978 25C MS,NGC Universal ID: 247L,Philadelphia,521452000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1978 D 25C MS,NGC Universal ID: 247M,Denver,287373152
+Quarters,Washington Quarters (1932-1998),Washington Quarters1979 25C MS,NGC Universal ID: 27HM,Philadelphia,515708000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1977 D 25C MS,NGC Universal ID: 247K,Denver,256524978
+Quarters,Washington Quarters (1932-1998),Washington Quarters1977 25C MS,NGC Universal ID: 247J,Philadelphia,468556000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1776-1976 S SILVER 25C MS,NGC Universal ID: B765,San Francisco,11000000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1974 D 25C MS,NGC Universal ID: 247E,Denver,353160300
+Quarters,Washington Quarters (1932-1998),Washington Quarters1776-1976 25C MS,NGC Universal ID: B75Z,Philadelphia,809784016
+Quarters,Washington Quarters (1932-1998),Washington Quarters1776-1976 D 25C MS,NGC Universal ID: B764,Denver,860118839
+Quarters,Washington Quarters (1932-1998),Washington Quarters1974 25C MS,NGC Universal ID: 247D,Philadelphia,801456000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1973 D 25C MS,NGC Universal ID: 247C,Denver,232977400
+Quarters,Washington Quarters (1932-1998),Washington Quarters1973 25C MS,NGC Universal ID: 247B,Philadelphia,346924000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1972 25C MS,NGC Universal ID: 2479,Philadelphia,215048000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1972 D 25C MS,NGC Universal ID: 247A,Denver,311067732
+Quarters,Washington Quarters (1932-1998),Washington Quarters1971 D 25C MS,NGC Universal ID: 2478,Denver,258634428
+Quarters,Washington Quarters (1932-1998),Washington Quarters1971 25C MS,NGC Universal ID: 2477,Philadelphia,109284000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1970 D 25C MS,NGC Universal ID: 2476,Denver,417341364
+Quarters,Washington Quarters (1932-1998),Washington Quarters1969 D 25C MS,NGC Universal ID: 2474,Denver,114372000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1970 25C MS,NGC Universal ID: 2475,Philadelphia,136420000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1969 25C MS,NGC Universal ID: 2473,Philadelphia,176212000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1968 D 25C MS,NGC Universal ID: 2472,Denver,101534000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1968 25C MS,NGC Universal ID: 246Z,Philadelphia,220731500
+Quarters,Washington Quarters (1932-1998),Washington Quarters1966 25C MS,NGC Universal ID: 246X,Philadelphia,821101500
+Quarters,Washington Quarters (1932-1998),Washington Quarters1967 25C MS,NGC Universal ID: 246Y,Philadelphia,1524031848
+Quarters,Washington Quarters (1932-1998),Washington Quarters1965 25C MS,NGC Universal ID: 246W,Philadelphia,1819717540
+Quarters,Washington Quarters (1932-1998),Washington Quarters1964 D 25C MS,NGC Universal ID: 246V,Denver,704135528
+Quarters,Washington Quarters (1932-1998),Washington Quarters1964 25C MS,NGC Universal ID: 246U,Philadelphia,560390585
+Quarters,Washington Quarters (1932-1998),Washington Quarters1962 D 25C MS,NGC Universal ID: 246R,Denver,127554756
+Quarters,Washington Quarters (1932-1998),Washington Quarters1963 D 25C MS,NGC Universal ID: 246T,Denver,135288184
+Quarters,Washington Quarters (1932-1998),Washington Quarters1963 25C MS,NGC Universal ID: 246S,Philadelphia,74316000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1961 D 25C MS,NGC Universal ID: 246N,Denver,83656928
+Quarters,Washington Quarters (1932-1998),Washington Quarters1962 25C MS,NGC Universal ID: 246P,Philadelphia,36156000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1961 25C MS,NGC Universal ID: 246M,Philadelphia,37036000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1960 D 25C MS,NGC Universal ID: 246L,Denver,63000324
+Quarters,Washington Quarters (1932-1998),Washington Quarters1960 25C MS,NGC Universal ID: 246K,Philadelphia,29164000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1959 25C MS,NGC Universal ID: 246H,Philadelphia,24384000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1959 D 25C MS,NGC Universal ID: 246J,Denver,62054232
+Quarters,Washington Quarters (1932-1998),Washington Quarters1958 D 25C MS,NGC Universal ID: 246G,Denver,78124900
+Quarters,Washington Quarters (1932-1998),Washington Quarters1957 D 25C MS,NGC Universal ID: 246E,Denver,77924160
+Quarters,Washington Quarters (1932-1998),Washington Quarters1958 25C MS,NGC Universal ID: 246F,Philadelphia,6360000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1956 D 25C MS,NGC Universal ID: 246C,Denver,32334500
+Quarters,Washington Quarters (1932-1998),Washington Quarters1957 25C MS,NGC Universal ID: 246D,Philadelphia,46532000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1956 25C MS,NGC Universal ID: 246B,Philadelphia,44144000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1955 D 25C MS,NGC Universal ID: 246A,Denver,3182400
+Quarters,Washington Quarters (1932-1998),Washington Quarters1955 25C MS,NGC Universal ID: 2469,Philadelphia,18180181
+Quarters,Washington Quarters (1932-1998),Washington Quarters1954 S 25C MS,NGC Universal ID: 22FU,San Francisco,11834722
+Quarters,Washington Quarters (1932-1998),Washington Quarters1954 D 25C MS,NGC Universal ID: 2468,Denver,42305500
+Quarters,Washington Quarters (1932-1998),Washington Quarters1954 25C MS,NGC Universal ID: 2467,Philadelphia,54412203
+Quarters,Washington Quarters (1932-1998),Washington Quarters1953 S 25C MS,NGC Universal ID: 2466,San Francisco,14016000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1953 D 25C MS,NGC Universal ID: 2465,Denver,56112400
+Quarters,Washington Quarters (1932-1998),Washington Quarters1953 25C MS,NGC Universal ID: 2464,Philadelphia,18536120
+Quarters,Washington Quarters (1932-1998),Washington Quarters1952 S 25C MS,NGC Universal ID: 2463,San Francisco,13707800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1952 D 25C MS,NGC Universal ID: 2462,Denver,49795200
+Quarters,Washington Quarters (1932-1998),Washington Quarters1951 S 25C MS,NGC Universal ID: 245Y,San Francisco,9048000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1951 D 25C MS,NGC Universal ID: 245X,Denver,35354800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1952 25C MS,NGC Universal ID: 245Z,Philadelphia,38780093
+Quarters,Washington Quarters (1932-1998),Washington Quarters1951 25C MS,NGC Universal ID: 245W,Philadelphia,43448102
+Quarters,Washington Quarters (1932-1998),Washington Quarters1950 S 25C MS,NGC Universal ID: 245V,San Francisco,10284004
+Quarters,Washington Quarters (1932-1998),Washington Quarters1950 25C MS,NGC Universal ID: 245S,Philadelphia,24920126
+Quarters,Washington Quarters (1932-1998),Washington Quarters1949 D 25C MS,NGC Universal ID: 245R,Denver,10068400
+Quarters,Washington Quarters (1932-1998),Washington Quarters1949 25C MS,NGC Universal ID: 245P,Philadelphia,9312000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1950 D 25C MS,NGC Universal ID: 245T,Denver,21075600
+Quarters,Washington Quarters (1932-1998),Washington Quarters1948 S 25C MS,NGC Universal ID: 245N,San Francisco,15960000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1947 D 25C MS,NGC Universal ID: 245J,Denver,15338400
+Quarters,Washington Quarters (1932-1998),Washington Quarters1948 D 25C MS,NGC Universal ID: 245M,Denver,16766800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1947 S 25C MS,NGC Universal ID: 245K,San Francisco,5532000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1948 25C MS,NGC Universal ID: 245L,Philadelphia,35196000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1947 25C MS,NGC Universal ID: 245H,Philadelphia,22556000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1946 D 25C MS,NGC Universal ID: 245F,Denver,9072800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1946 25C MS,NGC Universal ID: 245E,Philadelphia,53436000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1946 S 25C MS,NGC Universal ID: 245G,San Francisco,4204000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1945 S 25C MS,NGC Universal ID: 245D,San Francisco,17004001
+Quarters,Washington Quarters (1932-1998),Washington Quarters1945 D 25C MS,NGC Universal ID: 245C,Denver,12341600
+Quarters,Washington Quarters (1932-1998),Washington Quarters1944 D 25C MS,NGC Universal ID: 2459,Denver,14600800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1944 S 25C MS,NGC Universal ID: 245A,San Francisco,12560000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1944 25C MS,NGC Universal ID: 2458,Philadelphia,104956000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1945 25C MS,NGC Universal ID: 245B,Philadelphia,74372000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1943 S 25C MS,NGC Universal ID: 2457,San Francisco,21700000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1943 25C MS,NGC Universal ID: 2455,Philadelphia,99700000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1942 D 25C MS,NGC Universal ID: 2453,Denver,17487200
+Quarters,Washington Quarters (1932-1998),Washington Quarters1943 D 25C MS,NGC Universal ID: 2456,Denver,16095600
+Quarters,Washington Quarters (1932-1998),Washington Quarters1942 S 25C MS,NGC Universal ID: 2454,San Francisco,19384000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1942 25C MS,NGC Universal ID: 2452,Philadelphia,102096000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1941 25C MS,NGC Universal ID: 244X,Philadelphia,79032000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1940 S 25C MS,NGC Universal ID: 244W,San Francisco,8244000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1941 S 25C MS,NGC Universal ID: 244Z,San Francisco,16080000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1941 D 25C MS,NGC Universal ID: 244Y,Denver,16714800
+Quarters,Washington Quarters (1932-1998),Washington Quarters1940 D 25C MS,NGC Universal ID: 244V,Denver,2797600
+Quarters,Washington Quarters (1932-1998),Washington Quarters1940 25C MS,NGC Universal ID: 244U,Philadelphia,35704000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1939 25C MS,NGC Universal ID: 244R,Philadelphia,33540000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1939 S 25C MS,NGC Universal ID: 244T,San Francisco,2628000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1939 D 25C MS,NGC Universal ID: 244S,Denver,7092000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1938 25C MS,NGC Universal ID: 244N,Philadelphia,9472000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1938 S 25C MS,NGC Universal ID: 244P,San Francisco,2832000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1937 D 25C MS,NGC Universal ID: 244L,Denver,7189600
+Quarters,Washington Quarters (1932-1998),Washington Quarters1937 S 25C MS,NGC Universal ID: 244M,San Francisco,1652000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1937 25C MS,NGC Universal ID: 244K,Philadelphia,19696000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1936 S 25C MS,NGC Universal ID: 244J,San Francisco,3828000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1935 S 25C MS,NGC Universal ID: 244F,San Francisco,5660000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1936 D 25C MS,NGC Universal ID: 244H,Denver,5374000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1935 D 25C MS,NGC Universal ID: 244E,Denver,5780000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1936 25C MS,NGC Universal ID: 244G,Philadelphia,41300000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1935 25C MS,NGC Universal ID: 244D,Philadelphia,32484000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1932 S 25C MS,NGC Universal ID: 2449,San Francisco,408000
+Quarters,Washington Quarters (1932-1998),Washington Quarters1934 25C MS,NGC Universal ID: 244A,Philadelphia,31912052
+Quarters,Washington Quarters (1932-1998),Washington Quarters1934 D 25C MS,NGC Universal ID: 244C,Denver,3527200
+Quarters,Washington Quarters (1932-1998),Washington Quarters1932 D 25C MS,NGC Universal ID: 2448,Denver,436800
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1930 25C MS,NGC Universal ID: 2445,Philadelphia,5632000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1929 D 25C MS,NGC Universal ID: 2443,Denver,1358000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1929 S 25C MS,NGC Universal ID: 2444,San Francisco,1764000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1929 25C MS,NGC Universal ID: 2442,Philadelphia,11140000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1928 D 25C MS,NGC Universal ID: 243Y,Denver,1627600
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1928 S 25C MS,NGC Universal ID: 243Z,San Francisco,2644000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1927 S 25C MS,NGC Universal ID: 243W,San Francisco,396000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1928 25C MS,NGC Universal ID: 243X,Philadelphia,6336000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1927 D 25C MS,NGC Universal ID: 243V,Denver,976400
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1927 25C MS,NGC Universal ID: 243U,Philadelphia,11912000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1926 S 25C MS,NGC Universal ID: 243T,San Francisco,2700000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1926 D 25C MS,NGC Universal ID: 243S,Denver,1716000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1924 S 25C MS,NGC Universal ID: 243N,San Francisco,2860000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1925 25C MS,NGC Universal ID: 243P,Philadelphia,12280000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1924 D 25C MS,NGC Universal ID: 243M,Denver,3112000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1926 25C MS,NGC Universal ID: 243R,Philadelphia,11316000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1924 25C MS,NGC Universal ID: 243L,Philadelphia,10920000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1923 S 25C MS,NGC Universal ID: 243K,San Francisco,1360000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1920 S 25C MS,NGC Universal ID: 243G,San Francisco,6380000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1923 25C MS,NGC Universal ID: 243J,Philadelphia,9716000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1921 25C MS,NGC Universal ID: 243H,Philadelphia,1916000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1920 25C MS,NGC Universal ID: 243E,Philadelphia,27860000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1920 D 25C MS,NGC Universal ID: 243F,Denver,3586400
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1919 D 25C MS,NGC Universal ID: 243C,Denver,1944000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1919 S 25C MS,NGC Universal ID: 243D,San Francisco,1836000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1919 25C MS,NGC Universal ID: 243B,Philadelphia,11324000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1918 D 25C MS,NGC Universal ID: 2438,Denver,7380000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1918/7 S 25C MS,NGC Universal ID: 243A,San Francisco,0
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1918 25C MS,NGC Universal ID: 2437,Philadelphia,14240000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1918 S 25C MS,NGC Universal ID: 2439,San Francisco,11072000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1917 S TYPE 2 25C MS,NGC Universal ID: 2436,San Francisco,5522000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1917 D TYPE 1 25C MS,NGC Universal ID: 2432,Denver,1509200
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1917 S TYPE 1 25C MS,NGC Universal ID: 2433,San Francisco,1952000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1917 TYPE 2 25C MS,NGC Universal ID: 2434,Philadelphia,13880000
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1917 D TYPE 2 25C MS,NGC Universal ID: 2435,Denver,6224400
+Quarters,Standing Liberty Quarters (1916-1930),Standing Liberty Quarters1917 TYPE 1 25C MS,NGC Universal ID: 242Z,Philadelphia,8740000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1890 25C PF,NGC Universal ID: 23XN,Philadelphia,590
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1889 25C PF,NGC Universal ID: 23XM,Philadelphia,711
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1891 25C PF,NGC Universal ID: 23XP,Philadelphia,600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1891 O 25C SP,NGC Universal ID: 27HK,New Orleans,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1887 25C PF,NGC Universal ID: 23XK,Philadelphia,710
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1886 25C PF,NGC Universal ID: 23XJ,Philadelphia,886
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1888 25C PF,NGC Universal ID: 23XL,Philadelphia,832
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1884 25C PF,NGC Universal ID: 23XG,Philadelphia,875
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1885 25C PF,NGC Universal ID: 23XH,Philadelphia,930
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1881 25C PF,NGC Universal ID: 23XD,Philadelphia,975
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1882 25C PF,NGC Universal ID: 23XE,Philadelphia,1100
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1883 25C PF,NGC Universal ID: 23XF,Philadelphia,1039
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1880 25C PF,NGC Universal ID: 23XC,Philadelphia,1355
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1879 25C PF,NGC Universal ID: 23XB,Philadelphia,1100
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1877 25C PF,NGC Universal ID: 23X9,Philadelphia,510
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1878 25C PF,NGC Universal ID: 23XA,Philadelphia,800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1876 25C PF,NGC Universal ID: 23X8,Philadelphia,1150
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1874 ARROWS 25C PF,NGC Universal ID: 23XS,Philadelphia,700
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1875 25C PF,NGC Universal ID: 23X7,Philadelphia,700
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 ARROWS 25C PF,NGC Universal ID: 23XR,Philadelphia,540
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 CL 3 NO ARROWS 25C PF,NGC Universal ID: 23X6,Philadelphia,600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1872 25C PF,NGC Universal ID: 23X5,Philadelphia,950
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1871 25C PF,NGC Universal ID: 23X4,Philadelphia,960
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1870 25C PF,NGC Universal ID: 23X3,Philadelphia,1000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1868 25C PF,NGC Universal ID: 23WZ,Philadelphia,600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1867 25C PF,NGC Universal ID: 23WY,Philadelphia,625
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1869 25C PF,NGC Universal ID: 23X2,Philadelphia,600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1866 MOTTO 25C PF,NGC Universal ID: 23WX,Philadelphia,725
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1866 NO MOTTO 25C PF,NGC Universal ID: 27HH,Philadelphia,725
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1865 25C PF,NGC Universal ID: 23WT,Philadelphia,500
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1862 25C PF,NGC Universal ID: 23WP,Philadelphia,550
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1863 25C PF,NGC Universal ID: 23WR,Philadelphia,460
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1864 25C PF,NGC Universal ID: 23WS,Philadelphia,470
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1861 25C PF,NGC Universal ID: 23WN,Philadelphia,1000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1860 25C PF,NGC Universal ID: 23WM,Philadelphia,1000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1858 25C PF,NGC Universal ID: 23WK,Philadelphia,300
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1859 25C PF,NGC Universal ID: 23WL,Philadelphia,800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1857 25C PF,NGC Universal ID: 23WJ,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1856 25C PF,NGC Universal ID: 23WH,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1855 ARROWS 25C PF,NGC Universal ID: 23WW,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1854 ARROWS 25C PF,NGC Universal ID: 23WV,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1855 S ARROWS 25C PF,NGC Universal ID: 27HJ,San Francisco,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1853 NO ARROWS 25C PF,NGC Universal ID: 23WG,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1852 25C PF,NGC Universal ID: 23WF,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1853 ARROWS & RAYS 25C PF,NGC Universal ID: 23WU,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1851 25C PF,NGC Universal ID: 23WE,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1849 25C PF,NGC Universal ID: 23WC,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1850 25C PF,NGC Universal ID: 23WD,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1847 25C PF,NGC Universal ID: 23WA,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1848 25C PF,NGC Universal ID: 23WB,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1846 25C PF,NGC Universal ID: 23W9,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1845 25C PF,NGC Universal ID: 23W8,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1844 25C PF,NGC Universal ID: 23W7,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1843 25C PF,NGC Universal ID: 23W6,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1841 25C PF,NGC Universal ID: 23W4,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1842 SMALL DATE 25C PF,NGC Universal ID: 23W5,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1839 25C PF,NGC Universal ID: 23W2,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1840 DRAPERY 25C PF,NGC Universal ID: 23W3,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1838 SEATED 25C PF,NGC Universal ID: 23VZ,Philadelphia,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1891 O 25C MS,NGC Universal ID: 23VS,New Orleans,68000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1890 25C MS,NGC Universal ID: 23VP,Philadelphia,80000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1891 25C MS,NGC Universal ID: 23VR,Philadelphia,3920000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1891 S 25C MS,NGC Universal ID: 23VT,San Francisco,2216000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1889 25C MS,NGC Universal ID: 23VM,Philadelphia,12000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1888 S 25C MS,NGC Universal ID: 23VN,San Francisco,1216000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1887 25C MS,NGC Universal ID: 23VK,Philadelphia,10000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1888 25C MS,NGC Universal ID: 23VL,Philadelphia,10001
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1886 25C MS,NGC Universal ID: 23VJ,Philadelphia,5000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1885 25C MS,NGC Universal ID: 23VH,Philadelphia,13600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1884 25C MS,NGC Universal ID: 23VG,Philadelphia,8000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1882 25C MS,NGC Universal ID: 23VE,Philadelphia,15200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1883 25C MS,NGC Universal ID: 23VF,Philadelphia,14400
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1881 25C MS,NGC Universal ID: 23VD,Philadelphia,12000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1880 25C MS,NGC Universal ID: 23VC,Philadelphia,13600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1879 25C MS,NGC Universal ID: 23VB,Philadelphia,13600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1878 CC 25C MS,NGC Universal ID: 23V9,Carson City,996000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1878 S 25C MS,NGC Universal ID: 23VA,San Francisco,140000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1878 25C MS,NGC Universal ID: 23V8,Philadelphia,2260800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1877 S 25C MS,NGC Universal ID: 23V7,San Francisco,8996000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1877 CC 25C MS,NGC Universal ID: 23V6,Carson City,4192000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1877 25C MS,NGC Universal ID: 23V5,Philadelphia,10911200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1876 S 25C MS,NGC Universal ID: 23V4,San Francisco,8596000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1875 S 25C MS,NGC Universal ID: 23UZ,San Francisco,680000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1875 CC 25C MS,NGC Universal ID: 23UY,Carson City,140000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1875 25C MS,NGC Universal ID: 23UX,Philadelphia,4292800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1876 CC 25C MS,NGC Universal ID: 23V3,Carson City,4944000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1876 25C MS,NGC Universal ID: 23V2,Philadelphia,17816000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1874 S ARROWS 25C MS,NGC Universal ID: 23VY,San Francisco,392000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1874 ARROWS 25C MS,NGC Universal ID: 23VX,Philadelphia,471200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 S ARROWS 25C MS,NGC Universal ID: 23VW,San Francisco,156000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 CC ARROWS 25C MS,NGC Universal ID: 23VV,Carson City,12462
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 ARROWS 25C MS,NGC Universal ID: 23VU,Philadelphia,1271160
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 CC NO ARROWS 25C MS,NGC Universal ID: 23UW,Carson City,4000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 OP 3 NO ARROWS 25C MS,NGC Universal ID: 23UV,Philadelphia,172000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1873 CL 3 NO ARROWS 25C MS,NGC Universal ID: 23UU,Philadelphia,40000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1872 CC 25C MS,NGC Universal ID: 23US,Carson City,22850
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1872 S 25C MS,NGC Universal ID: 23UT,San Francisco,83000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1872 25C MS,NGC Universal ID: 23UR,Philadelphia,182000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1871 25C MS,NGC Universal ID: 23UM,Philadelphia,118200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1871 S 25C MS,NGC Universal ID: 23UP,San Francisco,30900
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1870 CC 25C MS,NGC Universal ID: 23UL,Carson City,8340
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1871 CC 25C MS,NGC Universal ID: 23UN,Carson City,10890
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1870 25C MS,NGC Universal ID: 23UK,Philadelphia,86400
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1869 S 25C MS,NGC Universal ID: 23UJ,San Francisco,76000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1867 S 25C MS,NGC Universal ID: 23UE,San Francisco,48000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1868 25C MS,NGC Universal ID: 23UF,Philadelphia,29400
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1869 25C MS,NGC Universal ID: 23UH,Philadelphia,16000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1868 S 25C MS,NGC Universal ID: 23UG,San Francisco,96000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1867 25C MS,NGC Universal ID: 23UD,Philadelphia,20000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1866 MOTTO 25C MS,NGC Universal ID: 23UB,Philadelphia,16800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1866 S MOTTO 25C MS,NGC Universal ID: 23UC,San Francisco,28000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1865 S 25C MS,NGC Universal ID: 23U3,San Francisco,41000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1865 25C MS,NGC Universal ID: 23U2,Philadelphia,58800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1864 S 25C MS,NGC Universal ID: 23TZ,San Francisco,20000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1864 25C MS,NGC Universal ID: 23TY,Philadelphia,93600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1862 S 25C MS,NGC Universal ID: 23TW,San Francisco,67000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1863 25C MS,NGC Universal ID: 23TX,Philadelphia,191600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1862 25C MS,NGC Universal ID: 23TV,Philadelphia,932000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1860 S 25C MS,NGC Universal ID: 23TS,San Francisco,56000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1860 O 25C MS,NGC Universal ID: 23TR,New Orleans,388000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1861 S 25C MS,NGC Universal ID: 23TU,San Francisco,96000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1860 25C MS,NGC Universal ID: 23TP,Philadelphia,804400
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1861 25C MS,NGC Universal ID: 23TT,Philadelphia,4853600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1859 S 25C MS,NGC Universal ID: 23TN,San Francisco,80000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1859 O 25C MS,NGC Universal ID: 23TM,New Orleans,260000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1859 25C MS,NGC Universal ID: 23TL,Philadelphia,1343200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1858 O 25C MS,NGC Universal ID: 23TJ,New Orleans,520000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1858 S 25C MS,NGC Universal ID: 23TK,San Francisco,121000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1857 S 25C MS,NGC Universal ID: 23TG,San Francisco,82000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1858 25C MS,NGC Universal ID: 23TH,Philadelphia,7368000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1857 25C MS,NGC Universal ID: 23TE,Philadelphia,9644000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1856 S 25C MS,NGC Universal ID: 23TD,San Francisco,286000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1857 O 25C MS,NGC Universal ID: 23TF,New Orleans,1180000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1856 O 25C MS,NGC Universal ID: 23TC,New Orleans,968000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1855 ARROWS 25C MS,NGC Universal ID: 23U8,Philadelphia,2857000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1856 25C MS,NGC Universal ID: 23TB,Philadelphia,7264000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1855 O ARROWS 25C MS,NGC Universal ID: 23U9,New Orleans,176000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1855 S ARROWS 25C MS,NGC Universal ID: 23UA,San Francisco,396400
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1854 O ARROWS 25C MS,NGC Universal ID: 23U7,New Orleans,1484000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1853 O ARR & RAYS 25C MS,NGC Universal ID: 23U5,New Orleans,1332000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1854 ARROWS 25C MS,NGC Universal ID: 23U6,Philadelphia,12380000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1853/53 NO ARROWS 25C MS,NGC Universal ID: 23TA,Philadelphia,44200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1853 ARROWS & RAYS 25C MS,NGC Universal ID: 23U4,Philadelphia,15210020
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1852 O 25C MS,NGC Universal ID: 23T9,New Orleans,96000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1851 O 25C MS,NGC Universal ID: 23T7,New Orleans,88000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1852 25C MS,NGC Universal ID: 23T8,Philadelphia,177060
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1851 25C MS,NGC Universal ID: 23T6,Philadelphia,160000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1850 O 25C MS,NGC Universal ID: 23T5,New Orleans,412000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1850 25C MS,NGC Universal ID: 23T4,Philadelphia,190800
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1849 O 25C MS,NGC Universal ID: 23T3,New Orleans,412000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1847 O 25C MS,NGC Universal ID: 23SY,New Orleans,368000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1848 25C MS,NGC Universal ID: 23SZ,Philadelphia,146000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1849 25C MS,NGC Universal ID: 23T2,Philadelphia,340000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1847 25C MS,NGC Universal ID: 23SX,Philadelphia,734000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1846 25C MS,NGC Universal ID: 23SW,Philadelphia,510000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1844 O 25C MS,NGC Universal ID: 23SU,New Orleans,740000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1845 25C MS,NGC Universal ID: 23SV,Philadelphia,922000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1844 25C MS,NGC Universal ID: 23ST,Philadelphia,421200
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1843 O 25C MS,NGC Universal ID: 23SS,New Orleans,968000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1843 25C MS,NGC Universal ID: 23SR,Philadelphia,645600
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1842 O LARGE DATE 25C MS,NGC Universal ID: 23SP,New Orleans,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1842 O SMALL DATE 25C MS,NGC Universal ID: 23SN,New Orleans,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1842 O 25C MS,NGC Universal ID: 27HG,New Orleans,0
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1841 25C MS,NGC Universal ID: 23SK,Philadelphia,120000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1842 LARGE DATE 25C MS,NGC Universal ID: 23SM,Philadelphia,88000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1841 O 25C MS,NGC Universal ID: 23SL,New Orleans,452000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1840 O DRAPERY 25C MS,NGC Universal ID: 23SJ,New Orleans,43000
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1840 DRAPERY 25C MS,NGC Universal ID: 23SH,Philadelphia,188127
+Quarters,Barber Quarters (1892-1916),Barber Quarters1914 25C PF,NGC Universal ID: 242W,Philadelphia,380
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1839 25C MS,NGC Universal ID: 23SF,Philadelphia,491146
+Quarters,Seated Liberty Quarters (1838-1891),Seated Liberty Quarters1840 O NO DRAPERY 25C MS,NGC Universal ID: 23SG,New Orleans,382200
+Quarters,Barber Quarters (1892-1916),Barber Quarters1913 25C PF,NGC Universal ID: 242V,Philadelphia,613
+Quarters,Barber Quarters (1892-1916),Barber Quarters1912 25C PF,NGC Universal ID: 242U,Philadelphia,700
+Quarters,Barber Quarters (1892-1916),Barber Quarters1911 25C PF,NGC Universal ID: 242T,Philadelphia,543
+Quarters,Barber Quarters (1892-1916),Barber Quarters1910 25C PF,NGC Universal ID: 242S,Philadelphia,551
+Quarters,Barber Quarters (1892-1916),Barber Quarters1907 25C PF,NGC Universal ID: 242N,Philadelphia,575
+Quarters,Barber Quarters (1892-1916),Barber Quarters1909 25C PF,NGC Universal ID: 242R,Philadelphia,650
+Quarters,Barber Quarters (1892-1916),Barber Quarters1908 25C PF,NGC Universal ID: 242P,Philadelphia,545
+Quarters,Barber Quarters (1892-1916),Barber Quarters1906 25C PF,NGC Universal ID: 242M,Philadelphia,675
+Quarters,Barber Quarters (1892-1916),Barber Quarters1905 25C PF,NGC Universal ID: 242L,Philadelphia,727
+Quarters,Barber Quarters (1892-1916),Barber Quarters1904 25C PF,NGC Universal ID: 242K,Philadelphia,670
+Quarters,Barber Quarters (1892-1916),Barber Quarters1903 25C PF,NGC Universal ID: 242J,Philadelphia,755
+Quarters,Barber Quarters (1892-1916),Barber Quarters1902 25C PF,NGC Universal ID: 242H,Philadelphia,700
+Quarters,Barber Quarters (1892-1916),Barber Quarters1901 25C PF,NGC Universal ID: 242G,Philadelphia,813
+Quarters,Barber Quarters (1892-1916),Barber Quarters1900 25C PF,NGC Universal ID: 242F,Philadelphia,912
+Quarters,Barber Quarters (1892-1916),Barber Quarters1899 25C PF,NGC Universal ID: 242E,Philadelphia,846
+Quarters,Barber Quarters (1892-1916),Barber Quarters1898 25C PF,NGC Universal ID: 242D,Philadelphia,735
+Quarters,Barber Quarters (1892-1916),Barber Quarters1896 25C PF,NGC Universal ID: 242B,Philadelphia,762
+Quarters,Barber Quarters (1892-1916),Barber Quarters1897 25C PF,NGC Universal ID: 242C,Philadelphia,731
+Quarters,Barber Quarters (1892-1916),Barber Quarters1895 25C PF,NGC Universal ID: 242A,Philadelphia,880
+Quarters,Barber Quarters (1892-1916),Barber Quarters1894 25C PF,NGC Universal ID: 2429,Philadelphia,972
+Quarters,Barber Quarters (1892-1916),Barber Quarters1893 25C PF,NGC Universal ID: 2428,Philadelphia,792
+Quarters,Barber Quarters (1892-1916),Barber Quarters1892 25C PF,NGC Universal ID: 2427,Philadelphia,1245
+Quarters,Barber Quarters (1892-1916),Barber Quarters1916 D 25C MS,NGC Universal ID: 2426,Denver,6540800
+Quarters,Barber Quarters (1892-1916),Barber Quarters1916 BARBER 25C MS,NGC Universal ID: 2425,Philadelphia,1788000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1915 S 25C MS,NGC Universal ID: 2424,San Francisco,704000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1914 S 25C MS,NGC Universal ID: 23ZZ,San Francisco,264000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1915 25C MS,NGC Universal ID: 2422,Philadelphia,3480000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1914 D 25C MS,NGC Universal ID: 23ZY,Denver,3046000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1915 D 25C MS,NGC Universal ID: 2423,Denver,3694000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1913 D 25C MS,NGC Universal ID: 23ZV,Denver,1450800
+Quarters,Barber Quarters (1892-1916),Barber Quarters1913 S 25C MS,NGC Universal ID: 23ZW,San Francisco,40000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1914 25C MS,NGC Universal ID: 23ZX,Philadelphia,6244230
+Quarters,Barber Quarters (1892-1916),Barber Quarters1913 25C MS,NGC Universal ID: 23ZU,Philadelphia,484000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1912 S 25C MS,NGC Universal ID: 23ZT,San Francisco,708000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1911 25C MS,NGC Universal ID: 23ZN,Philadelphia,3720000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1911 S 25C MS,NGC Universal ID: 23ZR,San Francisco,988000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1912 25C MS,NGC Universal ID: 23ZS,Philadelphia,4400000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1910 D 25C MS,NGC Universal ID: 23ZM,Denver,1500000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1911 D 25C MS,NGC Universal ID: 23ZP,Denver,933600
+Quarters,Barber Quarters (1892-1916),Barber Quarters1909 O 25C MS,NGC Universal ID: 23ZJ,New Orleans,712000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1909 D 25C MS,NGC Universal ID: 23ZH,Denver,5114000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1910 25C MS,NGC Universal ID: 23ZL,Philadelphia,2244000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1909 S 25C MS,NGC Universal ID: 23ZK,San Francisco,1348000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1909 25C MS,NGC Universal ID: 23ZG,Philadelphia,9268000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1908 O 25C MS,NGC Universal ID: 23ZE,New Orleans,6244000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1908 D 25C MS,NGC Universal ID: 23ZD,Denver,5788000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1908 S 25C MS,NGC Universal ID: 23ZF,San Francisco,784000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1907 S 25C MS,NGC Universal ID: 23ZB,San Francisco,1360000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1908 25C MS,NGC Universal ID: 23ZC,Philadelphia,4232000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1907 O 25C MS,NGC Universal ID: 23ZA,New Orleans,4560000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1907 25C MS,NGC Universal ID: 23Z8,Philadelphia,7192000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1907 D 25C MS,NGC Universal ID: 23Z9,Denver,2484000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1906 O 25C MS,NGC Universal ID: 23Z7,New Orleans,2056000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1906 D 25C MS,NGC Universal ID: 23Z6,Denver,3280000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1906 25C MS,NGC Universal ID: 23Z5,Philadelphia,3655760
+Quarters,Barber Quarters (1892-1916),Barber Quarters1905 O 25C MS,NGC Universal ID: 23Z3,New Orleans,1230000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1905 S 25C MS,NGC Universal ID: 23Z4,San Francisco,1884000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1904 O 25C MS,NGC Universal ID: 23YZ,New Orleans,2456000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1905 25C MS,NGC Universal ID: 23Z2,Philadelphia,4967523
+Quarters,Barber Quarters (1892-1916),Barber Quarters1904 25C MS,NGC Universal ID: 23YY,Philadelphia,9588143
+Quarters,Barber Quarters (1892-1916),Barber Quarters1903 S 25C MS,NGC Universal ID: 23YX,San Francisco,1036000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1903 O 25C MS,NGC Universal ID: 23YW,New Orleans,3500000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1903 25C MS,NGC Universal ID: 23YV,Philadelphia,9759309
+Quarters,Barber Quarters (1892-1916),Barber Quarters1902 S 25C MS,NGC Universal ID: 23YU,San Francisco,1524612
+Quarters,Barber Quarters (1892-1916),Barber Quarters1902 O 25C MS,NGC Universal ID: 23YT,New Orleans,4748000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1901 O 25C MS,NGC Universal ID: 23YP,New Orleans,1612000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1902 25C MS,NGC Universal ID: 23YS,Philadelphia,12196967
+Quarters,Barber Quarters (1892-1916),Barber Quarters1901 S 25C MS,NGC Universal ID: 23YR,San Francisco,72664
+Quarters,Barber Quarters (1892-1916),Barber Quarters1900 S 25C MS,NGC Universal ID: 23YM,San Francisco,1858585
+Quarters,Barber Quarters (1892-1916),Barber Quarters1901 25C MS,NGC Universal ID: 23YN,Philadelphia,8892000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1899 S 25C MS,NGC Universal ID: 23YJ,San Francisco,708000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1900 25C MS,NGC Universal ID: 23YK,Philadelphia,10016000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1899 25C MS,NGC Universal ID: 23YG,Philadelphia,12624000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1900 O 25C MS,NGC Universal ID: 23YL,New Orleans,3416000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1899 O 25C MS,NGC Universal ID: 23YH,New Orleans,2644000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1898 S 25C MS,NGC Universal ID: 23YF,San Francisco,1020592
+Quarters,Barber Quarters (1892-1916),Barber Quarters1898 O 25C MS,NGC Universal ID: 23YE,New Orleans,1868000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1898 25C MS,NGC Universal ID: 23YD,Philadelphia,11100000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1897 S 25C MS,NGC Universal ID: 23YC,San Francisco,542229
+Quarters,Barber Quarters (1892-1916),Barber Quarters1897 25C MS,NGC Universal ID: 23YA,Philadelphia,8140000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1897 O 25C MS,NGC Universal ID: 23YB,New Orleans,1414800
+Quarters,Barber Quarters (1892-1916),Barber Quarters1896 S 25C MS,NGC Universal ID: 23Y9,San Francisco,188039
+Quarters,Barber Quarters (1892-1916),Barber Quarters1896 O 25C MS,NGC Universal ID: 23Y8,New Orleans,1484000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1896 25C MS,NGC Universal ID: 23Y7,Philadelphia,3874000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1894 S 25C MS,NGC Universal ID: 23Y3,San Francisco,2648821
+Quarters,Barber Quarters (1892-1916),Barber Quarters1895 S 25C MS,NGC Universal ID: 23Y6,San Francisco,1764681
+Quarters,Barber Quarters (1892-1916),Barber Quarters1895 O 25C MS,NGC Universal ID: 23Y5,New Orleans,2816000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1895 25C MS,NGC Universal ID: 23Y4,Philadelphia,4440000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1894 O 25C MS,NGC Universal ID: 23Y2,New Orleans,2852000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1894 25C MS,NGC Universal ID: 23XZ,Philadelphia,3432000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1893 25C MS,NGC Universal ID: 23XW,Philadelphia,5444023
+Quarters,Barber Quarters (1892-1916),Barber Quarters1893 O 25C MS,NGC Universal ID: 23XX,New Orleans,3396000
+Quarters,Barber Quarters (1892-1916),Barber Quarters1893 S 25C MS,NGC Universal ID: 23XY,San Francisco,1454535
+Quarters,Barber Quarters (1892-1916),Barber Quarters1892 S 25C MS,NGC Universal ID: 23XV,San Francisco,964079
+Quarters,Barber Quarters (1892-1916),Barber Quarters1892 O 25C MS,NGC Universal ID: 23XU,New Orleans,2640000
+Quarters,Early Quarters (1796-1838),Early Quarters1837 25C PF,NGC Universal ID: 23SC,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1838 CAPPED B-1 25C PF,NGC Universal ID: 23SD,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1836 25C PF,NGC Universal ID: 27HF,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1835 25C PF,NGC Universal ID: 27HE,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1834 25C PF,NGC Universal ID: 27HD,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1833 25C PF,NGC Universal ID: 26Y7,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1827/3 RESTRIKE B-2 25C PF,NGC Universal ID: 23SA,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1828 25C PF,NGC Universal ID: 27HC,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1831 25C PF,NGC Universal ID: 23SB,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1824/2 B-1 25C PF,NGC Universal ID: 23S8,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1827/3 ORIGINAL B-1 25C PF,NGC Universal ID: 23S9,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1823/2 B-1 25C PF,NGC Universal ID: 23S7,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1822 25/50 B-2 25C PF,NGC Universal ID: 23S6,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1822 25C PF,NGC Universal ID: 27HB,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1821 25C PF,NGC Universal ID: 27HA,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1820 25C PF,NGC Universal ID: 27H9,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1818 25C PF,NGC Universal ID: 2WA5,Philadelphia,0
+Quarters,Early Quarters (1796-1838),Early Quarters1837 25C MS,NGC Universal ID: 23S4,Philadelphia,252400
+Quarters,Early Quarters (1796-1838),Early Quarters1838 CAPPED B-1 25C MS,NGC Universal ID: 23S5,Philadelphia,366000
+Quarters,Early Quarters (1796-1838),Early Quarters1835 25C MS,NGC Universal ID: 23S2,Philadelphia,1952000
+Quarters,Early Quarters (1796-1838),Early Quarters1836 25C MS,NGC Universal ID: 23S3,Philadelphia,472000
+Quarters,Early Quarters (1796-1838),Early Quarters1834 25C MS,NGC Universal ID: 23RZ,Philadelphia,286000
+Quarters,Early Quarters (1796-1838),Early Quarters1831 SMALL LETTERS B-4 25C MS,NGC Universal ID: DHEJ,undefined,0
+Quarters,Early Quarters (1796-1838),Early Quarters1832 25C MS,NGC Universal ID: 23RX,Philadelphia,320000
+Quarters,Early Quarters (1796-1838),Early Quarters1833 25C MS,NGC Universal ID: 23RY,Philadelphia,156000
+Quarters,Early Quarters (1796-1838),Early Quarters1831 25C MS,NGC Universal ID: 23RW,Philadelphia,398000
+Quarters,Early Quarters (1796-1838),Early Quarters1823/2 B-1 25C MS,NGC Universal ID: 23RP,Philadelphia,17800
+Quarters,Early Quarters (1796-1838),Early Quarters1822 25C MS,NGC Universal ID: 23RN,Philadelphia,64080
+Quarters,Early Quarters (1796-1838),Early Quarters1825 25C MS,NGC Universal ID: 23RS,Philadelphia,168000
+Quarters,Early Quarters (1796-1838),Early Quarters1828 25C MS,NGC Universal ID: 23RV,Philadelphia,102000
+Quarters,Early Quarters (1796-1838),Early Quarters1824/2 B-1 25C MS,NGC Universal ID: 23RR,Philadelphia,168000
+Quarters,Early Quarters (1796-1838),Early Quarters1820 25C MS,NGC Universal ID: 23RL,Philadelphia,127444
+Quarters,Early Quarters (1796-1838),Early Quarters1821 25C MS,NGC Universal ID: 23RM,Philadelphia,216851
+Quarters,Early Quarters (1796-1838),Early Quarters1818 25C MS,NGC Universal ID: 23RH,Philadelphia,361174
+Quarters,Early Quarters (1796-1838),Early Quarters1818/5 B-1 25C MS,NGC Universal ID: 23RJ,Philadelphia,361174
+Quarters,Early Quarters (1796-1838),Early Quarters1819 25C MS,NGC Universal ID: 23RK,Philadelphia,144000
+Quarters,Early Quarters (1796-1838),Early Quarters1807 25C MS,NGC Universal ID: 23RF,Philadelphia,220643
+Quarters,Early Quarters (1796-1838),Early Quarters1815 B-1 25C MS,NGC Universal ID: 23RG,Philadelphia,89235
+Quarters,Early Quarters (1796-1838),Early Quarters1806/5 B-1 25C MS,NGC Universal ID: 23RE,Philadelphia,206124
+Quarters,Early Quarters (1796-1838),Early Quarters1805 25C MS,NGC Universal ID: 23RC,Philadelphia,121394
+Quarters,Early Quarters (1796-1838),Early Quarters1806 25C MS,NGC Universal ID: 23RD,Philadelphia,206124
+Quarters,Early Quarters (1796-1838),Early Quarters1804 25C MS,NGC Universal ID: 23RB,Philadelphia,6738
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Silver River of No Return 25C PF,NGC Universal ID: DK6L,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P HOT SPRINGS 25C MS,NGC Universal ID: 24DA,Philadelphia,35600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Clad River of No Return 25C PF,NGC Universal ID: DK6K,undefined,0
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 P DELAWARE 25C MS,NGC Universal ID: 249D,Philadelphia,373400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S SILVER NORTHERN MARIANAS 25C PF,NGC Universal ID: 27RF,San Francisco,996548
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S CLAD NORTHERN MARIANAS 25C PF,NGC Universal ID: 27RE,San Francisco,2113478
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S SILVER U.S. VIRGIN ISLANDS 25C PF,NGC Universal ID: 27RD,San Francisco,996548
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S CLAD AMERICAN SAMOA 25C PF,NGC Universal ID: 27RA,San Francisco,2113478
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S SILVER AMERICAN SAMOA 25C PF,NGC Universal ID: 27RB,San Francisco,996548
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S CLAD U.S. VIRGIN ISLANDS 25C PF,NGC Universal ID: 27RC,San Francisco,2113478
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S SILVER GUAM 25C PF,NGC Universal ID: 27R9,San Francisco,996548
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S CLAD GUAM 25C PF,NGC Universal ID: 27R8,San Francisco,2113478
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S SILVER PUERTO RICO 25C PF,NGC Universal ID: 27R7,San Francisco,996548
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S CLAD PUERTO RICO 25C PF,NGC Universal ID: 27R6,San Francisco,2113478
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S CLAD DISTRICT OF COLUMBIA 25C PF,NGC Universal ID: 27R4,San Francisco,2113478
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S SILVER HAWAII 25C PF,NGC Universal ID: 27R3,San Francisco,1192908
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 S SILVER DISTRICT OF COLUMBIA 25C PF,NGC Universal ID: 27R5,San Francisco,996548
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S SILVER ALASKA 25C PF,NGC Universal ID: 27PZ,San Francisco,1192908
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S CLAD HAWAII 25C PF,NGC Universal ID: 27R2,San Francisco,2078112
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S CLAD ALASKA 25C PF,NGC Universal ID: 27PY,San Francisco,2078112
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S SILVER ARIZONA 25C PF,NGC Universal ID: 27PX,San Francisco,1192908
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S CLAD ARIZONA 25C PF,NGC Universal ID: 27PW,San Francisco,2078112
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S SILVER NEW MEXICO 25C PF,NGC Universal ID: 27PV,San Francisco,1192908
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S SILVER OKLAHOMA 25C PF,NGC Universal ID: 27PT,San Francisco,1192908
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S SILVER UTAH 25C PF,NGC Universal ID: 27PR,San Francisco,1313481
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S CLAD NEW MEXICO 25C PF,NGC Universal ID: 27PU,San Francisco,2078112
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 S CLAD OKLAHOMA 25C PF,NGC Universal ID: 27PS,San Francisco,2078112
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S CLAD UTAH 25C PF,NGC Universal ID: 27PP,San Francisco,2374778
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S SILVER WYOMING 25C PF,NGC Universal ID: 27PN,San Francisco,1313481
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S CLAD IDAHO 25C PF,NGC Universal ID: 27PK,San Francisco,2374778
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S CLAD WYOMING 25C PF,NGC Universal ID: 27PM,San Francisco,2374778
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S SILVER IDAHO 25C PF,NGC Universal ID: 27PL,San Francisco,1313481
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S SILVER WASHINGTON 25C PF,NGC Universal ID: 27PJ,San Francisco,1313481
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S CLAD WASHINGTON 25C PF,NGC Universal ID: 27PH,San Francisco,2374778
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S SILVER MONTANA 25C PF,NGC Universal ID: 27PG,San Francisco,1313481
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 S CLAD MONTANA 25C PF,NGC Universal ID: 27PF,San Francisco,2374778
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S CLAD SOUTH DAKOTA 25C PF,NGC Universal ID: 27PD,San Francisco,2882428
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S SILVER SOUTH DAKOTA 25C PF,NGC Universal ID: 27PE,San Francisco,1585008
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S SILVER NORTH DAKOTA 25C PF,NGC Universal ID: 27PC,San Francisco,1585008
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S SILVER COLORADO 25C PF,NGC Universal ID: 27PA,San Francisco,1585008
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S SILVER NEBRASKA 25C PF,NGC Universal ID: 27P8,San Francisco,1585008
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S CLAD NORTH DAKOTA 25C PF,NGC Universal ID: 27PB,San Francisco,2882428
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S CLAD NEBRASKA 25C PF,NGC Universal ID: 27P7,San Francisco,2882428
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S CLAD COLORADO 25C PF,NGC Universal ID: 27P9,San Francisco,2882428
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S CLAD NEVADA 25C PF,NGC Universal ID: 27P5,San Francisco,2882428
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S CLAD WEST VIRGINIA 25C PF,NGC Universal ID: 27P3,San Francisco,3262960
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S SILVER WEST VIRGINIA 25C PF,NGC Universal ID: 27P4,San Francisco,1678649
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 S SILVER NEVADA 25C PF,NGC Universal ID: 27P6,San Francisco,1585008
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S SILVER KANSAS 25C PF,NGC Universal ID: 27P2,San Francisco,1678649
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S CLAD OREGON 25C PF,NGC Universal ID: 27NX,San Francisco,3262960
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S CLAD KANSAS 25C PF,NGC Universal ID: 27NZ,San Francisco,3262960
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S CLAD MINNESOTA 25C PF,NGC Universal ID: 27NV,San Francisco,3262960
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S SILVER OREGON 25C PF,NGC Universal ID: 27NY,San Francisco,1678649
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S SILVER MINNESOTA 25C PF,NGC Universal ID: 27NW,San Francisco,1678649
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S SILVER CALIFORNIA 25C PF,NGC Universal ID: 27NU,San Francisco,1678649
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S SILVER WISCONSIN 25C PF,NGC Universal ID: 27NS,San Francisco,1769786
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S CLAD WISCONSIN 25C PF,NGC Universal ID: 27NR,San Francisco,2740684
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 S CLAD CALIFORNIA 25C PF,NGC Universal ID: 27NT,San Francisco,3262960
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S SILVER IOWA 25C PF,NGC Universal ID: 27NP,San Francisco,1769786
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S SILVER TEXAS 25C PF,NGC Universal ID: 27NM,San Francisco,1769786
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S CLAD TEXAS 25C PF,NGC Universal ID: 27NL,San Francisco,2740684
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S CLAD IOWA 25C PF,NGC Universal ID: 27NN,San Francisco,2740684
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S SILVER FLORIDA 25C PF,NGC Universal ID: 27NK,San Francisco,1769786
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S CLAD FLORIDA 25C PF,NGC Universal ID: 27NJ,San Francisco,2740684
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S CLAD MICHIGAN 25C PF,NGC Universal ID: 27NG,San Francisco,2740684
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S SILVER ARKANSAS 25C PF,NGC Universal ID: 24D9,San Francisco,1125755
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S SILVER MISSOURI 25C PF,NGC Universal ID: 24D7,San Francisco,1125755
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 S SILVER MICHIGAN 25C PF,NGC Universal ID: 27NH,San Francisco,1769786
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S CLAD ARKANSAS 25C PF,NGC Universal ID: 24D8,San Francisco,3408516
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S CLAD MISSOURI 25C PF,NGC Universal ID: 24D6,San Francisco,3408516
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S CLAD MAINE 25C PF,NGC Universal ID: 24D4,San Francisco,3408516
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S SILVER ALABAMA 25C PF,NGC Universal ID: 24D3,San Francisco,1125755
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S SILVER MAINE 25C PF,NGC Universal ID: 24D5,San Francisco,1125755
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S CLAD ALABAMA 25C PF,NGC Universal ID: 24D2,San Francisco,3408516
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S SILVER ILLINOIS 25C PF,NGC Universal ID: 24CZ,San Francisco,1125755
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S SILVER MISSISSIPPI 25C PF,NGC Universal ID: 27NF,San Francisco,892229
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 S CLAD ILLINOIS 25C PF,NGC Universal ID: 24CY,San Francisco,3408516
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S CLAD MISSISSIPPI 25C PF,NGC Universal ID: 27NE,San Francisco,3084245
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S SILVER INDIANA 25C PF,NGC Universal ID: 27ND,San Francisco,892229
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S CLAD INDIANA 25C PF,NGC Universal ID: 27NC,San Francisco,3084245
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S SILVER LOUISIANA 25C PF,NGC Universal ID: 27NB,San Francisco,892229
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S CLAD LOUISIANA 25C PF,NGC Universal ID: 27NA,San Francisco,3084245
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S SILVER OHIO 25C PF,NGC Universal ID: 27N9,San Francisco,892229
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S CLAD OHIO 25C PF,NGC Universal ID: 27N8,San Francisco,3084245
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S SILVER TENNESSEE 25C PF,NGC Universal ID: 27N7,San Francisco,892229
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 S CLAD TENNESSEE 25C PF,NGC Universal ID: 27N6,San Francisco,3084245
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S CLAD KENTUCKY 25C PF,NGC Universal ID: 27N4,San Francisco,30941400
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S SILVER KENTUCKY 25C PF,NGC Universal ID: 27N5,San Francisco,889697
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S SILVER VERMONT 25C PF,NGC Universal ID: 27N3,San Francisco,889697
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S CLAD VERMONT 25C PF,NGC Universal ID: 27N2,San Francisco,30941400
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S SILVER RHODE ISLAND 25C PF,NGC Universal ID: 27MZ,San Francisco,889697
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S SILVER NO.CAROLINA 25C PF,NGC Universal ID: 27MX,San Francisco,889697
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S CLAD RHODE ISLAND 25C PF,NGC Universal ID: 27MY,San Francisco,30941400
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S CLAD NO.CAROLINA 25C PF,NGC Universal ID: 27MW,San Francisco,30941400
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S SILVER VIRGINIA 25C PF,NGC Universal ID: 27MT,San Francisco,965421
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S CLAD NEW YORK 25C PF,NGC Universal ID: 27MU,San Francisco,30941400
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S CLAD VIRGINIA 25C PF,NGC Universal ID: 27MS,San Francisco,4020172
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 S SILVER NEW YORK 25C PF,NGC Universal ID: 27MV,San Francisco,889697
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S SILVER NEW HAMPSHIRE 25C PF,NGC Universal ID: 27MR,San Francisco,965421
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S CLAD SO.CAROLINA 25C PF,NGC Universal ID: 27MM,San Francisco,4020172
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S SILVER MARYLAND 25C PF,NGC Universal ID: 27ML,San Francisco,965421
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S SILVER SO.CAROLINA 25C PF,NGC Universal ID: 27MN,San Francisco,965421
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S CLAD NEW HAMPSHIRE 25C PF,NGC Universal ID: 27MP,San Francisco,4020172
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S SILVER MASSACHUSETTS 25C PF,NGC Universal ID: 27MJ,San Francisco,965421
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S CLAD MASSACHUSETTS 25C PF,NGC Universal ID: 27MH,San Francisco,4020172
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 S CLAD MARYLAND 25C PF,NGC Universal ID: 27MK,San Francisco,4020172
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S CLAD CONNECTICUT 25C PF,NGC Universal ID: 27MF,San Francisco,3713359
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S SILVER CONNECTICUT 25C PF,NGC Universal ID: 27MG,San Francisco,804565
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S SILVER NEW JERSEY 25C PF,NGC Universal ID: 27MC,San Francisco,804565
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S CLAD GEORGIA 25C PF,NGC Universal ID: 27MD,San Francisco,3713359
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S CLAD NEW JERSEY 25C PF,NGC Universal ID: 27MB,San Francisco,3713359
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S SILVER GEORGIA 25C PF,NGC Universal ID: 27ME,San Francisco,804565
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S SILVER PENNSYLVANIA 25C PF,NGC Universal ID: 27MA,San Francisco,804565
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S CLAD DELAWARE 25C PF,NGC Universal ID: 27M7,San Francisco,3713359
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D SMS NORTHERN MARIANAS 25C MS,NGC Universal ID: 27M6,Denver,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S SILVER DELAWARE 25C PF,NGC Universal ID: 27M8,San Francisco,804565
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 S CLAD PENNSYLVANIA 25C PF,NGC Universal ID: 27M9,San Francisco,3713359
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D NORTHERN MARIANAS 25C MS,NGC Universal ID: 24CX,Denver,37600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P SMS NORTHERN MARIANAS 25C MS,NGC Universal ID: 27M5,Philadelphia,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P NORTHERN MARIANAS 25C MS,NGC Universal ID: 24CW,Philadelphia,35200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D U.S. VIRGIN ISLANDS 25C MS,NGC Universal ID: 24CV,Denver,41000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D SMS U.S. VIRGIN ISLANDS 25C MS,NGC Universal ID: 27M4,Denver,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P SMS U.S. VIRGIN ISLANDS 25C MS,NGC Universal ID: 27M3,Philadelphia,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D SMS AMERICAN SAMOA 25C MS,NGC Universal ID: 27M2,Denver,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D AMERICAN SAMOA 25C MS,NGC Universal ID: 24CT,Denver,39600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P U.S. VIRGIN ISLANDS 25C MS,NGC Universal ID: 24CU,Philadelphia,41000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P SMS AMERICAN SAMOA 25C MS,NGC Universal ID: 27LZ,Philadelphia,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P AMERICAN SAMOA 25C MS,NGC Universal ID: 24CS,Philadelphia,42600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D SMS GUAM 25C MS,NGC Universal ID: 27LY,Denver,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P SMS GUAM 25C MS,NGC Universal ID: 27LX,Philadelphia,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D SMS PUERTO RICO 25C MS,NGC Universal ID: 27LW,Denver,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D GUAM 25C MS,NGC Universal ID: 24CR,Denver,42600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D PUERTO RICO 25C MS,NGC Universal ID: 24CN,Denver,86000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P GUAM 25C MS,NGC Universal ID: 24CP,Philadelphia,45000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D SMS DISTRICT OF COLUMBIA 25C MS,NGC Universal ID: 27LU,Denver,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P SMS PUERTO RICO 25C MS,NGC Universal ID: 27LV,Philadelphia,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P PUERTO RICO 25C MS,NGC Universal ID: 24CM,Philadelphia,53200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P SMS DISTRICT OF COLUMBIA 25C MS,NGC Universal ID: 27LT,Philadelphia,784614
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 D DISTRICT OF COLUMBIA 25C MS,NGC Universal ID: 24CL,Denver,88800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2009 P DISTRICT OF COLUMBIA 25C MS,NGC Universal ID: 24CK,Philadelphia,83600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D SMS HAWAII 25C MS,NGC Universal ID: 27LS,Denver,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D HAWAII 25C MS,NGC Universal ID: 24CJ,Denver,263600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P SMS HAWAII 25C MS,NGC Universal ID: 27LR,Philadelphia,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P HAWAII 25C MS,NGC Universal ID: 24CG,Philadelphia,254000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D SMS ALASKA 25C MS,NGC Universal ID: 27LP,Denver,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P SMS ALASKA 25C MS,NGC Universal ID: 27LN,Philadelphia,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D ALASKA 25C MS,NGC Universal ID: 24CH,Denver,254000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P ALASKA 25C MS,NGC Universal ID: 24CF,Philadelphia,251800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D SMS ARIZONA 25C MS,NGC Universal ID: 27LM,Denver,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D ARIZONA 25C MS,NGC Universal ID: 24CE,Denver,265000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P SMS ARIZONA 25C MS,NGC Universal ID: 27LL,Philadelphia,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P ARIZONA 25C MS,NGC Universal ID: 24CD,Philadelphia,244600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D NEW MEXICO 25C MS,NGC Universal ID: 24CC,Denver,244400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D SMS NEW MEXICO 25C MS,NGC Universal ID: 27LK,Denver,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P SMS NEW MEXICO 25C MS,NGC Universal ID: 27LJ,Philadelphia,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P NEW MEXICO 25C MS,NGC Universal ID: 24CB,Philadelphia,244200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P SMS OKLAHOMA 25C MS,NGC Universal ID: 27LG,Philadelphia,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D OKLAHOMA 25C MS,NGC Universal ID: 24CA,Denver,194600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 D SMS OKLAHOMA 25C MS,NGC Universal ID: 27LH,Denver,745464
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D SMS UTAH 25C MS,NGC Universal ID: 27LF,Denver,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2008 P OKLAHOMA 25C MS,NGC Universal ID: 24C9,Philadelphia,222000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P UTAH 25C MS,NGC Universal ID: 24C7,Philadelphia,255000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P SMS UTAH 25C MS,NGC Universal ID: 27LE,Philadelphia,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D UTAH 25C MS,NGC Universal ID: 24C8,Denver,253200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D SMS WYOMING 25C MS,NGC Universal ID: 27LD,Denver,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P WYOMING 25C MS,NGC Universal ID: 24C5,Philadelphia,243600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D SMS IDAHO 25C MS,NGC Universal ID: 27LB,Denver,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P SMS WYOMING 25C MS,NGC Universal ID: 27LC,Philadelphia,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D WYOMING 25C MS,NGC Universal ID: 24C6,Denver,320800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D WASHINGTON 25C MS,NGC Universal ID: 24C2,Denver,280000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D SMS WASHINGTON 25C MS,NGC Universal ID: 27L9,Denver,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P SMS IDAHO 25C MS,NGC Universal ID: 27LA,Philadelphia,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D IDAHO 25C MS,NGC Universal ID: 24C4,Denver,286800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P IDAHO 25C MS,NGC Universal ID: 24C3,Philadelphia,294600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P SMS MONTANA 25C MS,NGC Universal ID: 27L6,Philadelphia,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P SMS WASHINGTON 25C MS,NGC Universal ID: 27L8,Philadelphia,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D MONTANA 25C MS,NGC Universal ID: 24BY,Denver,256240000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P WASHINGTON 25C MS,NGC Universal ID: 24BZ,Philadelphia,265200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 D SMS MONTANA 25C MS,NGC Universal ID: 27L7,Denver,895628
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2007 P MONTANA 25C MS,NGC Universal ID: 24BX,Philadelphia,257000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D SMS SOUTH DAKOTA 25C MS,NGC Universal ID: 27L5,Denver,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P SMS SOUTH DAKOTA 25C MS,NGC Universal ID: 27L4,Philadelphia,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P SOUTH DAKOTA 25C MS,NGC Universal ID: 24BV,Philadelphia,245000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D SOUTH DAKOTA 25C MS,NGC Universal ID: 24BW,Denver,265800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D SMS NORTH DAKOTA 25C MS,NGC Universal ID: 27L3,Denver,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D NORTH DAKOTA 25C MS,NGC Universal ID: 24BU,Denver,359000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P SMS NORTH DAKOTA 25C MS,NGC Universal ID: 27L2,Philadelphia,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D SMS COLORADO 25C MS,NGC Universal ID: 27KZ,Denver,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P NORTH DAKOTA 25C MS,NGC Universal ID: 24BT,Philadelphia,305800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D COLORADO 25C MS,NGC Universal ID: 24BS,Denver,294200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P SMS COLORADO 25C MS,NGC Universal ID: 27KY,Philadelphia,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P COLORADO 25C MS,NGC Universal ID: 24BR,Philadelphia,274800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D SMS NEBRASKA 25C MS,NGC Universal ID: 27KX,Denver,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P SMS NEBRASKA 25C MS,NGC Universal ID: 27KW,Philadelphia,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D NEBRASKA 25C MS,NGC Universal ID: 24BP,Denver,273000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P NEBRASKA 25C MS,NGC Universal ID: 24BN,Philadelphia,318000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D SMS NEVADA 25C MS,NGC Universal ID: 27KV,Denver,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P SMS NEVADA 25C MS,NGC Universal ID: 27KU,Philadelphia,847361
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 D NEVADA 25C MS,NGC Universal ID: 24BM,Denver,312800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2006 P NEVADA 25C MS,NGC Universal ID: 24BL,Philadelphia,277000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D SMS WEST VIRGINIA 25C MS,NGC Universal ID: 27KT,Denver,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P SMS WEST VIRGINIA 25C MS,NGC Universal ID: 27KS,Philadelphia,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D KANSAS 25C MS,NGC Universal ID: 24BH,Denver,300000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P WEST VIRGINIA 25C MS,NGC Universal ID: 24BJ,Philadelphia,365400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D SMS KANSAS 25C MS,NGC Universal ID: 27KR,Denver,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D SMS OREGON 25C MS,NGC Universal ID: 27KN,Denver,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P SMS KANSAS 25C MS,NGC Universal ID: 27KP,Philadelphia,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P KANSAS 25C MS,NGC Universal ID: 24BG,Philadelphia,2634000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D OREGON 25C MS,NGC Universal ID: 24BF,Denver,404000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D WEST VIRGINIA 25C MS,NGC Universal ID: 24BK,Denver,356200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P OREGON 25C MS,NGC Universal ID: 24BE,Philadelphia,316200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P SMS OREGON 25C MS,NGC Universal ID: 27KM,Philadelphia,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P SMS MINNESOTA 25C MS,NGC Universal ID: 27KK,Philadelphia,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D MINNESOTA 25C MS,NGC Universal ID: 24BD,Denver,248400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D SMS MINNESOTA 25C MS,NGC Universal ID: 27KL,Denver,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P MINNESOTA 25C MS,NGC Universal ID: 24BC,Philadelphia,239600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D SMS CALIFORNIA 25C MS,NGC Universal ID: 27KJ,Denver,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 D CALIFORNIA 25C MS,NGC Universal ID: 24BB,Denver,263200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P SMS CALIFORNIA 25C MS,NGC Universal ID: 27KH,Philadelphia,1160000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2005 P CALIFORNIA 25C MS,NGC Universal ID: 24BA,Philadelphia,257200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D EXTRA LEAF LOW WISCONSIN 25C MS,NGC Universal ID: 27KG,Denver,0
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D EXTRA LEAF HIGH WISCONSIN 25C MS,NGC Universal ID: 27KF,Denver,0
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D WISCONSIN 25C MS,NGC Universal ID: 24B9,Denver,0
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D IOWA 25C MS,NGC Universal ID: 24B7,Denver,251400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 P WISCONSIN 25C MS,NGC Universal ID: 24B8,Philadelphia,226400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 P IOWA 25C MS,NGC Universal ID: 24B6,Philadelphia,213800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D TEXAS 25C MS,NGC Universal ID: 24B5,Denver,263000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 P TEXAS 25C MS,NGC Universal ID: 24B4,Philadelphia,278800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D FLORIDA 25C MS,NGC Universal ID: 24B3,Denver,241600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 D MICHIGAN 25C MS,NGC Universal ID: 24AZ,Denver,225800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 P MICHIGAN 25C MS,NGC Universal ID: 24AY,Philadelphia,233800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2004 P FLORIDA 25C MS,NGC Universal ID: 24B2,Philadelphia,240200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 D ARKANSAS 25C MS,NGC Universal ID: 24AX,Denver,229800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 D MISSOURI 25C MS,NGC Universal ID: 24AV,Denver,228200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 P ARKANSAS 25C MS,NGC Universal ID: 24AW,Philadelphia,228000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 P MISSOURI 25C MS,NGC Universal ID: 24AU,Philadelphia,225000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 D MAINE 25C MS,NGC Universal ID: 24AT,Denver,231400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 D ALABAMA 25C MS,NGC Universal ID: 24AR,Denver,232400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 P MAINE 25C MS,NGC Universal ID: 24AS,Philadelphia,217400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 P ALABAMA 25C MS,NGC Universal ID: 24AP,Philadelphia,225000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 D ILLINOIS 25C MS,NGC Universal ID: 24AN,Denver,237400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 D MISSISSIPPI 25C MS,NGC Universal ID: 24AL,Denver,289600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2003 P ILLINOIS 25C MS,NGC Universal ID: 24AM,Philadelphia,225800000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 P MISSISSIPPI 25C MS,NGC Universal ID: 24AK,Philadelphia,290000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 D INDIANA 25C MS,NGC Universal ID: 27KE,Denver,327200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 P INDIANA 25C MS,NGC Universal ID: 24AJ,Denver,362600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 D LOUISIANA 25C MS,NGC Universal ID: 24AH,Denver,402204000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 P LOUISIANA 25C MS,NGC Universal ID: 24AG,Philadelphia,362000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 D OHIO 25C MS,NGC Universal ID: 24AF,Denver,414832000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 P OHIO 25C MS,NGC Universal ID: 24AE,Philadelphia,217200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 D TENNESSEE 25C MS,NGC Universal ID: 24AD,Denver,286468000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2002 P TENNESSEE 25C MS,NGC Universal ID: 24AC,Philadelphia,361600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 D KENTUCKY 25C MS,NGC Universal ID: 24AB,Denver,370564000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 P KENTUCKY 25C MS,NGC Universal ID: 24AA,Philadelphia,353000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 D VERMONT 25C MS,NGC Universal ID: 24A9,Denver,459404000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 P VERMONT 25C MS,NGC Universal ID: 24A8,Philadelphia,423400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 D RHODE ISLAND 25C MS,NGC Universal ID: 24A7,Denver,447100000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 P RHODE ISLAND 25C MS,NGC Universal ID: 24A6,Philadelphia,423000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 D NO.CAROLINA 25C MS,NGC Universal ID: 24A5,Denver,427876000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 P NO.CAROLINA 25C MS,NGC Universal ID: 24A4,Philadelphia,627600000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 P NEW YORK 25C MS,NGC Universal ID: 24A2,Philadelphia,655400000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 D VIRGINIA 25C MS,NGC Universal ID: 249Z,Denver,651616000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2001 D NEW YORK 25C MS,NGC Universal ID: 24A3,Denver,619640000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 P VIRGINIA 25C MS,NGC Universal ID: 249Y,Philadelphia,943000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 D NEW HAMPSHIRE 25C MS,NGC Universal ID: 249X,Denver,495976000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 P NEW HAMPSHIRE 25C MS,NGC Universal ID: 249W,Philadelphia,673040000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 D SO.CAROLINA 25C MS,NGC Universal ID: 249V,Denver,566208000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 P SO.CAROLINA 25C MS,NGC Universal ID: 249U,Philadelphia,742576000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 D MARYLAND 25C MS,NGC Universal ID: 249T,Denver,556532000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 P MARYLAND 25C MS,NGC Universal ID: 249S,Philadelphia,678200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 D MASSACHUSETTS 25C MS,NGC Universal ID: 249R,Denver,535184000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 D CONNECTICUT 25C MS,NGC Universal ID: 249N,Denver,657880000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters2000 P MASSACHUSETTS 25C MS,NGC Universal ID: 249P,Philadelphia,628000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 P CONNECTICUT 25C MS,NGC Universal ID: 249M,Philadelphia,688744000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 D GEORGIA 25C MS,NGC Universal ID: 249L,Denver,488744000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 P GEORGIA 25C MS,NGC Universal ID: 249K,Philadelphia,451188000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 D NEW JERSEY 25C MS,NGC Universal ID: 249J,Denver,299028000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 D PENNSYLVANIA 25C MS,NGC Universal ID: 249G,Denver,358332000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 P PENNSYLVANIA 25C MS,NGC Universal ID: 249F,Philadelphia,349000000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 P NEW JERSEY 25C MS,NGC Universal ID: 249H,Philadelphia,363200000
+Quarters,State & Territorial Quarters (1999-2009),State and Territorial Quarters1999 D DELAWARE 25C MS,NGC Universal ID: 249E,Denver,401424000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Clad San Antonio Missions 25C PF,NGC Universal ID: DK6H,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Silver San Antonio Missions 25C PF,NGC Universal ID: DK6J,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Silver American Memorial Park 25C PF,NGC Universal ID: DK6G,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Clad Pacific Historical Park 25C PF,NGC Universal ID: DK6D,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Silver Pacific Historical Park 25C PF,NGC Universal ID: DK6E,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Clad Lowell Historical Park 25C PF,NGC Universal ID: DK6B,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Silver Lowell Historical Park 25C PF,NGC Universal ID: DK6C,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Clad Block Island 25C PF,NGC Universal ID: D5H8,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Clad American Memorial Park 25C PF,NGC Universal ID: DK6F,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Silver Block Island 25C PF,NGC Universal ID: D5H9,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Silver Cumberland Island 25C PF,NGC Universal ID: D5H6,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Silver Apostle Islands 25C PF,NGC Universal ID: D5GU,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Clad Voyageurs 25C PF,NGC Universal ID: D5H2,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Clad Cumberland Island 25C PF,NGC Universal ID: D5H5,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Silver Voyageurs 25C PF,NGC Universal ID: D5H4,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Clad Apostle Islands 25C PF,NGC Universal ID: D5GT,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Silver Pictured Rocks 25C PF,NGC Universal ID: D5GN,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S SILVER GEORGE ROGERS CLARK 25C PF,NGC Universal ID: CSDM,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S CLAD CLARK EARLY RELEASES 25C PF,NGC Universal ID: CVAG,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S CLAD GEORGE ROGERS CLARK 25C PF,NGC Universal ID: CSDL,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Clad Pictured Rocks 25C PF,NGC Universal ID: D5GM,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S SILVER ELLIS ISLAND 25C PF,NGC Universal ID: CSDK,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S CLAD ELLIS ISLAND 25C PF,NGC Universal ID: CSDJ,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S SILVER FREDERICK DOUGLASS 25C PF,NGC Universal ID: CSDF,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S SILVER OZARK RIVERWAYS 25C PF,NGC Universal ID: CSDH,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S CLAD OZARK RIVERWAYS 25C PF,NGC Universal ID: CSDG,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S SILVER EFFIGY MOUNDS 25C PF,NGC Universal ID: CSDD,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S CLAD FREDERICK DOUGLASS 25C PF,NGC Universal ID: CSDE,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S FREDERICK DOUGLASS 25C SP,NGC Universal ID: CZVR,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S OZARK RIVERWAYS 25C SP,NGC Universal ID: CZVS,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S CLAD EFFIGY MOUNDS 25C PF,NGC Universal ID: CSDC,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S EFFIGY MOUNDS 25C SP,NGC Universal ID: CZVP,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S CLAD FORT MOULTRIE 25C PF,NGC Universal ID: BZZX,San Francisco,660215
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S SILVER FORT MOULTRIE 25C PF,NGC Universal ID: BZZY,San Francisco,479657
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S SILVER THEODORE ROOSEVELT 25C PF,NGC Universal ID: BZZW,San Francisco,479657
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S CLAD THEODORE ROOSEVELT 25C PF,NGC Universal ID: BZZV,San Francisco,660215
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S CLAD HARPERS FERRY 25C PF,NGC Universal ID: BZZT,San Francisco,660215
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S SILVER HARPERS FERRY 25C PF,NGC Universal ID: BZZU,San Francisco,479657
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S CLAD CUMBERLAND GAP 25C PF,NGC Universal ID: BZZR,San Francisco,660215
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S SILVER SHAWNEE 25C PF,NGC Universal ID: BZZP,San Francisco,479657
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S SILVER CUMBERLAND GAP 25C PF,NGC Universal ID: BZZS,San Francisco,479657
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S CLAD SHAWNEE 25C PF,NGC Universal ID: BZZN,San Francisco,660215
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S SILVER SARATOGA 25C PF,NGC Universal ID: BJVY,San Francisco,490829
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S CLAD SARATOGA 25C PF,NGC Universal ID: BJVW,San Francisco,762407
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S CLAD BOMBAY HOOK 25C PF,NGC Universal ID: BJVU,San Francisco,762407
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S SILVER BOMBAY HOOK 25C PF,NGC Universal ID: BJVV,San Francisco,490829
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S CLAD KISATCHIE 25C PF,NGC Universal ID: BJVP,San Francisco,762407
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S SILVER BLUE RIDGE 25C PF,NGC Universal ID: BJVT,San Francisco,490829
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S CLAD BLUE RIDGE 25C PF,NGC Universal ID: BJVS,San Francisco,762407
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S SILVER HOMESTEAD 25C PF,NGC Universal ID: BJVN,San Francisco,490829
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S SILVER KISATCHIE 25C PF,NGC Universal ID: BJVR,San Francisco,490829
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S CLAD EVERGLADES 25C PF,NGC Universal ID: ASVD,San Francisco,784467
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S CLAD HOMESTEAD 25C PF,NGC Universal ID: BJVM,San Francisco,762407
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S SILVER EVERGLADES 25C PF,NGC Universal ID: ASVE,San Francisco,501944
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S SILVER GREAT SAND DUNES 25C PF,NGC Universal ID: ASVC,San Francisco,501944
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S CLAD GREAT SAND DUNES 25C PF,NGC Universal ID: ASVB,San Francisco,784878
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S SILVER SHENANDOAH 25C PF,NGC Universal ID: ASV7,San Francisco,501944
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S CLAD ARCHES 25C PF,NGC Universal ID: ASV8,San Francisco,786542
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S CLAD SHENANDOAH 25C PF,NGC Universal ID: ASV6,San Francisco,788373
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S SILVER ARCHES 25C PF,NGC Universal ID: ASVA,San Francisco,501944
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S SILVER GREAT SMOKY MOUNTAINS 25C PF,NGC Universal ID: ASV5,San Francisco,501944
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S CLAD GREAT SMOKY MOUNTAINS 25C PF,NGC Universal ID: ASV4,San Francisco,790678
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S SILVER MOUNT RUSHMORE 25C PF,NGC Universal ID: 2U8B,San Francisco,557647
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S CLAD MOUNT RUSHMORE 25C PF,NGC Universal ID: 2U8A,San Francisco,946016
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S SILVER FORT McHENRY 25C PF,NGC Universal ID: 2U89,San Francisco,557647
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S CLAD FORT McHENRY 25C PF,NGC Universal ID: 2U88,San Francisco,945414
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S SILVER GREAT BASIN 25C PF,NGC Universal ID: 2U87,San Francisco,557647
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S CLAD PEACE MEMORIAL 25C PF,NGC Universal ID: 2U84,San Francisco,947055
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S CLAD GREAT BASIN 25C PF,NGC Universal ID: 2U86,San Francisco,945055
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S SILVER DENALI 25C PF,NGC Universal ID: 2TUP,San Francisco,557891
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S CLAD WHITE MOUNTAIN 25C PF,NGC Universal ID: 2U82,San Francisco,948364
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S CLAD DENALI 25C PF,NGC Universal ID: 2TUN,San Francisco,957856
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S SILVER WHITE MOUNTAIN 25C PF,NGC Universal ID: 2U83,San Francisco,557647
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S CLAD VOLCANOES 25C PF,NGC Universal ID: 2TUL,San Francisco,961272
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S SILVER VOLCANOES 25C PF,NGC Universal ID: 2TUM,San Francisco,557891
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S SILVER ACADIA 25C PF,NGC Universal ID: 2TUJ,San Francisco,557891
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S CLAD ACADIA 25C PF,NGC Universal ID: 2TUK,San Francisco,960409
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S SILVER PEACE MEMORIAL 25C PF,NGC Universal ID: 2U85,San Francisco,557647
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S SILVER CHACO 25C PF,NGC Universal ID: 2TUH,San Francisco,557891
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S SILVER EL YUNQUE 25C PF,NGC Universal ID: 2TUF,San Francisco,557891
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S SILVER CHICKASAW 25C PF,NGC Universal ID: 24E5,San Francisco,722076
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S CLAD CHACO 25C PF,NGC Universal ID: 2TUG,San Francisco,960049
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S CLAD EL YUNQUE 25C PF,NGC Universal ID: 2TUE,San Francisco,1010361
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S CLAD CHICKASAW 25C PF,NGC Universal ID: 24E4,San Francisco,1266010
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S CLAD VICKSBURG 25C PF,NGC Universal ID: 24E2,San Francisco,1267691
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S SILVER VICKSBURG 25C PF,NGC Universal ID: 24E3,San Francisco,722076
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S CLAD OLYMPIC 25C PF,NGC Universal ID: 24DY,San Francisco,1267361
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S SILVER OLYMPIC 25C PF,NGC Universal ID: 24DZ,San Francisco,722076
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S CLAD GLACIER 25C PF,NGC Universal ID: 24DW,San Francisco,1268452
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S SILVER GLACIER 25C PF,NGC Universal ID: 24DX,San Francisco,722076
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S SILVER GETTYSBURG 25C PF,NGC Universal ID: 24DV,San Francisco,722076
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 S CLAD GETTYSBURG 25C PF,NGC Universal ID: 24DU,San Francisco,1271553
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S SILVER MOUNT HOOD 25C PF,NGC Universal ID: 27S7,San Francisco,859435
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S SILVER GRAND CANYON 25C PF,NGC Universal ID: 27S5,San Francisco,859435
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S CLAD GRAND CANYON 25C PF,NGC Universal ID: 27S4,San Francisco,1399970
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S CLAD MOUNT HOOD 25C PF,NGC Universal ID: 27S6,San Francisco,1397101
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S SILVER YOSEMITE 25C PF,NGC Universal ID: 27S3,San Francisco,859435
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S CLAD YOSEMITE 25C PF,NGC Universal ID: 27S2,San Francisco,1400215
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S SILVER YELLOWSTONE 25C PF,NGC Universal ID: 27RZ,San Francisco,859435
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S CLAD YELLOWSTONE 25C PF,NGC Universal ID: 27RY,San Francisco,1402756
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S SILVER HOT SPRINGS 25C PF,NGC Universal ID: 27RX,San Francisco,859435
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 S CLAD HOT SPRINGS 25C PF,NGC Universal ID: 27RW,San Francisco,1401903
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S GEORGE ROGERS CLARK 25C SP,NGC Universal ID: CZVW,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 D River of No Return 25C MS,NGC Universal ID: DK4V,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 W San Anton Great American Coin Hunt 25C MS,NGC Universal ID: DR6X,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S ELLIS ISLAND 25C SP,NGC Universal ID: CZVU,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 P River of No Return 25C MS,NGC Universal ID: DK4T,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 D San Antonio Missions 25C MS,NGC Universal ID: DK4N,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 W Pacific HP Great American Coin Hunt 25C MS,NGC Universal ID: DR6W,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Pacific Historical Park 25C MS,NGC Universal ID: DK4F,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 P San Antonio Missions 25C MS,NGC Universal ID: DK4M,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 P Pacific Historical Park 25C MS,NGC Universal ID: DK3X,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 D Pacific Historical Park 25C MS,NGC Universal ID: DK4E,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 W Am Mem Pk Great American Coin Hunt 25C MS,NGC Universal ID: DR6V,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 D American Memorial Park 25C MS,NGC Universal ID: DK3V,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 S Lowell Historical Park 25C MS,NGC Universal ID: DK3T,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 P American Memorial Park 25C MS,NGC Universal ID: DK3U,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 W Lowell Great American Coin Hunt 25C MS,NGC Universal ID: DR6U,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 P Lowell Historical Park 25C MS,NGC Universal ID: DK3R,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Block Island 25C MS,NGC Universal ID: D5GJ,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 D Block Island 25C MS,NGC Universal ID: D5GH,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 P Block Island 25C MS,NGC Universal ID: D5GF,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2019 D Lowell Historical Park 25C MS,NGC Universal ID: DK3S,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Cumberland Island 25C MS,NGC Universal ID: D5GE,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 D Cumberland Island 25C MS,NGC Universal ID: D5GD,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Voyageurs 25C MS,NGC Universal ID: D5GB,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 P Cumberland Island 25C MS,NGC Universal ID: D5GC,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 D Voyageurs 25C MS,NGC Universal ID: D5GA,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 P Voyageurs 25C MS,NGC Universal ID: D5G9,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 D Apostle Islands 25C MS,NGC Universal ID: D5G3,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Pictured Rocks 25C MS,NGC Universal ID: D5FZ,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 P Apostle Islands 25C MS,NGC Universal ID: D5G2,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 S Apostle Islands 25C MS,NGC Universal ID: D5G8,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 D Pictured Rocks 25C MS,NGC Universal ID: D5FW,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2018 P Pictured Rocks 25C MS,NGC Universal ID: D5FV,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S GEORGE ROGERS CLARK 25C MS,NGC Universal ID: CSC4,undefined,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 P GEORGE ROGERS CLARK 25C MS,NGC Universal ID: CSC2,Philadelphia,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 D GEORGE ROGERS CLARK 25C MS,NGC Universal ID: CSC3,Denver,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S ELLIS ISLAND 25C MS,NGC Universal ID: CSBZ,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 P ELLIS ISLAND 25C MS,NGC Universal ID: CSBW,Philadelphia,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 D ELLIS ISLAND 25C MS,NGC Universal ID: CSBY,Denver,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 D OZARK RIVERWAYS 25C MS,NGC Universal ID: CSBU,Denver,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 P OZARK RIVERWAYS 25C MS,NGC Universal ID: CSBT,Philadelphia,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S OZARK RIVERWAYS 25C MS,NGC Universal ID: CSBV,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S FREDERICK DOUGLASS 25C MS,NGC Universal ID: CSB9,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 P FREDERICK DOUGLASS 25C MS,NGC Universal ID: CSB7,Philadelphia,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 D FREDERICK DOUGLASS 25C MS,NGC Universal ID: CSB8,Denver,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 S EFFIGY MOUNDS 25C MS,NGC Universal ID: CS9L,San Francisco,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 D EFFIGY MOUNDS 25C MS,NGC Universal ID: CS9J,Denver,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2017 P EFFIGY MOUNDS 25C MS,NGC Universal ID: CS9H,Philadelphia,0
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S FORT MOULTRIE 25C MS,NGC Universal ID: BZYN,San Francisco,863860
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 D FORT MOULTRIE 25C MS,NGC Universal ID: BZYM,Denver,142200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 P FORT MOULTRIE 25C MS,NGC Universal ID: BZYL,Philadelphia,154400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S THEODORE ROOSEVELT 25C MS,NGC Universal ID: BZYK,San Francisco,976760
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 D THEODORE ROOSEVELT 25C MS,NGC Universal ID: BZYJ,Denver,223200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 P THEODORE ROOSEVELT 25C MS,NGC Universal ID: BZYE,Philadelphia,231600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S HARPERS FERRY 25C MS,NGC Universal ID: BZYD,San Francisco,976420
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 D HARPERS FERRY 25C MS,NGC Universal ID: BZYC,Denver,424000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 P HARPERS FERRY 25C MS,NGC Universal ID: BZYB,Philadelphia,434630000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S CUMBERLAND GAP 25C MS,NGC Universal ID: BZXG,San Francisco,975220
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 P CUMBERLAND GAP 25C MS,NGC Universal ID: BZXE,Philadelphia,215400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 D CUMBERLAND GAP 25C MS,NGC Universal ID: BZXF,Denver,223200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 S SHAWNEE 25C MS,NGC Universal ID: BZX9,San Francisco,1029340
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 D SHAWNEE 25C MS,NGC Universal ID: BZX3,Denver,151800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2016 P SHAWNEE 25C MS,NGC Universal ID: BZX2,Philadelphia,155600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S SARATOGA 25C MS,NGC Universal ID: BJR6,San Francisco,888380
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 D SARATOGA 25C MS,NGC Universal ID: BJPW,Denver,215800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 P SARATOGA 25C MS,NGC Universal ID: BJPV,Philadelphia,223000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S BOMBAY HOOK 25C MS,NGC Universal ID: BJR3,San Francisco,923960
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S BLUE RIDGE 25C MS,NGC Universal ID: BJPZ,San Francisco,1049500
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 D BOMBAY HOOK 25C MS,NGC Universal ID: BJPU,Denver,206400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 P BOMBAY HOOK 25C MS,NGC Universal ID: BJPT,Philadelphia,206400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 P BLUE RIDGE 25C MS,NGC Universal ID: BJPR,Philadelphia,505200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 D BLUE RIDGE 25C MS,NGC Universal ID: BJPS,Denver,505200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 P KISATCHIE 25C MS,NGC Universal ID: BJPM,Philadelphia,397200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S KISATCHIE 25C MS,NGC Universal ID: BJPY,San Francisco,1081560
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 D KISATCHIE 25C MS,NGC Universal ID: BJPP,Denver,379600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 S HOMESTEAD 25C MS,NGC Universal ID: BJPX,San Francisco,1135460
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 D HOMESTEAD 25C MS,NGC Universal ID: BJPL,Denver,248600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2015 P HOMESTEAD 25C MS,NGC Universal ID: BJPJ,Philadelphia,214400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S EVERGLADES 25C MS,NGC Universal ID: AXK9,San Francisco,954540
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 P EVERGLADES 25C MS,NGC Universal ID: ASV2,Philadelphia,157601200
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 D EVERGLADES 25C MS,NGC Universal ID: ASV3,Denver,142400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S GREAT SAND DUNES 25C MS,NGC Universal ID: AXK8,San Francisco,784878
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 P GREAT SAND DUNES 25C MS,NGC Universal ID: ASUY,Philadelphia,159600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 D GREAT SAND DUNES 25C MS,NGC Universal ID: ASUZ,Denver,171800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S ARCHES 25C MS,NGC Universal ID: AXK7,San Francisco,1076740
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 D ARCHES 25C MS,NGC Universal ID: ASUX,Denver,251400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 P ARCHES 25C MS,NGC Universal ID: ASTN,Philadelphia,214200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S SHENANDOAH 25C MS,NGC Universal ID: AXK6,San Francisco,1237340
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 D SHENANDOAH 25C MS,NGC Universal ID: ASTM,Denver,197800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 P SHENANDOAH 25C MS,NGC Universal ID: ASTL,Philadelphia,112800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 S GREAT SMOKY MOUNTAINS 25C MS,NGC Universal ID: AXK5,San Francisco,1326380
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 D GREAT SMOKY MOUNTAINS 25C MS,NGC Universal ID: ASTK,Denver,99400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2014 P GREAT SMOKY MOUNTAINS 25C MS,NGC Universal ID: ASTJ,Philadelphia,73200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S MOUNT RUSHMORE 25C MS,NGC Universal ID: 2UCX,San Francisco,1373260
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 D MOUNT RUSHMORE 25C MS,NGC Universal ID: 2U7Z,Denver,272400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 P MOUNT RUSHMORE 25C MS,NGC Universal ID: 2U7Y,Philadelphia,231800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 D FORT McHENRY 25C MS,NGC Universal ID: 2U7X,Denver,151400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S FORT McHENRY 25C MS,NGC Universal ID: 2UCW,San Francisco,1313680
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 P FORT McHENRY 25C MS,NGC Universal ID: 2U7W,Philadelphia,120000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S GREAT BASIN 25C MS,NGC Universal ID: 2UCV,San Francisco,1316500
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 D GREAT BASIN 25C MS,NGC Universal ID: 2U7V,Denver,141400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S PEACE MEMORIAL 25C MS,NGC Universal ID: 2UCU,San Francisco,1023640
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 P GREAT BASIN 25C MS,NGC Universal ID: 2U7U,Philadelphia,122400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 D PEACE MEMORIAL 25C MS,NGC Universal ID: 2U7T,Denver,131600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 P PEACE MEMORIAL 25C MS,NGC Universal ID: 2U7S,Philadelphia,107800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 S WHITE MOUNTAIN 25C MS,NGC Universal ID: 2UCT,San Francisco,1606900
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 P WHITE MOUNTAIN 25C MS,NGC Universal ID: 2U7P,Philadelphia,68800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2013 D WHITE MOUNTAIN 25C MS,NGC Universal ID: 2U7R,Denver,107600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 P DENALI 25C MS,NGC Universal ID: 2TUC,Philadelphia,135400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S DENALI 25C MS,NGC Universal ID: 2TZ9,San Francisco,1401920
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 D DENALI 25C MS,NGC Universal ID: 2TUD,Denver,166600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S VOLCANOES 25C MS,NGC Universal ID: 2U22,San Francisco,1407520
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 P VOLCANOES 25C MS,NGC Universal ID: 2TUA,Philadelphia,46200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S ACADIA 25C MS,NGC Universal ID: 2TZ8,San Francisco,1409120
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 D VOLCANOES 25C MS,NGC Universal ID: 2TUB,Denver,78600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 D ACADIA 25C MS,NGC Universal ID: 2TU9,Denver,21606000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 P ACADIA 25C MS,NGC Universal ID: 2TU8,Philadelphia,24800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S EL YUNQUE 25C MS,NGC Universal ID: 2TZA,San Francisco,1679240
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 S CHACO 25C MS,NGC Universal ID: 2TZ7,San Francisco,1389020
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 P CHACO 25C MS,NGC Universal ID: 2TU6,Philadelphia,22000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 D CHACO 25C MS,NGC Universal ID: 2TU7,Denver,22000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 D CHICKASAW 25C MS,NGC Universal ID: 24DT,Denver,69400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 P CHICKASAW 25C MS,NGC Universal ID: 24DS,Philadelphia,73800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 D VICKSBURG 25C MS,NGC Universal ID: 24DR,Denver,33400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 D EL YUNQUE 25C MS,NGC Universal ID: 2TU5,Denver,25000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2012 P EL YUNQUE 25C MS,NGC Universal ID: 2TU4,Philadelphia,25800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 P VICKSBURG 25C MS,NGC Universal ID: 24DP,Philadelphia,30800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 D OLYMPIC 25C MS,NGC Universal ID: 24DN,Denver,30600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 D GLACIER 25C MS,NGC Universal ID: 24DL,Denver,31200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 P OLYMPIC 25C MS,NGC Universal ID: 24DM,Philadelphia,30400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 P GLACIER 25C MS,NGC Universal ID: 24DK,Philadelphia,30400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D SMS MOUNT HOOD 25C MS,NGC Universal ID: 27RV,Denver,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 D GETTYSBURG 25C MS,NGC Universal ID: 24DJ,Denver,30400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2011 P GETTYSBURG 25C MS,NGC Universal ID: 24DH,Philadelphia,30800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D MOUNT HOOD 25C MS,NGC Universal ID: 27RU,Denver,34400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P SMS MOUNT HOOD 25C MS,NGC Universal ID: 27RT,Philadelphia,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D SMS GRAND CANYON 25C MS,NGC Universal ID: 27RS,Denver,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D GRAND CANYON 25C MS,NGC Universal ID: 24DG,Denver,35400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P MOUNT HOOD 25C MS,NGC Universal ID: 27RG,Philadelphia,34400000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P SMS GRAND CANYON 25C MS,NGC Universal ID: 27RR,Philadelphia,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P GRAND CANYON 25C MS,NGC Universal ID: 27RP,Philadelphia,34800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D SMS YOSEMITE 25C MS,NGC Universal ID: 27RN,Denver,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D YOSEMITE 25C MS,NGC Universal ID: 24DF,Denver,34800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P SMS YOSEMITE 25C MS,NGC Universal ID: 27RM,Philadelphia,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P YOSEMITE 25C MS,NGC Universal ID: 24DE,Philadelphia,35200000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D SMS YELLOWSTONE 25C MS,NGC Universal ID: 27RL,Denver,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D YELLOWSTONE 25C MS,NGC Universal ID: 24DD,Denver,34800000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P YELLOWSTONE 25C MS,NGC Universal ID: 24DC,Philadelphia,33600000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P SMS YELLOWSTONE 25C MS,NGC Universal ID: 27RK,Philadelphia,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D SMS HOT SPRINGS 25C MS,NGC Universal ID: 27RJ,Denver,583897
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 D HOT SPRINGS 25C MS,NGC Universal ID: 24DB,Denver,34000000
+Quarters,America the Beautiful Quarters,America the Beautiful Quarters2010 P SMS HOT SPRINGS 25C MS,NGC Universal ID: 27RH,Philadelphia,583897

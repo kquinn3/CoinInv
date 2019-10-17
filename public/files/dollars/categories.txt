@@ -1,0 +1,11 @@
+Dollars,Early Dollars (1794-1804)
+Dollars,Gobrecht Dollars (1836-1839)
+Dollars,Seated Liberty Dollars (1840-1873)
+Dollars,Trade Dollars (1873-1885)
+Dollars,Morgan Dollars (1878-1921)
+Dollars,Peace Dollars (1921-1935)
+Dollars,Eisenhower Dollars (1971-1978)
+Dollars,Anthony Dollars (1979-1999)
+Dollars,Sacagawea Dollars (2000-Date)
+Dollars,Presidential Dollars (2007-Date)
+Dollars,Innovation Dollars

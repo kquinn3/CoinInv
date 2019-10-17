@@ -1,0 +1,721 @@
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1796 50C MS,NGC Universal ID: 24E8,Philadelphia,3918
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1839 NO DRAPERY 50C MS,NGC Universal ID: 24GK,Philadelphia,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1836 REEDED GR-1 50C MS,NGC Universal ID: 2U28,Philadelphia,0
+HalfDollars,Flowing Hair Half Dollars (1794-1795),Flowing Hair Half Dollars1794 50C MS,NGC Universal ID: 24E6,Philadelphia,23464
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1807 CAPPED 50C MS,NGC Universal ID: 24EN,Philadelphia,750500
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1836 LETTERED 50C PF,NGC Universal ID: 24GG,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1835 50C PF,NGC Universal ID: 27SL,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1834 CRUSHED EDGE LETTERS 50C PF,NGC Universal ID: 2WDL,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1835 CRUSHED EDGE LETTERS 50C PF,NGC Universal ID: 2WDM,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1833 CRUSHED EDGE LETTERS 50C PF,NGC Universal ID: 2WDK,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1833 50C PF,NGC Universal ID: 27SJ,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1832 50C PF,NGC Universal ID: 24GC,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1834 50C PF,NGC Universal ID: 27SK,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1831 50C PF,NGC Universal ID: 27SH,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1830 50C PF,NGC Universal ID: 27SG,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1829 50C SP,NGC Universal ID: 24GA,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1829 50C PF,NGC Universal ID: 24GB,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1827 50C PF,NGC Universal ID: 24G9,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1826 50C PF,NGC Universal ID: 27SF,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1825 50C PF,NGC Universal ID: CYSW,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1823 50C PF,NGC Universal ID: 27SD,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1822 50C PF,NGC Universal ID: 27SC,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1821 50C PF,NGC Universal ID: 27SA,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1821 50C SP,NGC Universal ID: CYSV,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1818 50C SP,NGC Universal ID: 27S8,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1820 50C PF,NGC Universal ID: 27S9,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1818 50C PF,NGC Universal ID: 24G8,Philadelphia,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1835 50C MS,NGC Universal ID: 24FZ,Philadelphia,5352006
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1836 LETTERED 50C MS,NGC Universal ID: 24G2,Philadelphia,6545000
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1834 50C MS,NGC Universal ID: 24FY,Philadelphia,6412004
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1832 50C MS,NGC Universal ID: 24FW,Philadelphia,4797000
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1833 50C MS,NGC Universal ID: 24FX,Philadelphia,5206000
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1830 50C MS,NGC Universal ID: 24FU,Philadelphia,4764800
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1831 50C MS,NGC Universal ID: 24FV,Philadelphia,5873660
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1829/1827 50C MS,NGC Universal ID: 24FT,Philadelphia,3712156
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1829 50C MS,NGC Universal ID: 24FS,Philadelphia,3712156
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1828 50C MS,NGC Universal ID: 24FR,Philadelphia,3075200
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1827/6 50C MS,NGC Universal ID: 24FP,Philadelphia,5493400
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1827 50C MS,NGC Universal ID: 24FN,Philadelphia,5493400
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1826 50C MS,NGC Universal ID: 24FM,Philadelphia,4004180
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1823 50C MS,NGC Universal ID: 24FJ,Philadelphia,1694200
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1822/1 50C MS,NGC Universal ID: 24FH,Philadelphia,1559573
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1824 50C MS,NGC Universal ID: 24FK,Philadelphia,3504954
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1825 50C MS,NGC Universal ID: 24FL,Philadelphia,2943166
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1822 50C MS,NGC Universal ID: 24FG,Philadelphia,1559573
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1821 O-106 50C MS,NGC Universal ID: DJC2,undefined,0
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1820/19 50C MS,NGC Universal ID: 24FE,Philadelphia,751122
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1820 50C MS,NGC Universal ID: 24FD,Philadelphia,751122
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1821 50C MS,NGC Universal ID: 24FF,Philadelphia,1305797
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1819/8 50C MS,NGC Universal ID: 24FC,Philadelphia,2208000
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1818/7 50C MS,NGC Universal ID: 24FA,Philadelphia,1960322
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1819 50C MS,NGC Universal ID: 24FB,Philadelphia,2208000
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1817/4 50C MS,NGC Universal ID: 24F8,Philadelphia,1215567
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1818 50C MS,NGC Universal ID: 24F9,Philadelphia,1960322
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1817/3 50C MS,NGC Universal ID: 24F7,Philadelphia,1215567
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1815/2 50C MS,NGC Universal ID: 24F5,Philadelphia,47150
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1817 50C MS,NGC Universal ID: 24F6,Philadelphia,1215567
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1813 50C/UNI 50C MS,NGC Universal ID: 24F2,Philadelphia,1241903
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1814 50C MS,NGC Universal ID: 24F3,Philadelphia,1039075
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1814/3 50C MS,NGC Universal ID: 24F4,Philadelphia,1039075
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1812/1 LARGE 8 50C MS,NGC Universal ID: 24EX,Philadelphia,1628059
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1812/1 SMALL 8 50C MS,NGC Universal ID: 24EY,Philadelphia,1628059
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1811/10 50C MS,NGC Universal ID: 24EV,Philadelphia,1203644
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1812 50C MS,NGC Universal ID: 24EW,Philadelphia,1628059
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1813 50C MS,NGC Universal ID: 24EZ,Philadelphia,1241903
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1811 50C MS,NGC Universal ID: 24EU,Philadelphia,1203644
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1810 50C MS,NGC Universal ID: 24ET,Philadelphia,1276276
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1808/7 O-101 50C MS,NGC Universal ID: 24ER,Philadelphia,1368600
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1809 50C MS,NGC Universal ID: 24ES,Philadelphia,1405810
+HalfDollars,Capped Bust Lettered Edge Half Dollars (1807-1836),Capped Bust Lettered Edge Half Dollars1808 50C MS,NGC Universal ID: 24EP,Philadelphia,1368600
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1839 O 50C SP,NGC Universal ID: 24GJ,New Orleans,0
+HalfDollars,Flowing Hair Half Dollars (1794-1795),Flowing Hair Half Dollars1795 50C MS,NGC Universal ID: 24E7,Philadelphia,299680
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1839 O 50C PF,NGC Universal ID: 27SS,New Orleans,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1837 50C SP,NGC Universal ID: 27SN,Philadelphia,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1838 50C PF,NGC Universal ID: 27SP,Philadelphia,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1838 O 50C PF,NGC Universal ID: 27SR,New Orleans,20
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1837 50C PF,NGC Universal ID: 24GH,Philadelphia,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1836 REEDED 50C PF,NGC Universal ID: 27SM,Philadelphia,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1839 SM LET CAPPED GR-1 50C MS,NGC Universal ID: 2U29,Philadelphia,0
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1839 CAPPED 50C MS,NGC Universal ID: 24G6,Philadelphia,1392976
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1839 O 50C MS,NGC Universal ID: 24G7,New Orleans,178976
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1838 50C MS,NGC Universal ID: 24G5,Philadelphia,3546000
+HalfDollars,Capped Bust Reeded Edge Half Dollars (1836-1839),Capped Bust Reeded Edge Half Dollars1837 50C MS,NGC Universal ID: 24G4,Philadelphia,3629820
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1891 50C PF,NGC Universal ID: 27UT,Philadelphia,600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1889 50C PF,NGC Universal ID: 27UR,Philadelphia,711
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1888 50C PF,NGC Universal ID: 27UP,Philadelphia,832
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1890 50C PF,NGC Universal ID: 27US,Philadelphia,590
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1886 50C PF,NGC Universal ID: 27UM,Philadelphia,886
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1887 50C PF,NGC Universal ID: 27UN,Philadelphia,710
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1885 50C PF,NGC Universal ID: 27UL,Philadelphia,930
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1884 50C PF,NGC Universal ID: 27UK,Philadelphia,875
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1883 50C PF,NGC Universal ID: 27UJ,Philadelphia,1039
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1881 50C PF,NGC Universal ID: 27UG,Philadelphia,975
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1882 50C PF,NGC Universal ID: 27UH,Philadelphia,1100
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1880 50C PF,NGC Universal ID: 27UF,Philadelphia,1355
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1879 50C PF,NGC Universal ID: 27UE,Philadelphia,1100
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1876 CC 50C PF,NGC Universal ID: 27UB,Carson City,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1878 50C PF,NGC Universal ID: 27UD,Philadelphia,800
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1877 50C PF,NGC Universal ID: 27UC,Philadelphia,510
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1876 50C PF,NGC Universal ID: 27UA,Philadelphia,1150
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1874 ARROWS 50C PF,NGC Universal ID: 27UV,Philadelphia,700
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 ARROWS 50C PF,NGC Universal ID: 27UU,Philadelphia,550
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 CL 3 NO ARROWS 50C PF,NGC Universal ID: 27U8,Philadelphia,600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1875 50C PF,NGC Universal ID: 27U9,Philadelphia,700
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1872 50C PF,NGC Universal ID: 27U7,Philadelphia,950
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1871 50C PF,NGC Universal ID: 27U6,Philadelphia,960
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1870 50C PF,NGC Universal ID: 27U5,Philadelphia,1000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1869 50C PF,NGC Universal ID: 27U4,Philadelphia,600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1867 50C PF,NGC Universal ID: 27U2,Philadelphia,625
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1868 50C PF,NGC Universal ID: 27U3,Philadelphia,600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1866 MOTTO 50C PF,NGC Universal ID: 27TZ,Philadelphia,725
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1866 NO MOTTO 50C PF,NGC Universal ID: 27TT,Philadelphia,1
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1863 50C PF,NGC Universal ID: 27TP,Philadelphia,460
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1861 O 50C SP,NGC Universal ID: 27TM,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1864 50C PF,NGC Universal ID: 27TR,Philadelphia,470
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1862 50C PF,NGC Universal ID: 27TN,Philadelphia,550
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1865 50C PF,NGC Universal ID: 27TS,Philadelphia,500
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1860 O 50C SP,NGC Universal ID: CFVK,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1861 50C PF,NGC Universal ID: 27TL,Philadelphia,1000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1858 50C PF,NGC Universal ID: 27TH,Philadelphia,300
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1860 50C PF,NGC Universal ID: 27TK,Philadelphia,1000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1859 50C PF,NGC Universal ID: 27TJ,Philadelphia,800
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1857 50C PF,NGC Universal ID: 27TG,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1856 50C PF,NGC Universal ID: 27TF,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1855 S ARROWS 50C PF,NGC Universal ID: 27TY,San Francisco,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1854 O ARROWS 50C SP,NGC Universal ID: 27TX,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1855 ARROWS 50C PF,NGC Universal ID: 24LE,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1854 ARROWS 50C PF,NGC Universal ID: 27TW,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1853 ARROWS & RAYS 50C SP,NGC Universal ID: 27TV,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1852 O 50C PF,NGC Universal ID: 27TE,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1852 50C PF,NGC Universal ID: 27TD,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1853 ARROWS & RAYS 50C PF,NGC Universal ID: 27TU,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1850 50C PF,NGC Universal ID: 27TC,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1849 50C PF,NGC Universal ID: 27TB,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1847 50C PF,NGC Universal ID: 27T9,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1848 50C PF,NGC Universal ID: 27TA,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1845 50C PF,NGC Universal ID: 27T7,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 MEDIUM DATE 50C PF,NGC Universal ID: 27T8,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1844 50C PF,NGC Universal ID: 27T6,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1843 50C PF,NGC Universal ID: 27T5,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 SM DATE LG LET 50C PF,NGC Universal ID: 27T4,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1841 50C PF,NGC Universal ID: 27T3,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1840 SMALL LETTERS 50C PF,NGC Universal ID: 27T2,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1839 DRAPERY 50C PF,NGC Universal ID: 24LD,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1891 50C MS,NGC Universal ID: 24L6,Philadelphia,200000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1890 50C MS,NGC Universal ID: 24L5,Philadelphia,12000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1839 NO DRAPERY 50C PF,NGC Universal ID: 27SZ,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1889 50C MS,NGC Universal ID: 24L4,Philadelphia,12000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1888 50C MS,NGC Universal ID: 24L3,Philadelphia,12001
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1887 50C MS,NGC Universal ID: 24L2,Philadelphia,5000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1886 50C MS,NGC Universal ID: 24KZ,Philadelphia,5000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1884 50C MS,NGC Universal ID: 24KX,Philadelphia,4400
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1885 50C MS,NGC Universal ID: 24KY,Philadelphia,5200
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1883 50C MS,NGC Universal ID: 24KW,Philadelphia,8000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1881 50C MS,NGC Universal ID: 24KU,Philadelphia,10000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1882 50C MS,NGC Universal ID: 24KV,Philadelphia,4400
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1878 S 50C MS,NGC Universal ID: 24KR,San Francisco,12000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1879 50C MS,NGC Universal ID: 24KS,Philadelphia,4800
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1880 50C MS,NGC Universal ID: 24KT,Philadelphia,8400
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1878 50C MS,NGC Universal ID: 24KN,Philadelphia,1377600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1877 CC 50C MS,NGC Universal ID: 24KL,Carson City,1420000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1877 S 50C MS,NGC Universal ID: 24KM,San Francisco,5356000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1878 CC 50C MS,NGC Universal ID: 24KP,Carson City,62000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1877 50C MS,NGC Universal ID: 24KK,Philadelphia,8304000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1876 S 50C MS,NGC Universal ID: 24KJ,San Francisco,4528000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1876 CC 50C MS,NGC Universal ID: 24KH,Carson City,1956000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1875 CC 50C MS,NGC Universal ID: 24KE,Carson City,1008000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1876 50C MS,NGC Universal ID: 24KG,Philadelphia,8418000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1875 50C MS,NGC Universal ID: 24KD,Philadelphia,6026800
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1875 S 50C MS,NGC Universal ID: 24KF,San Francisco,3200000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1874 S ARROWS 50C MS,NGC Universal ID: 24LC,San Francisco,394000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1874 CC ARROWS 50C MS,NGC Universal ID: 24LB,Carson City,59000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 S ARROWS 50C MS,NGC Universal ID: 24L9,San Francisco,228000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1874 ARROWS 50C MS,NGC Universal ID: 24LA,Philadelphia,2359600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 CC ARROWS 50C MS,NGC Universal ID: 24L8,Carson City,214560
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 CC NO ARROWS 50C MS,NGC Universal ID: 24KC,Carson City,122500
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 ARROWS 50C MS,NGC Universal ID: 24L7,Philadelphia,1815150
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 OP 3 NO ARROWS 50C MS,NGC Universal ID: 24KB,Philadelphia,214200
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1873 CL 3 NO ARROWS 50C MS,NGC Universal ID: 24KA,Philadelphia,587000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1872 S 50C MS,NGC Universal ID: 24K9,San Francisco,580000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1872 CC 50C MS,NGC Universal ID: 24K8,Carson City,272000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1871 CC 50C MS,NGC Universal ID: 24K5,Carson City,153950
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1871 50C MS,NGC Universal ID: 24K4,Philadelphia,1203600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1872 50C MS,NGC Universal ID: 24K7,Philadelphia,880600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1871 S 50C MS,NGC Universal ID: 24K6,San Francisco,2178000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1870 CC 50C MS,NGC Universal ID: 24K2,Carson City,54617
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1870 S 50C MS,NGC Universal ID: 24K3,San Francisco,1004000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1870 50C MS,NGC Universal ID: 24JZ,Philadelphia,633900
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1869 50C MS,NGC Universal ID: 24JX,Philadelphia,795300
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1869 S 50C MS,NGC Universal ID: 24JY,San Francisco,656000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1868 S 50C MS,NGC Universal ID: 24JW,San Francisco,1160000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1867 S 50C MS,NGC Universal ID: 24JU,San Francisco,1196000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1866 S MOTTO 50C MS,NGC Universal ID: 27SY,San Francisco,994000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1867 50C MS,NGC Universal ID: 24JT,Philadelphia,449300
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1868 50C MS,NGC Universal ID: 24JV,Philadelphia,417600
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1866 S NO MOTTO 50C MS,NGC Universal ID: 24JH,San Francisco,60000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1866 MOTTO 50C MS,NGC Universal ID: 2VTG,Philadelphia,744900
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1865 S 50C MS,NGC Universal ID: 24JG,San Francisco,675000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1865 50C MS,NGC Universal ID: 24JF,Philadelphia,511400
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1864 S 50C MS,NGC Universal ID: 24JE,San Francisco,658000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1862 S 50C MS,NGC Universal ID: 24JA,San Francisco,1352000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1862 50C MS,NGC Universal ID: 24J9,Philadelphia,253000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1863 S 50C MS,NGC Universal ID: 24JC,San Francisco,916000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1864 50C MS,NGC Universal ID: 24JD,Philadelphia,379100
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1863 50C MS,NGC Universal ID: 24JB,Philadelphia,503200
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1861 S 50C MS,NGC Universal ID: 24J5,New Orleans,1290000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1860 S 50C MS,NGC Universal ID: 24J6,San Francisco,472000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1860 O 50C MS,NGC Universal ID: 24J4,New Orleans,1290000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1861 O 50C MS,NGC Universal ID: 24J8,New Orleans,2532633
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1861 50C MS,NGC Universal ID: 24J7,Philadelphia,2887400
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1860 50C MS,NGC Universal ID: 24J3,Philadelphia,302700
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1859 S 50C MS,NGC Universal ID: 24J2,San Francisco,566000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1859 50C MS,NGC Universal ID: 24HY,Philadelphia,747200
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1859 O 50C MS,NGC Universal ID: 24HZ,New Orleans,2834000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1858 S 50C MS,NGC Universal ID: 24HX,San Francisco,476000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1858 50C MS,NGC Universal ID: 24HV,Philadelphia,4225700
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1857 S 50C MS,NGC Universal ID: 24HU,San Francisco,158000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1858 O 50C MS,NGC Universal ID: 24HW,New Orleans,7294000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1857 O 50C MS,NGC Universal ID: 24HT,New Orleans,818000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1857 50C MS,NGC Universal ID: 24HS,Philadelphia,1988000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1856 S 50C MS,NGC Universal ID: 24HR,San Francisco,211000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1856 O 50C MS,NGC Universal ID: 24HP,New Orleans,2658000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1856 50C MS,NGC Universal ID: 24HN,Philadelphia,938000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1855 ARROWS 50C MS,NGC Universal ID: 24JN,Philadelphia,759500
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1855 O ARROWS 50C MS,NGC Universal ID: 24JP,New Orleans,3688000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1855 S ARROWS 50C MS,NGC Universal ID: 24JR,San Francisco,129950
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1854 O ARROWS 50C MS,NGC Universal ID: 24JM,New Orleans,5240000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1854 ARROWS 50C MS,NGC Universal ID: 24JL,Philadelphia,2982000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1853 O NO ARROWS 50C MS,NGC Universal ID: 27SX,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1853 O ARR & RAYS 50C MS,NGC Universal ID: 24JK,New Orleans,1328000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1853 ARROWS & RAYS 50C MS,NGC Universal ID: 24JJ,Philadelphia,3532708
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1852 O 50C MS,NGC Universal ID: 24HM,New Orleans,144000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1852 50C MS,NGC Universal ID: 24HL,Philadelphia,77130
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1850 O 50C MS,NGC Universal ID: 24HH,New Orleans,2456000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1851 O 50C MS,NGC Universal ID: 24HK,New Orleans,402000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1850 50C MS,NGC Universal ID: 24HG,Philadelphia,227000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1851 50C MS,NGC Universal ID: 24HJ,Philadelphia,200750
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1849 O 50C MS,NGC Universal ID: 24HF,New Orleans,2310000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1848 O 50C MS,NGC Universal ID: 24HD,New Orleans,3180000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1849 50C MS,NGC Universal ID: 24HE,Philadelphia,1252000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1848 50C MS,NGC Universal ID: 24HC,Philadelphia,580000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1847 O 50C MS,NGC Universal ID: 24HB,New Orleans,2584000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1847 50C MS,NGC Universal ID: 24HA,Philadelphia,1156000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 O TALL DATE 50C MS,NGC Universal ID: 24H9,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 O MED DATE 50C MS,NGC Universal ID: 24H8,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 TALL DATE 50C MS,NGC Universal ID: 24H7,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 O 50C MS,NGC Universal ID: 27SW,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 MEDIUM DATE 50C MS,NGC Universal ID: 24H6,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1846 50C MS,NGC Universal ID: 27SV,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1845 O 50C MS,NGC Universal ID: 24H4,New Orleans,2094000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1844 50C MS,NGC Universal ID: 24GZ,Philadelphia,1766000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1844 O 50C MS,NGC Universal ID: 24H2,New Orleans,2005000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1845 50C MS,NGC Universal ID: 24H3,Philadelphia,589000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1843 50C MS,NGC Universal ID: 24GX,Philadelphia,3844000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1843 O 50C MS,NGC Universal ID: 24GY,New Orleans,2268000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 O MED DATE 50C MS,NGC Universal ID: 24GW,New Orleans,754000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 O SMALL DATE 50C MS,NGC Universal ID: 24GV,New Orleans,203000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 MEDIUM DATE 50C MS,NGC Universal ID: 24GU,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 SM DATE SM LET 50C MS,NGC Universal ID: 27SU,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 SM DATE LG LET 50C MS,NGC Universal ID: 24GT,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1842 50C MS,NGC Universal ID: 27ST,Philadelphia,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1841 O 50C MS,NGC Universal ID: 24GS,New Orleans,401000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1841 50C MS,NGC Universal ID: 24GR,Philadelphia,310000
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1840 (O) MED LETTERS 50C MS,NGC Universal ID: 24GP,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1840 O 50C MS,NGC Universal ID: 24GN,New Orleans,0
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1840 SMALL LETTERS 50C MS,NGC Universal ID: 24GM,Philadelphia,1435008
+HalfDollars,Seated Liberty Half Dollars (1839-1891),Seated Liberty Half Dollars1839 DRAPERY 50C MS,NGC Universal ID: 24GL,Philadelphia,0
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1796 50C SP,NGC Universal ID: 24EB,Philadelphia,0
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1807 DRAPED 50C MS,NGC Universal ID: 24EM,Philadelphia,301076
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1806 OVER INVERTED 6 50C MS,NGC Universal ID: CZEY,Philadelphia,0
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1806/5 50C MS,NGC Universal ID: 24EK,Philadelphia,839576
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1805/4 50C MS,NGC Universal ID: 24EH,Philadelphia,211722
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1806 50C MS,NGC Universal ID: 24EJ,Philadelphia,839576
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1803 50C MS,NGC Universal ID: 24EF,Philadelphia,188234
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1805 50C MS,NGC Universal ID: 24EG,Philadelphia,211722
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1797 50C MS,NGC Universal ID: 24EC,Philadelphia,3918
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1801 50C MS,NGC Universal ID: 24ED,Philadelphia,30289
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1802 O-101 50C MS,NGC Universal ID: 24EE,Philadelphia,29890
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1796 16 STARS 50C MS,NGC Universal ID: 24EA,Philadelphia,3918
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1948 50C MS,NGC Universal ID: 24SR,Philadelphia,3006814
+HalfDollars,Draped Bust Half Dollars (1796-1807),Draped Bust Half Dollars1796 15 STARS O-101 50C MS,NGC Universal ID: 24E9,Philadelphia,3918
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2019 S Explore & Discover 50C PF,NGC Universal ID: DPKG,undefined,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1964 50C MS,NGC Universal ID: 24U2,Philadelphia,273304004
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1916 50C MS,NGC Universal ID: 24PL,Philadelphia,608000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1941 50C PF,NGC Universal ID: 24SP,Philadelphia,15412
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1939 50C PF,NGC Universal ID: 27V7,Philadelphia,8808
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1940 50C PF,NGC Universal ID: 27V8,Philadelphia,11279
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1938 50C PF,NGC Universal ID: 27V6,Philadelphia,8152
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1942 50C PF,NGC Universal ID: 27V9,Philadelphia,21120
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1937 50C PF,NGC Universal ID: 27V5,Philadelphia,5728
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1947 50C MS,NGC Universal ID: 24SM,Philadelphia,4094000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1936 50C PF,NGC Universal ID: 27V4,Philadelphia,3901
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1946 S 50C MS,NGC Universal ID: 24SL,San Francisco,3724000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1947 D 50C MS,NGC Universal ID: 24SN,Denver,3900600
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1946 D 50C MS,NGC Universal ID: 24SK,Denver,2151000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1945 D 50C MS,NGC Universal ID: 24SG,Denver,9966800
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1945 S 50C MS,NGC Universal ID: 24SH,San Francisco,10156000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1945 50C MS,NGC Universal ID: 24SF,Philadelphia,31502000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1946 50C MS,NGC Universal ID: 24SJ,Philadelphia,12118000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1944 S 50C MS,NGC Universal ID: 24SE,San Francisco,8904000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1944 D 50C MS,NGC Universal ID: 24SD,Denver,9769000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1944 50C MS,NGC Universal ID: 24SC,Philadelphia,28206000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1943 S 50C MS,NGC Universal ID: 24SB,San Francisco,13450000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1943 50C MS,NGC Universal ID: 24S9,Philadelphia,53190000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1942 S 50C MS,NGC Universal ID: 24S8,San Francisco,12708000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1942 D 50C MS,NGC Universal ID: 24S7,Denver,10973800
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1943 D 50C MS,NGC Universal ID: 24SA,Denver,11346000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1941 S 50C MS,NGC Universal ID: 24S5,San Francisco,8098000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1941 D 50C MS,NGC Universal ID: 24S4,Denver,11248400
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1942 50C MS,NGC Universal ID: 24S6,Philadelphia,47818000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1941 50C MS,NGC Universal ID: 24S3,Philadelphia,24192000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1940 S 50C MS,NGC Universal ID: 24S2,San Francisco,4550000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1940 50C MS,NGC Universal ID: 24RZ,Philadelphia,9156000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1939 D 50C MS,NGC Universal ID: 24RX,Denver,4267800
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1939 50C MS,NGC Universal ID: 24RW,Philadelphia,6812000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1939 S 50C MS,NGC Universal ID: 24RY,San Francisco,2552000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1938 50C MS,NGC Universal ID: 24RU,Philadelphia,4110000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1938 D 50C MS,NGC Universal ID: 24RV,Denver,491600
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1937 D 50C MS,NGC Universal ID: 24RS,Denver,1676000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1937 S 50C MS,NGC Universal ID: 24RT,San Francisco,2090000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1937 50C MS,NGC Universal ID: 24RR,Philadelphia,9522000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1936 D 50C MS,NGC Universal ID: 24RN,Denver,4252400
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1936 S 50C MS,NGC Universal ID: 24RP,San Francisco,3884000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1935 D 50C MS,NGC Universal ID: 24RK,Denver,3003800
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1936 50C MS,NGC Universal ID: 24RM,Philadelphia,12614000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1935 S 50C MS,NGC Universal ID: 24RL,San Francisco,3854000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1935 50C MS,NGC Universal ID: 24RJ,Philadelphia,9162000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1934 S 50C MS,NGC Universal ID: 24RH,San Francisco,3652000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1934 D 50C MS,NGC Universal ID: 24RG,Denver,2361000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1929 D 50C MS,NGC Universal ID: 24RC,Denver,1001200
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1934 50C MS,NGC Universal ID: 24RF,Philadelphia,6964000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1929 S 50C MS,NGC Universal ID: 24RD,San Francisco,1902000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1933 S 50C MS,NGC Universal ID: 24RE,San Francisco,1786000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1928 S 50C MS,NGC Universal ID: 24RB,San Francisco,1940000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1927 S 50C MS,NGC Universal ID: 24RA,San Francisco,2392000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1923 S 50C MS,NGC Universal ID: 24R9,San Francisco,2178000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1921 S 50C MS,NGC Universal ID: 24R8,San Francisco,548000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1921 D 50C MS,NGC Universal ID: 24R7,Denver,208000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1920 D 50C MS,NGC Universal ID: 24R4,Denver,1551000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1921 50C MS,NGC Universal ID: 24R6,Philadelphia,246000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1920 S 50C MS,NGC Universal ID: 24R5,San Francisco,4624000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1920 50C MS,NGC Universal ID: 24R3,Philadelphia,6372000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1919 S 50C MS,NGC Universal ID: 24R2,San Francisco,1552000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1919 D 50C MS,NGC Universal ID: 24PZ,Denver,1165000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1919 50C MS,NGC Universal ID: 24PY,Philadelphia,962000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1918 S 50C MS,NGC Universal ID: 24PX,San Francisco,10282000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1918 D 50C MS,NGC Universal ID: 24PW,Denver,3853040
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1918 50C MS,NGC Universal ID: 24PV,Philadelphia,6634000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1917 S OBVERSE 50C MS,NGC Universal ID: 24PT,San Francisco,952000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1917 D REVERSE 50C MS,NGC Universal ID: 24PS,Denver,1940000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1917 D OBVERSE 50C MS,NGC Universal ID: 24PR,Denver,765400
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1917 S REVERSE 50C MS,NGC Universal ID: 24PU,San Francisco,5554000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1917 50C MS,NGC Universal ID: 24PP,Philadelphia,12292000
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1916 S 50C MS,NGC Universal ID: 24PN,San Francisco,508000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2019 S Silver 50C PF,NGC Universal ID: DK58,undefined,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2019 S Clad 50C PF,NGC Universal ID: DK56,undefined,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2018 S Silver 50C PF,NGC Universal ID: D5B9,San Francisco,0
+HalfDollars,Walking Liberty Half Dollars (1916-1947),Walking Liberty Half Dollars1916 D 50C MS,NGC Universal ID: 24PM,Denver,1014400
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2017 S SILVER 50C PF,NGC Universal ID: CSDS,San Francisco,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2018 S Clad 50C PF,NGC Universal ID: D5BA,San Francisco,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2017 S CLAD 50C PF,NGC Universal ID: CSDR,San Francisco,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2016 S CLAD 50C PF,NGC Universal ID: CCPW,San Francisco,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2016 S SILVER 50C PF,NGC Universal ID: CCPX,San Francisco,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2015 S CLAD 50C PF,NGC Universal ID: BHY5,San Francisco,669960
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2015 S SILVER 50C PF,NGC Universal ID: BHY8,San Francisco,352450
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 P SILVER HIGH RELIEF 50C PF,NGC Universal ID: B6ZM,Philadelphia,190228
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 S SILVER 50C PF,NGC Universal ID: ASVJ,San Francisco,393032
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 S CLAD 50C PF,NGC Universal ID: ASVH,San Francisco,665100
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2013 S SILVER 50C PF,NGC Universal ID: 2U8E,San Francisco,419719
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2013 S SILVER LIMITED EDITION SET 50C PF,NGC Universal ID: D74M,undefined,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2013 S CLAD 50C PF,NGC Universal ID: 2U8F,San Francisco,802460
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2012 S CLAD 50C PF,NGC Universal ID: 2TUT,San Francisco,841972
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2012 S SILVER 50C PF,NGC Universal ID: 2TUU,San Francisco,395443
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2011 S CLAD 50C PF,NGC Universal ID: 27YD,San Francisco,952881
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2011 S SILVER 50C PF,NGC Universal ID: 24WX,San Francisco,500395
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2010 S SILVER 50C PF,NGC Universal ID: 27YC,San Francisco,585401
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2010 S CLAD 50C PF,NGC Universal ID: 27YB,San Francisco,1103815
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2009 S SILVER 50C PF,NGC Universal ID: 27YA,San Francisco,697365
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2008 S SILVER 50C PF,NGC Universal ID: 27Y8,San Francisco,763887
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2009 S CLAD 50C PF,NGC Universal ID: 27Y9,San Francisco,1482502
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2008 S CLAD 50C PF,NGC Universal ID: 27Y7,San Francisco,1405674
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2006 S SILVER 50C PF,NGC Universal ID: 27Y4,San Francisco,1054008
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2007 S SILVER 50C PF,NGC Universal ID: 27Y6,San Francisco,875050
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2005 S SILVER 50C PF,NGC Universal ID: 27Y2,San Francisco,1069679
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2006 S CLAD 50C PF,NGC Universal ID: 27Y3,San Francisco,2000428
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2007 S CLAD 50C PF,NGC Universal ID: 27Y5,San Francisco,1702116
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2004 S SILVER 50C PF,NGC Universal ID: 27XY,San Francisco,1175934
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2005 S CLAD 50C PF,NGC Universal ID: 27XZ,San Francisco,2275000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2004 S CLAD 50C PF,NGC Universal ID: 27XX,San Francisco,1789488
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2003 S SILVER 50C PF,NGC Universal ID: 24WW,San Francisco,1125755
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2003 S CLAD 50C PF,NGC Universal ID: 24WV,San Francisco,2172684
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2002 S SILVER 50C PF,NGC Universal ID: 27XW,San Francisco,892229
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2001 S CLAD 50C PF,NGC Universal ID: 27XT,San Francisco,2294909
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2002 S CLAD 50C PF,NGC Universal ID: 27XV,San Francisco,2319766
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2001 S SILVER 50C PF,NGC Universal ID: 27XU,San Francisco,889697
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2000 S SILVER 50C PF,NGC Universal ID: 27XS,San Francisco,965421
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2000 S CLAD 50C PF,NGC Universal ID: 27XR,San Francisco,3082483
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1999 S SILVER 50C PF,NGC Universal ID: 27XP,San Francisco,804565
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1999 S CLAD 50C PF,NGC Universal ID: 27XN,San Francisco,2543401
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1998 S SILVER 50C SP,NGC Universal ID: 27XM,San Francisco,62000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1998 S CLAD 50C PF,NGC Universal ID: 27XK,San Francisco,2086507
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1998 S SILVER 50C PF,NGC Universal ID: 27XL,San Francisco,878792
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1996 S SILVER 50C PF,NGC Universal ID: 27XG,San Francisco,775021
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1995 S SILVER 50C PF,NGC Universal ID: 27XE,San Francisco,679985
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1996 S CLAD 50C PF,NGC Universal ID: 27XF,San Francisco,1750244
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1997 S SILVER 50C PF,NGC Universal ID: 27XJ,San Francisco,741678
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1997 S CLAD 50C PF,NGC Universal ID: 27XH,San Francisco,2055000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1993 S CLAD 50C PF,NGC Universal ID: 27X9,San Francisco,2633439
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1993 S SILVER 50C PF,NGC Universal ID: 27XA,San Francisco,761353
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1995 S CLAD 50C PF,NGC Universal ID: 27XD,San Francisco,2117496
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1994 S SILVER 50C PF,NGC Universal ID: 27XC,San Francisco,785329
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1994 S CLAD 50C PF,NGC Universal ID: 27XB,San Francisco,2484594
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1992 S SILVER 50C PF,NGC Universal ID: 24WU,San Francisco,1317579
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1990 S 50C PF,NGC Universal ID: 27X6,San Francisco,3299559
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1991 S 50C PF,NGC Universal ID: 27X7,San Francisco,2867787
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1992 S CLAD 50C PF,NGC Universal ID: 27X8,San Francisco,2858981
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1989 S 50C PF,NGC Universal ID: 27X5,San Francisco,3220194
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1987 S 50C PF,NGC Universal ID: 27X4,San Francisco,4227728
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1988 S 50C PF,NGC Universal ID: 24WT,San Francisco,3262948
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1985 S 50C PF,NGC Universal ID: 27X2,San Francisco,3362821
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1986 S 50C PF,NGC Universal ID: 27X3,San Francisco,3010497
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1984 S 50C PF,NGC Universal ID: 27WZ,San Francisco,3065110
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1981 S TYPE 2 50C PF,NGC Universal ID: 24WS,San Francisco,4063083
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1982 S 50C PF,NGC Universal ID: 27WX,San Francisco,3857479
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1983 S 50C PF,NGC Universal ID: 27WY,San Francisco,3279126
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1981 S 50C PF,NGC Universal ID: 27WW,San Francisco,4063083
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1981 S TYPE 1 50C PF,NGC Universal ID: 24WR,San Francisco,4063083
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1979 S TYPE 2 50C PF,NGC Universal ID: 24WP,San Francisco,3677175
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1979 S 50C PF,NGC Universal ID: 27WU,San Francisco,3677175
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1980 S 50C PF,NGC Universal ID: 27WV,San Francisco,3554806
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1978 S 50C PF,NGC Universal ID: 27WT,San Francisco,3127781
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1979 S TYPE 1 50C PF,NGC Universal ID: 24WN,San Francisco,3677175
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1977 S 50C PF,NGC Universal ID: 27WS,San Francisco,3251152
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1776-1976 S SILVER 50C PF,NGC Universal ID: B76E,San Francisco,4000000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1972 S 50C PF,NGC Universal ID: 27WL,San Francisco,3260996
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1776-1976 S CLAD 50C PF,NGC Universal ID: B76C,San Francisco,7059099
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1974 S 50C PF,NGC Universal ID: 27WN,San Francisco,2612568
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1973 S 50C PF,NGC Universal ID: 27WM,San Francisco,2760339
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1971 S 50C PF,NGC Universal ID: 24WM,San Francisco,3220733
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1969 S 50C PF,NGC Universal ID: 27WK,San Francisco,2934631
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1967 SMS 50C MS,NGC Universal ID: 24WJ,Philadelphia,1863344
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1970 S 50C PF,NGC Universal ID: 24WL,San Francisco,2632810
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1968 S 50C PF,NGC Universal ID: 24WK,San Francisco,3041506
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1964 50C PF,NGC Universal ID: 24WF,Philadelphia,3950762
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1966 SMS 50C MS,NGC Universal ID: 24WH,Philadelphia,2261583
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1964 50C SP,NGC Universal ID: 27WH,Philadelphia,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1964 ACCENT HAIR 50C PF,NGC Universal ID: 24WG,Philadelphia,3950762
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1965 SMS 50C MS,NGC Universal ID: 27WJ,Philadelphia,2360000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2017 S 50C SP,NGC Universal ID: CZW4,San Francisco,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2019 D 50C MS,NGC Universal ID: DK6A,undefined,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2019 P 50C MS,NGC Universal ID: DK69,undefined,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2018 P 50C MS,NGC Universal ID: D5B6,Philadelphia,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2018 D 50C MS,NGC Universal ID: D5B7,Denver,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2017 D 50C MS,NGC Universal ID: CSDP,Denver,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2017 P 50C MS,NGC Universal ID: CSDN,Philadelphia,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2016 D 50C MS,NGC Universal ID: CCPV,Denver,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2016 P 50C MS,NGC Universal ID: CCPU,Philadelphia,0
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2015 P 50C MS,NGC Universal ID: BHY3,Philadelphia,2300000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 D SILVER HIGH RELIEF 50C SP,NGC Universal ID: BFRH,Denver,190228
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2015 D 50C MS,NGC Universal ID: BHY4,Denver,2300000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 S SILVER HIGH RELIEF 50C SP,NGC Universal ID: B6ZL,San Francisco,190228
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 D CLAD HIGH RELIEF 50C SP,NGC Universal ID: B9S5,Denver,198268
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 P 50C MS,NGC Universal ID: ASVF,Philadelphia,2500000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 P CLAD HIGH RELIEF 50C SP,NGC Universal ID: B9S6,Philadelphia,198268
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2013 D 50C MS,NGC Universal ID: 2U8D,Denver,4600000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2014 D 50C MS,NGC Universal ID: ASVG,Denver,2100000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2013 P 50C MS,NGC Universal ID: 2U8C,Philadelphia,5000000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2012 P 50C MS,NGC Universal ID: 2TUR,Philadelphia,1800000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2012 D 50C MS,NGC Universal ID: 2TUS,Denver,1700000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2011 P 50C MS,NGC Universal ID: 24WD,Philadelphia,1750000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2011 D 50C MS,NGC Universal ID: 24WE,Denver,1700000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2010 D SMS 50C MS,NGC Universal ID: 27WG,Denver,583897
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2010 D 50C MS,NGC Universal ID: 27WF,Denver,1700000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2010 P SMS 50C MS,NGC Universal ID: 27WE,Philadelphia,583897
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2009 D SMS 50C MS,NGC Universal ID: 27WC,Denver,784614
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2009 D 50C MS,NGC Universal ID: 27WB,Denver,1900000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2010 P 50C MS,NGC Universal ID: 27WD,Philadelphia,1800000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2009 P SMS 50C MS,NGC Universal ID: 27WA,Philadelphia,784614
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2008 D SMS 50C MS,NGC Universal ID: 27W8,Denver,745464
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2009 P 50C MS,NGC Universal ID: 27W9,Philadelphia,1900000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2008 P SMS 50C MS,NGC Universal ID: 27W6,Philadelphia,745464
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2008 P 50C MS,NGC Universal ID: 27W5,Philadelphia,1700000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2008 D 50C MS,NGC Universal ID: 27W7,Denver,1700000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2007 D SMS 50C MS,NGC Universal ID: 27W4,Denver,895628
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2007 D 50C MS,NGC Universal ID: 27W3,Denver,2400000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2007 P SMS 50C MS,NGC Universal ID: 27W2,Philadelphia,895628
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2007 P 50C MS,NGC Universal ID: 27VZ,Philadelphia,2400000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2006 D SMS 50C MS,NGC Universal ID: 27VY,Denver,847361
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2006 P SMS 50C MS,NGC Universal ID: 27VW,Philadelphia,847361
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2006 D 50C MS,NGC Universal ID: 27VX,Denver,2000000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2006 P 50C MS,NGC Universal ID: 27VV,Philadelphia,2400000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2005 D SMS 50C MS,NGC Universal ID: 27VU,Denver,1160000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2005 D 50C MS,NGC Universal ID: 27VT,Denver,3500000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2005 P 50C MS,NGC Universal ID: 27VR,Philadelphia,3800000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2005 P SMS 50C MS,NGC Universal ID: 27VS,Philadelphia,1160000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2004 D 50C MS,NGC Universal ID: 27VP,Denver,2900000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2003 P 50C MS,NGC Universal ID: 24WB,Philadelphia,2500000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2004 P 50C MS,NGC Universal ID: 27VN,Philadelphia,2900000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2003 D 50C MS,NGC Universal ID: 24WC,Denver,2500000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2002 D 50C MS,NGC Universal ID: 24WA,Denver,2500000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2002 P 50C MS,NGC Universal ID: 24W9,Philadelphia,3100000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2001 D 50C MS,NGC Universal ID: 24W8,Denver,19504000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2000 D 50C MS,NGC Universal ID: 24W6,Denver,19466000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2000 P 50C MS,NGC Universal ID: 24W5,Philadelphia,22600000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars2001 P 50C MS,NGC Universal ID: 24W7,Philadelphia,21200000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1999 D 50C MS,NGC Universal ID: 24W4,Denver,10682000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1999 P 50C MS,NGC Universal ID: 24W3,Philadelphia,8900000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1998 D 50C MS,NGC Universal ID: 24W2,Denver,15064000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1998 P 50C MS,NGC Universal ID: 24VZ,Philadelphia,15646000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1997 D 50C MS,NGC Universal ID: 24VY,Denver,19876000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1997 P 50C MS,NGC Universal ID: 24VX,Philadelphia,20882000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1996 D 50C MS,NGC Universal ID: 24VW,Denver,24744000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1996 P 50C MS,NGC Universal ID: 24VV,Philadelphia,24442000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1995 D 50C MS,NGC Universal ID: 24VU,Denver,26288000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1995 P 50C MS,NGC Universal ID: 24VT,Philadelphia,26496000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1993 D 50C MS,NGC Universal ID: 24VP,Denver,15000006
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1994 D 50C MS,NGC Universal ID: 24VS,Denver,23828110
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1994 P 50C MS,NGC Universal ID: 24VR,Philadelphia,23718000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1993 P 50C MS,NGC Universal ID: 24VN,Philadelphia,15510000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1992 D 50C MS,NGC Universal ID: 24VM,Denver,17000106
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1992 P 50C MS,NGC Universal ID: 24VL,Philadelphia,17628000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1991 D 50C MS,NGC Universal ID: 24VK,Denver,15054678
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1990 D 50C MS,NGC Universal ID: 24VH,Denver,20096242
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1990 P 50C MS,NGC Universal ID: 24VG,Philadelphia,22278000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1991 P 50C MS,NGC Universal ID: 24VJ,Philadelphia,14874000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1989 D 50C MS,NGC Universal ID: 24VF,Denver,23000216
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1989 P 50C MS,NGC Universal ID: 24VE,Philadelphia,24542000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1988 D 50C MS,NGC Universal ID: 24VD,Denver,12000096
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1988 P 50C MS,NGC Universal ID: 24VC,Philadelphia,13626000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1987 D 50C MS,NGC Universal ID: 24VB,Denver,2890758
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1987 P 50C MS,NGC Universal ID: 24VA,Philadelphia,2890758
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1986 D 50C MS,NGC Universal ID: 24V9,Denver,15336145
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1986 P 50C MS,NGC Universal ID: 24V8,Philadelphia,13107633
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1985 D 50C MS,NGC Universal ID: 24V7,Denver,19814034
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1985 P 50C MS,NGC Universal ID: 24V6,Philadelphia,18706962
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1984 D 50C MS,NGC Universal ID: 24V5,Denver,26262158
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1984 P 50C MS,NGC Universal ID: 24V4,Philadelphia,26029000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1983 D 50C MS,NGC Universal ID: 24V3,Denver,32472244
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1983 P 50C MS,NGC Universal ID: 24V2,Philadelphia,34139000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1982 D 50C MS,NGC Universal ID: 24UZ,Denver,13140102
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1982 P 50C MS,NGC Universal ID: 24UY,Philadelphia,10819000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1981 D 50C MS,NGC Universal ID: 24UX,Denver,27839533
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1980 D 50C MS,NGC Universal ID: 24UV,Denver,33456449
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1981 P 50C MS,NGC Universal ID: 24UW,Philadelphia,29544000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1980 P 50C MS,NGC Universal ID: 24UU,Philadelphia,44134000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1979 D 50C MS,NGC Universal ID: 24UT,Denver,15815422
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1979 50C MS,NGC Universal ID: 24US,Philadelphia,68312000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1978 D 50C MS,NGC Universal ID: 24UR,Denver,13765799
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1978 50C MS,NGC Universal ID: 24UP,Philadelphia,14350000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1977 D 50C MS,NGC Universal ID: 24UN,Denver,31449106
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1977 50C MS,NGC Universal ID: 24UM,Philadelphia,43598000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1776-1976 S SILVER 50C MS,NGC Universal ID: B76B,San Francisco,11000000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1776-1976 D 50C MS,NGC Universal ID: B76A,Denver,287565248
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1776-1976 50C MS,NGC Universal ID: B769,Philadelphia,234308000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1974 D 50C MS,NGC Universal ID: 24UH,Denver,79066300
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1974 50C MS,NGC Universal ID: 24UG,Philadelphia,201596000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1973 D 50C MS,NGC Universal ID: 24UF,Denver,83171400
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1973 50C MS,NGC Universal ID: 24UE,Philadelphia,64964000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1972 D 50C MS,NGC Universal ID: 24UD,Denver,141890000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1972 50C MS,NGC Universal ID: 24UC,Philadelphia,153180000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1971 50C MS,NGC Universal ID: 24UA,Philadelphia,155164000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1971 D 50C MS,NGC Universal ID: 24UB,Denver,302097424
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1970 D 50C MS,NGC Universal ID: 24U9,Denver,2150000
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1969 D 50C MS,NGC Universal ID: 24U8,Denver,129881800
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1968 D 50C MS,NGC Universal ID: 24U7,Denver,246951930
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1967 50C MS,NGC Universal ID: 24U6,Philadelphia,295046978
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1966 50C MS,NGC Universal ID: 24U5,Philadelphia,108984932
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1965 50C MS,NGC Universal ID: 24U4,Philadelphia,65879366
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1963 50C PF,NGC Universal ID: 27VL,Philadelphia,3075645
+HalfDollars,Kennedy Half Dollars (1964-Date),Kennedy Half Dollars1964 D 50C MS,NGC Universal ID: 24U3,Denver,156205446
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1962 50C PF,NGC Universal ID: 27VK,Philadelphia,3218019
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1960 50C PF,NGC Universal ID: 24TY,Philadelphia,1691602
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1961 50C PF,NGC Universal ID: 24TZ,Philadelphia,3028244
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1959 50C PF,NGC Universal ID: 27VJ,Philadelphia,1149291
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1958 50C PF,NGC Universal ID: 27VH,Philadelphia,875652
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1957 50C PF,NGC Universal ID: 24TX,Philadelphia,1247952
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1956 TYPE 2 50C PF,NGC Universal ID: 24TW,Philadelphia,669384
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1956 TYPE 1 50C PF,NGC Universal ID: 24TV,Philadelphia,669384
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1956 50C PF,NGC Universal ID: 27VG,Philadelphia,669384
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1954 50C PF,NGC Universal ID: 27VE,Philadelphia,233300
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1955 50C PF,NGC Universal ID: 27VF,Philadelphia,378200
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1953 50C PF,NGC Universal ID: 27VD,Philadelphia,128800
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1952 50C PF,NGC Universal ID: 27VC,Philadelphia,81980
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1950 50C PF,NGC Universal ID: 27VA,Philadelphia,51386
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1951 50C PF,NGC Universal ID: 27VB,Philadelphia,57500
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1963 D 50C MS,NGC Universal ID: 24TU,Denver,67069292
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1963 50C MS,NGC Universal ID: 24TT,Philadelphia,22164000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1962 D 50C MS,NGC Universal ID: 24TS,Denver,35473281
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1960 D 50C MS,NGC Universal ID: 24TM,Denver,18215812
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1962 50C MS,NGC Universal ID: 24TR,Philadelphia,9714000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1961 D 50C MS,NGC Universal ID: 24TP,Denver,20276442
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1961 50C MS,NGC Universal ID: 24TN,Philadelphia,8290000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1960 50C MS,NGC Universal ID: 24TL,Philadelphia,6024000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1959 D 50C MS,NGC Universal ID: 24TK,Denver,13053750
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1959 50C MS,NGC Universal ID: 24TJ,Philadelphia,6200000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1958 50C MS,NGC Universal ID: 24TG,Philadelphia,4042000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1957 D 50C MS,NGC Universal ID: 24TF,Denver,19966850
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1958 D 50C MS,NGC Universal ID: 24TH,Denver,23962412
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1957 50C MS,NGC Universal ID: 24TE,Philadelphia,5114000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1956 50C MS,NGC Universal ID: 24TD,Philadelphia,4032000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1955 50C MS,NGC Universal ID: 24TC,Philadelphia,2498181
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1954 S 50C MS,NGC Universal ID: 24TB,San Francisco,4993400
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1954 D 50C MS,NGC Universal ID: 24TA,Denver,25445580
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1954 50C MS,NGC Universal ID: 24T9,Philadelphia,13188202
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1953 D 50C MS,NGC Universal ID: 24T7,Denver,20900400
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1953 S 50C MS,NGC Universal ID: 24T8,San Francisco,4148000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1953 50C MS,NGC Universal ID: 24T6,Philadelphia,2668120
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1952 S 50C MS,NGC Universal ID: 24T5,San Francisco,5526000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1952 D 50C MS,NGC Universal ID: 24T4,Denver,25395600
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1951 D 50C MS,NGC Universal ID: 24SZ,Denver,9475200
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1951 S 50C MS,NGC Universal ID: 24T2,San Francisco,13696000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1950 D 50C MS,NGC Universal ID: 24SX,Denver,8031600
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1951 50C MS,NGC Universal ID: 24SY,Philadelphia,16802102
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1950 50C MS,NGC Universal ID: 24SW,Philadelphia,7742123
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1952 50C MS,NGC Universal ID: 24T3,Philadelphia,21192093
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1949 D 50C MS,NGC Universal ID: 24SU,Denver,4120600
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1949 50C MS,NGC Universal ID: 24ST,Philadelphia,5614000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1949 S 50C MS,NGC Universal ID: 24SV,San Francisco,3744000
+HalfDollars,Franklin Half Dollars (1948-1963),Franklin Half Dollars1948 D 50C MS,NGC Universal ID: 24SS,Denver,4028600
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1915 50C PF,NGC Universal ID: 24PK,Philadelphia,450
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1892 50C MS,NGC Universal ID: 24LF,Philadelphia,934000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1914 50C PF,NGC Universal ID: 24PJ,Philadelphia,380
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1913 50C PF,NGC Universal ID: 24PH,Philadelphia,627
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1912 50C PF,NGC Universal ID: 24PG,Philadelphia,700
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1911 50C PF,NGC Universal ID: 24PF,Philadelphia,543
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1910 50C PF,NGC Universal ID: 24PE,Philadelphia,551
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1908 50C PF,NGC Universal ID: 24PC,Philadelphia,545
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1909 50C PF,NGC Universal ID: 24PD,Philadelphia,650
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1907 50C PF,NGC Universal ID: 24PB,Philadelphia,575
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1905 50C PF,NGC Universal ID: 24P9,Philadelphia,727
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1904 O 50C SP,NGC Universal ID: 27UZ,New Orleans,0
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1904 50C PF,NGC Universal ID: 24P8,Philadelphia,670
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1906 50C PF,NGC Universal ID: 24PA,Philadelphia,675
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1902 50C PF,NGC Universal ID: 24P6,Philadelphia,777
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1903 50C PF,NGC Universal ID: 24P7,Philadelphia,755
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1900 50C PF,NGC Universal ID: 24P4,Philadelphia,912
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1901 50C PF,NGC Universal ID: 24P5,Philadelphia,813
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1899 50C PF,NGC Universal ID: 24P3,Philadelphia,846
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1897 50C PF,NGC Universal ID: 24NZ,Philadelphia,731
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1898 50C PF,NGC Universal ID: 24P2,Philadelphia,735
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1895 O 50C SP,NGC Universal ID: 27UY,New Orleans,0
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1896 50C PF,NGC Universal ID: 24NY,Philadelphia,762
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1894 O 50C SP,NGC Universal ID: 27UX,New Orleans,0
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1895 50C PF,NGC Universal ID: 24NX,Philadelphia,880
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1893 50C PF,NGC Universal ID: 24NV,Philadelphia,792
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1892 O 50C SP,NGC Universal ID: 27UW,New Orleans,0
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1894 50C PF,NGC Universal ID: 24NW,Philadelphia,972
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1915 S 50C MS,NGC Universal ID: 24NT,San Francisco,1604000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1892 50C PF,NGC Universal ID: 24NU,Philadelphia,1245
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1915 D 50C MS,NGC Universal ID: 24NS,Denver,1170400
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1914 S 50C MS,NGC Universal ID: 24NP,San Francisco,992000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1915 50C MS,NGC Universal ID: 24NR,Philadelphia,138000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1914 50C MS,NGC Universal ID: 24NN,Philadelphia,124230
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1913 S 50C MS,NGC Universal ID: 24NM,San Francisco,604000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1913 D 50C MS,NGC Universal ID: 24NL,Denver,534000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1913 50C MS,NGC Universal ID: 24NK,Philadelphia,188000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1912 D 50C MS,NGC Universal ID: 24NH,Denver,2300800
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1912 S 50C MS,NGC Universal ID: 24NJ,San Francisco,1370000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1912 50C MS,NGC Universal ID: 24NG,Philadelphia,1550000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1911 S 50C MS,NGC Universal ID: 24NF,San Francisco,1272000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1911 D 50C MS,NGC Universal ID: 24NE,Denver,695080
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1911 50C MS,NGC Universal ID: 24ND,Philadelphia,1406000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1909 S 50C MS,NGC Universal ID: 24NA,San Francisco,1764000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1910 50C MS,NGC Universal ID: 24NB,Philadelphia,418000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1910 S 50C MS,NGC Universal ID: 24NC,San Francisco,1948000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1909 O 50C MS,NGC Universal ID: 24N9,New Orleans,925400
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1908 O 50C MS,NGC Universal ID: 24N6,New Orleans,5360000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1909 50C MS,NGC Universal ID: 24N8,Philadelphia,2368000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1908 D 50C MS,NGC Universal ID: 24N5,Denver,3280000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1908 S 50C MS,NGC Universal ID: 24N7,San Francisco,1644828
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1908 50C MS,NGC Universal ID: 24N4,Philadelphia,1354000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1907 S 50C MS,NGC Universal ID: 24N3,San Francisco,1250000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1906 S 50C MS,NGC Universal ID: 24MX,San Francisco,1740154
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1907 D 50C MS,NGC Universal ID: 24MZ,Denver,3856000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1907 50C MS,NGC Universal ID: 24MY,Philadelphia,2598000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1907 O 50C MS,NGC Universal ID: 24N2,New Orleans,3946000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1906 50C MS,NGC Universal ID: 24MU,Philadelphia,2638000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1906 O 50C MS,NGC Universal ID: 24MW,New Orleans,2446000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1905 S 50C MS,NGC Universal ID: 24MT,San Francisco,2494000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1906 D 50C MS,NGC Universal ID: 24MV,Denver,4028000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1905 O 50C MS,NGC Universal ID: 24MS,New Orleans,505000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1905 50C MS,NGC Universal ID: 24MR,Philadelphia,662000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1904 S 50C MS,NGC Universal ID: 24MP,San Francisco,553038
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1903 S 50C MS,NGC Universal ID: 24ML,San Francisco,1920772
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1904 O 50C MS,NGC Universal ID: 24MN,New Orleans,1117600
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1904 50C MS,NGC Universal ID: 24MM,Philadelphia,2992000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1903 O 50C MS,NGC Universal ID: 24MK,New Orleans,2100000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1903 50C MS,NGC Universal ID: 24MJ,Philadelphia,2278000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1902 O 50C MS,NGC Universal ID: 24MG,New Orleans,2526000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1902 S 50C MS,NGC Universal ID: 24MH,San Francisco,1460670
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1902 50C MS,NGC Universal ID: 24MF,Philadelphia,4922000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1901 S 50C MS,NGC Universal ID: 24ME,San Francisco,847044
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1901 O 50C MS,NGC Universal ID: 24MD,New Orleans,1124000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1900 O 50C MS,NGC Universal ID: 24MA,New Orleans,2744000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1900 S 50C MS,NGC Universal ID: 24MB,San Francisco,2560322
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1901 50C MS,NGC Universal ID: 24MC,Philadelphia,4268000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1899 S 50C MS,NGC Universal ID: 24M8,San Francisco,1686411
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1900 50C MS,NGC Universal ID: 24M9,Philadelphia,4762000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1898 S 50C MS,NGC Universal ID: 24M5,San Francisco,2358550
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1899 O 50C MS,NGC Universal ID: 24M7,New Orleans,1724000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1899 50C MS,NGC Universal ID: 24M6,Philadelphia,5538000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1898 O 50C MS,NGC Universal ID: 24M4,New Orleans,874000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1898 50C MS,NGC Universal ID: 24M3,Philadelphia,2956000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1896 O 50C MS,NGC Universal ID: 24LW,New Orleans,924000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1896 S 50C MS,NGC Universal ID: 24LX,San Francisco,1140948
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1897 O 50C MS,NGC Universal ID: 24LZ,New Orleans,632000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1897 50C MS,NGC Universal ID: 24LY,Philadelphia,2480000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1897 S 50C MS,NGC Universal ID: 24M2,San Francisco,933900
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1895 S 50C MS,NGC Universal ID: 24LU,San Francisco,1108086
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1896 50C MS,NGC Universal ID: 24LV,Philadelphia,950000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1895 50C MS,NGC Universal ID: 24LS,Philadelphia,1834338
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1895 O 50C MS,NGC Universal ID: 24LT,New Orleans,1766000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1894 S 50C MS,NGC Universal ID: 24LR,San Francisco,4048690
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1894 O 50C MS,NGC Universal ID: 24LP,New Orleans,2138000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1894 50C MS,NGC Universal ID: 24LN,Philadelphia,1148000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1893 S 50C MS,NGC Universal ID: 24LM,San Francisco,740000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1893 O 50C MS,NGC Universal ID: 24LL,New Orleans,1389000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1893 50C MS,NGC Universal ID: 24LK,Philadelphia,1826000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1892 O MICRO O 50C MS,NGC Universal ID: 24LH,New Orleans,0
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1892 O 50C MS,NGC Universal ID: 24LG,New Orleans,390000
+HalfDollars,Barber Half Dollars (1892-1915),Barber Half Dollars1892 S 50C MS,NGC Universal ID: 24LJ,San Francisco,1029028

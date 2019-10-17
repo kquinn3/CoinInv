@@ -1,0 +1,5 @@
+Dimes,Early Dimes (1796-1837)
+Dimes,Seated Liberty Dimes (1837-1891)
+Dimes,Barber Dimes (1892-1916)
+Dimes,Mercury Dimes (1916-1945)
+Dimes,Roosevelt Dimes (1946-Date)

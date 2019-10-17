@@ -1,0 +1,714 @@
+Dimes,Early Dimes (1796-1837),Early Dimes1796 10C MS,NGC Universal ID: 236B,Philadelphia,22135
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2019 S Silver 10C PF,NGC Universal ID: DK55,undefined,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1837 SEATED 10C MS,NGC Universal ID: 237R,Philadelphia,682500
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1946 10C MS,NGC Universal ID: 23KJ,Philadelphia,255250000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1892 10C MS,NGC Universal ID: 23DK,Philadelphia,12120000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1939 10C PF,NGC Universal ID: 27DK,Philadelphia,9321
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1942 10C PF,NGC Universal ID: 27DN,Philadelphia,22329
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1916 MERCURY 10C MS,NGC Universal ID: 23GX,Philadelphia,22180080
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1940 10C PF,NGC Universal ID: 27DL,Philadelphia,11827
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1941 10C PF,NGC Universal ID: 27DM,Philadelphia,16557
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1938 10C PF,NGC Universal ID: 27DJ,Philadelphia,8728
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1936 10C PF,NGC Universal ID: 27DG,Philadelphia,4130
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1945 S MICRO S 10C MS,NGC Universal ID: 23KH,San Francisco,0
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1945 S 10C MS,NGC Universal ID: 23KG,San Francisco,41920000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1937 10C PF,NGC Universal ID: 27DH,Philadelphia,5756
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1945 10C MS,NGC Universal ID: 23KE,Philadelphia,159130000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1945 D 10C MS,NGC Universal ID: 23KF,Denver,40245000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1944 D 10C MS,NGC Universal ID: 23KC,Denver,62224000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1944 S 10C MS,NGC Universal ID: 23KD,San Francisco,49490000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1944 10C MS,NGC Universal ID: 23KB,Philadelphia,231410000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1943 S 10C MS,NGC Universal ID: 23KA,San Francisco,60400000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1943 D 10C MS,NGC Universal ID: 23K9,Denver,71949000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1942 S 10C MS,NGC Universal ID: 23K7,San Francisco,49300000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1943 10C MS,NGC Universal ID: 23K8,Philadelphia,191710000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1942/41 D 10C MS,NGC Universal ID: 23K6,Denver,0
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1942 D 10C MS,NGC Universal ID: 23K5,Denver,60740000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1942 10C MS,NGC Universal ID: 23K3,Philadelphia,205410000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1942/41 10C MS,NGC Universal ID: 23K4,Philadelphia,0
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1941 D 10C MS,NGC Universal ID: 23JY,Denver,45634000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1941 S 10C MS,NGC Universal ID: 23JZ,San Francisco,43090000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1941 10C MS,NGC Universal ID: 23JX,Philadelphia,175090000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1940 S 10C MS,NGC Universal ID: 23JW,San Francisco,21560000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1940 10C MS,NGC Universal ID: 23JU,Philadelphia,65350000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1939 S 10C MS,NGC Universal ID: 23JT,San Francisco,10540000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1940 D 10C MS,NGC Universal ID: 23JV,Denver,21198000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1939 D 10C MS,NGC Universal ID: 23JS,Denver,24394000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1938 S 10C MS,NGC Universal ID: 23JP,San Francisco,8090000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1939 10C MS,NGC Universal ID: 23JR,Philadelphia,67740000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1938 10C MS,NGC Universal ID: 23JM,Philadelphia,22190000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1938 D 10C MS,NGC Universal ID: 23JN,Denver,5537000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1937 S 10C MS,NGC Universal ID: 23JL,San Francisco,9740000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1937 D 10C MS,NGC Universal ID: 23JK,Denver,14146000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1937 10C MS,NGC Universal ID: 23JJ,Philadelphia,56860000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1936 D 10C MS,NGC Universal ID: 23JG,Denver,16132000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1936 S 10C MS,NGC Universal ID: 23JH,San Francisco,9210000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1936 10C MS,NGC Universal ID: 23JF,Philadelphia,87500000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1935 D 10C MS,NGC Universal ID: 23JD,Denver,10477000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1935 S 10C MS,NGC Universal ID: 23JE,San Francisco,15840000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1935 10C MS,NGC Universal ID: 23JC,Philadelphia,58830000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1934 D 10C MS,NGC Universal ID: 23JB,Denver,6772000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1931 S 10C MS,NGC Universal ID: 23J9,San Francisco,1800000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1934 10C MS,NGC Universal ID: 23JA,Philadelphia,24080000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1931 D 10C MS,NGC Universal ID: 23J8,Denver,1260000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1931 10C MS,NGC Universal ID: 23J7,Philadelphia,3150000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1930 S 10C MS,NGC Universal ID: 23J6,San Francisco,1843000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1929 S 10C MS,NGC Universal ID: 23J4,San Francisco,4730000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1930 10C MS,NGC Universal ID: 23J5,Philadelphia,6770000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1929 D 10C MS,NGC Universal ID: 23J3,Denver,5034000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1929 10C MS,NGC Universal ID: 23J2,Philadelphia,25970000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1928 S 10C MS,NGC Universal ID: 23HZ,San Francisco,7400000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1928 10C MS,NGC Universal ID: 23HX,Philadelphia,19480000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1927 S 10C MS,NGC Universal ID: 23HW,San Francisco,4770000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1928 D 10C MS,NGC Universal ID: 23HY,Denver,4161000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1927 D 10C MS,NGC Universal ID: 23HV,Denver,4812000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1926 S 10C MS,NGC Universal ID: 23HT,San Francisco,1520000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1927 10C MS,NGC Universal ID: 23HU,Philadelphia,28080000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1926 D 10C MS,NGC Universal ID: 23HS,Denver,6828000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1925 10C MS,NGC Universal ID: 23HM,Philadelphia,25610000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1925 S 10C MS,NGC Universal ID: 23HP,San Francisco,5850000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1925 D 10C MS,NGC Universal ID: 23HN,Denver,5117000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1926 10C MS,NGC Universal ID: 23HR,Philadelphia,32160000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1924 S 10C MS,NGC Universal ID: 23HL,San Francisco,7120000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1924 D 10C MS,NGC Universal ID: 23HK,Denver,6810000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1923 S 10C MS,NGC Universal ID: 23HH,San Francisco,6440000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1924 10C MS,NGC Universal ID: 23HJ,Philadelphia,24010000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1923 10C MS,NGC Universal ID: 23HG,Philadelphia,50130000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1921 D 10C MS,NGC Universal ID: 23HF,Denver,1080000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1920 D 10C MS,NGC Universal ID: 23HC,Denver,19171000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1921 10C MS,NGC Universal ID: 23HE,Philadelphia,1230000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1920 S 10C MS,NGC Universal ID: 23HD,San Francisco,13820000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1919 S 10C MS,NGC Universal ID: 23HA,San Francisco,8850000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1920 10C MS,NGC Universal ID: 23HB,Philadelphia,59030000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1919 10C MS,NGC Universal ID: 23H8,Philadelphia,35740000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1919 D 10C MS,NGC Universal ID: 23H9,Denver,9939000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1918 D 10C MS,NGC Universal ID: 23H6,Denver,22674800
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1918 10C MS,NGC Universal ID: 23H5,Philadelphia,26680000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1918 S 10C MS,NGC Universal ID: 23H7,San Francisco,19300000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1917 S 10C MS,NGC Universal ID: 23H4,San Francisco,27330000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1917 D 10C MS,NGC Universal ID: 23H3,Denver,9402000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1916 S MERCURY 10C MS,NGC Universal ID: 23GZ,San Francisco,10450000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1917 10C MS,NGC Universal ID: 23H2,Philadelphia,55230000
+Dimes,Mercury Dimes (1916-1945),Mercury Dimes1916 D 10C MS,NGC Universal ID: 23GY,Denver,264000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1915 10C PF,NGC Universal ID: 23GW,Philadelphia,450
+Dimes,Barber Dimes (1892-1916),Barber Dimes1913 10C PF,NGC Universal ID: 23GU,Philadelphia,622
+Dimes,Barber Dimes (1892-1916),Barber Dimes1914 10C PF,NGC Universal ID: 23GV,Philadelphia,425
+Dimes,Barber Dimes (1892-1916),Barber Dimes1911 10C PF,NGC Universal ID: 23GS,Philadelphia,543
+Dimes,Barber Dimes (1892-1916),Barber Dimes1912 10C PF,NGC Universal ID: 23GT,Philadelphia,700
+Dimes,Barber Dimes (1892-1916),Barber Dimes1910 10C PF,NGC Universal ID: 23GR,Philadelphia,551
+Dimes,Barber Dimes (1892-1916),Barber Dimes1909 10C PF,NGC Universal ID: 23GP,Philadelphia,650
+Dimes,Barber Dimes (1892-1916),Barber Dimes1908 10C PF,NGC Universal ID: 23GN,Philadelphia,545
+Dimes,Barber Dimes (1892-1916),Barber Dimes1907 10C PF,NGC Universal ID: 23GM,Philadelphia,575
+Dimes,Barber Dimes (1892-1916),Barber Dimes1906 D 10C SP,NGC Universal ID: 23GL,Denver,0
+Dimes,Barber Dimes (1892-1916),Barber Dimes1906 10C PF,NGC Universal ID: 23GK,Philadelphia,675
+Dimes,Barber Dimes (1892-1916),Barber Dimes1905 10C PF,NGC Universal ID: 23GJ,Philadelphia,727
+Dimes,Barber Dimes (1892-1916),Barber Dimes1904 10C PF,NGC Universal ID: 23GH,Philadelphia,670
+Dimes,Barber Dimes (1892-1916),Barber Dimes1903 10C PF,NGC Universal ID: 23GG,Philadelphia,755
+Dimes,Barber Dimes (1892-1916),Barber Dimes1902 10C PF,NGC Universal ID: 23GF,Philadelphia,777
+Dimes,Barber Dimes (1892-1916),Barber Dimes1901 10C PF,NGC Universal ID: 23GE,Philadelphia,813
+Dimes,Barber Dimes (1892-1916),Barber Dimes1900 10C PF,NGC Universal ID: 23GD,Philadelphia,912
+Dimes,Barber Dimes (1892-1916),Barber Dimes1899 10C PF,NGC Universal ID: 23GC,Philadelphia,846
+Dimes,Barber Dimes (1892-1916),Barber Dimes1898 10C PF,NGC Universal ID: 23GB,Philadelphia,735
+Dimes,Barber Dimes (1892-1916),Barber Dimes1897 10C PF,NGC Universal ID: 23GA,Philadelphia,731
+Dimes,Barber Dimes (1892-1916),Barber Dimes1896 10C PF,NGC Universal ID: 23G9,Philadelphia,762
+Dimes,Barber Dimes (1892-1916),Barber Dimes1894 S 10C PF,NGC Universal ID: 23G7,San Francisco,24
+Dimes,Barber Dimes (1892-1916),Barber Dimes1895 10C PF,NGC Universal ID: 23G8,Philadelphia,880
+Dimes,Barber Dimes (1892-1916),Barber Dimes1894 10C PF,NGC Universal ID: 23G6,Philadelphia,972
+Dimes,Barber Dimes (1892-1916),Barber Dimes1893 10C PF,NGC Universal ID: 23G4,Philadelphia,792
+Dimes,Barber Dimes (1892-1916),Barber Dimes1900 S 10C SP,NGC Universal ID: DJFG,undefined,0
+Dimes,Barber Dimes (1892-1916),Barber Dimes1892 O 10C SP,NGC Universal ID: 23G3,New Orleans,0
+Dimes,Barber Dimes (1892-1916),Barber Dimes1892 10C PF,NGC Universal ID: 23G2,Philadelphia,1245
+Dimes,Barber Dimes (1892-1916),Barber Dimes1916 S BARBER 10C MS,NGC Universal ID: 23FZ,San Francisco,5820000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1916 BARBER 10C MS,NGC Universal ID: 23FY,Philadelphia,18490000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1915 S 10C MS,NGC Universal ID: 23FX,San Francisco,960000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1915 10C MS,NGC Universal ID: 23FW,Philadelphia,5620000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1914 S 10C MS,NGC Universal ID: 23FV,San Francisco,2100000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1914 D 10C MS,NGC Universal ID: 23FU,Denver,11908000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1914 10C MS,NGC Universal ID: 23FT,Philadelphia,17360230
+Dimes,Barber Dimes (1892-1916),Barber Dimes1913 10C MS,NGC Universal ID: 23FR,Philadelphia,19760000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1912 S 10C MS,NGC Universal ID: 23FP,San Francisco,3420000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1913 S 10C MS,NGC Universal ID: 23FS,San Francisco,510000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1912 D 10C MS,NGC Universal ID: 23FN,Denver,11760000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1912 10C MS,NGC Universal ID: 23FM,Philadelphia,19349300
+Dimes,Barber Dimes (1892-1916),Barber Dimes1911 S 10C MS,NGC Universal ID: 23FL,San Francisco,3520000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1911 D 10C MS,NGC Universal ID: 23FK,Denver,11209000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1911 10C MS,NGC Universal ID: 23FJ,Philadelphia,18870000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1910 S 10C MS,NGC Universal ID: 23FH,San Francisco,1240000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1910 D 10C MS,NGC Universal ID: 23FG,Denver,3490000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1910 10C MS,NGC Universal ID: 23FF,Philadelphia,11520000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1909 D 10C MS,NGC Universal ID: 23FC,Denver,954000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1909 S 10C MS,NGC Universal ID: 23FE,San Francisco,1000000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1909 O 10C MS,NGC Universal ID: 23FD,New Orleans,2287000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1909 10C MS,NGC Universal ID: 23FB,Philadelphia,10240000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1908 S 10C MS,NGC Universal ID: 23FA,San Francisco,3220000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1908 O 10C MS,NGC Universal ID: 23F9,New Orleans,1789000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1908 10C MS,NGC Universal ID: 23F7,Philadelphia,10600000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1907 S 10C MS,NGC Universal ID: 23F6,San Francisco,3178470
+Dimes,Barber Dimes (1892-1916),Barber Dimes1908 D 10C MS,NGC Universal ID: 23F8,Denver,7490000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1907 D 10C MS,NGC Universal ID: 23F4,Denver,4080000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1907 O 10C MS,NGC Universal ID: 23F5,New Orleans,5058000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1906 S 10C MS,NGC Universal ID: 23F2,San Francisco,3136640
+Dimes,Barber Dimes (1892-1916),Barber Dimes1907 10C MS,NGC Universal ID: 23F3,Philadelphia,22220000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1906 D 10C MS,NGC Universal ID: 23EY,Denver,4060000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1906 10C MS,NGC Universal ID: 23EX,Philadelphia,19957731
+Dimes,Barber Dimes (1892-1916),Barber Dimes1906 O 10C MS,NGC Universal ID: 23EZ,New Orleans,2610000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1905 S 10C MS,NGC Universal ID: 23EW,San Francisco,6855199
+Dimes,Barber Dimes (1892-1916),Barber Dimes1905 O MICRO O 10C MS,NGC Universal ID: 23EV,New Orleans,0
+Dimes,Barber Dimes (1892-1916),Barber Dimes1905 O 10C MS,NGC Universal ID: 23EU,New Orleans,3400000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1905 10C MS,NGC Universal ID: 23ET,Philadelphia,14551623
+Dimes,Barber Dimes (1892-1916),Barber Dimes1904 S 10C MS,NGC Universal ID: 23ES,San Francisco,800000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1903 S 10C MS,NGC Universal ID: 23EP,San Francisco,613300
+Dimes,Barber Dimes (1892-1916),Barber Dimes1903 10C MS,NGC Universal ID: 23EM,Philadelphia,19500000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1904 10C MS,NGC Universal ID: 23ER,Philadelphia,14600357
+Dimes,Barber Dimes (1892-1916),Barber Dimes1903 O 10C MS,NGC Universal ID: 23EN,New Orleans,8180000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1902 S 10C MS,NGC Universal ID: 23EL,San Francisco,2070000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1902 O 10C MS,NGC Universal ID: 23EK,New Orleans,4500000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1901 S 10C MS,NGC Universal ID: 23EH,San Francisco,593022
+Dimes,Barber Dimes (1892-1916),Barber Dimes1902 10C MS,NGC Universal ID: 23EJ,Philadelphia,21380000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1901 10C MS,NGC Universal ID: 23EF,Philadelphia,18859665
+Dimes,Barber Dimes (1892-1916),Barber Dimes1900 10C MS,NGC Universal ID: 23EC,Philadelphia,17600000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1901 O 10C MS,NGC Universal ID: 23EG,New Orleans,5620000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1900 O 10C MS,NGC Universal ID: 23ED,New Orleans,2010000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1900 S 10C MS,NGC Universal ID: 23EE,San Francisco,5168270
+Dimes,Barber Dimes (1892-1916),Barber Dimes1899 S 10C MS,NGC Universal ID: 23EB,San Francisco,1867493
+Dimes,Barber Dimes (1892-1916),Barber Dimes1899 O 10C MS,NGC Universal ID: 23EA,New Orleans,2650000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1898 S 10C MS,NGC Universal ID: 23E8,San Francisco,1702507
+Dimes,Barber Dimes (1892-1916),Barber Dimes1899 10C MS,NGC Universal ID: 23E9,Philadelphia,19580000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1898 O 10C MS,NGC Universal ID: 23E7,New Orleans,2130000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1898 10C MS,NGC Universal ID: 23E6,Philadelphia,16320000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1897 S 10C MS,NGC Universal ID: 23E5,San Francisco,1342844
+Dimes,Barber Dimes (1892-1916),Barber Dimes1897 O 10C MS,NGC Universal ID: 23E4,New Orleans,666000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1897 10C MS,NGC Universal ID: 23E3,Philadelphia,10868533
+Dimes,Barber Dimes (1892-1916),Barber Dimes1896 S 10C MS,NGC Universal ID: 23E2,San Francisco,575056
+Dimes,Barber Dimes (1892-1916),Barber Dimes1896 10C MS,NGC Universal ID: 23DY,Philadelphia,2000000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1896 O 10C MS,NGC Universal ID: 23DZ,New Orleans,610000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1895 S 10C MS,NGC Universal ID: 23DX,San Francisco,1120000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1895 10C MS,NGC Universal ID: 23DV,Philadelphia,690000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1895 O 10C MS,NGC Universal ID: 23DW,New Orleans,440000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1894 O 10C MS,NGC Universal ID: 23DU,New Orleans,720000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1894 10C MS,NGC Universal ID: 23DT,Philadelphia,1330000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1893 S 10C MS,NGC Universal ID: 23DS,San Francisco,2491401
+Dimes,Barber Dimes (1892-1916),Barber Dimes1893 O 10C MS,NGC Universal ID: 23DR,New Orleans,1760000
+Dimes,Barber Dimes (1892-1916),Barber Dimes1892 S 10C MS,NGC Universal ID: 23DM,San Francisco,990710
+Dimes,Barber Dimes (1892-1916),Barber Dimes1893 10C MS,NGC Universal ID: 23DN,Philadelphia,3339940
+Dimes,Barber Dimes (1892-1916),Barber Dimes1892 O 10C MS,NGC Universal ID: 23DL,New Orleans,3841700
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2019 S Clad 10C PF,NGC Universal ID: DK54,undefined,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2018 S Silver 10C PF,NGC Universal ID: D5AU,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2018 S Clad 10C PF,NGC Universal ID: D5AV,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2017 S SILVER 10C PF,NGC Universal ID: CS9F,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2017 S CLAD 10C PF,NGC Universal ID: CS9E,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2017 S 10C SP,NGC Universal ID: CZWA,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2016 S SILVER 10C PF,NGC Universal ID: CCNR,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2015 W SILVER MARCH OF DIMES SET 10C PF,NGC Universal ID: BR79,West Point,74430
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2016 S CLAD 10C PF,NGC Universal ID: CCNP,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2015 S CLAD 10C PF,NGC Universal ID: BHXZ,San Francisco,669960
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2015 S SILVER 10C PF,NGC Universal ID: BHY2,San Francisco,352450
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2014 S SILVER 10C PF,NGC Universal ID: ASTH,San Francisco,343037
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2014 S CLAD 10C PF,NGC Universal ID: ASTG,San Francisco,665100
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2013 S SILVER 10C PF,NGC Universal ID: 2U7M,San Francisco,419719
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2013 S CLAD 10C PF,NGC Universal ID: 2U7L,San Francisco,802460
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2012 S SILVER 10C PF,NGC Universal ID: 2TU3,San Francisco,395443
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2011 S SILVER 10C PF,NGC Universal ID: 23R4,San Francisco,574175
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2012 S CLAD 10C PF,NGC Universal ID: 2TYB,San Francisco,841972
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2011 S CLAD 10C PF,NGC Universal ID: 23R3,San Francisco,1098835
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2010 S SILVER 10C PF,NGC Universal ID: 27GY,San Francisco,585401
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2009 S SILVER 10C PF,NGC Universal ID: 27GW,San Francisco,694406
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2010 S CLAD 10C PF,NGC Universal ID: 27GX,San Francisco,1130815
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2009 S CLAD 10C PF,NGC Universal ID: 27GV,San Francisco,1477967
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2008 S CLAD 10C PF,NGC Universal ID: 27GT,San Francisco,1405674
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2008 S SILVER 10C PF,NGC Universal ID: 27GU,San Francisco,763887
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2007 S SILVER 10C PF,NGC Universal ID: 27GS,San Francisco,875050
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2006 S SILVER 10C PF,NGC Universal ID: 27GP,San Francisco,1054008
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2007 S CLAD 10C PF,NGC Universal ID: 27GR,San Francisco,1702116
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2005 S CLAD 10C PF,NGC Universal ID: 27GL,San Francisco,2275000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2006 S CLAD 10C PF,NGC Universal ID: 27GN,San Francisco,2000428
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2005 S SILVER 10C PF,NGC Universal ID: 27GM,San Francisco,1069679
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2004 S SILVER 10C PF,NGC Universal ID: 27GK,San Francisco,1175934
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2004 S CLAD 10C PF,NGC Universal ID: 27GJ,San Francisco,1175934
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2002 S SILVER 10C PF,NGC Universal ID: 27GH,San Francisco,892229
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2003 S SILVER 10C PF,NGC Universal ID: 23R2,San Francisco,1125755
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2003 S CLAD 10C PF,NGC Universal ID: 23PZ,San Francisco,2172684
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2002 S CLAD 10C PF,NGC Universal ID: 27GG,San Francisco,2319766
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2001 S SILVER 10C PF,NGC Universal ID: 27GF,San Francisco,889697
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2000 S SILVER 10C PF,NGC Universal ID: 27GD,San Francisco,965421
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2001 S CLAD 10C PF,NGC Universal ID: 27GE,San Francisco,2294909
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2000 S CLAD 10C PF,NGC Universal ID: 27GC,San Francisco,3082572
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1999 S CLAD 10C PF,NGC Universal ID: 27GA,San Francisco,2543401
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1998 S SILVER 10C PF,NGC Universal ID: 27G9,San Francisco,878792
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1999 S SILVER 10C PF,NGC Universal ID: 27GB,San Francisco,804565
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1998 S CLAD 10C PF,NGC Universal ID: 27G8,San Francisco,2086507
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1997 S SILVER 10C PF,NGC Universal ID: 27G7,San Francisco,741678
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1997 S CLAD 10C PF,NGC Universal ID: 27G6,San Francisco,2055000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1995 S SILVER 10C PF,NGC Universal ID: 27G3,San Francisco,838953
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1996 S SILVER 10C PF,NGC Universal ID: 27G5,San Francisco,775021
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1996 S CLAD 10C PF,NGC Universal ID: 27G4,San Francisco,1750244
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1995 S CLAD 10C PF,NGC Universal ID: 27G2,San Francisco,2010384
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1994 S SILVER 10C PF,NGC Universal ID: 27FZ,San Francisco,785329
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1993 S CLAD 10C PF,NGC Universal ID: 27FW,San Francisco,2633439
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1993 S SILVER 10C PF,NGC Universal ID: 27FX,San Francisco,761353
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1994 S CLAD 10C PF,NGC Universal ID: 27FY,San Francisco,2484594
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1992 S SILVER 10C PF,NGC Universal ID: 27FV,San Francisco,1317579
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1988 S 10C PF,NGC Universal ID: 27FP,San Francisco,3262948
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1992 S CLAD 10C PF,NGC Universal ID: 27FU,San Francisco,2858981
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1989 S 10C PF,NGC Universal ID: 27FR,San Francisco,3220194
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1991 S 10C PF,NGC Universal ID: 27FT,San Francisco,2867787
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1990 S 10C PF,NGC Universal ID: 27FS,San Francisco,3299559
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1986 S 10C PF,NGC Universal ID: 27FM,San Francisco,3010497
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1985 S 10C PF,NGC Universal ID: 27FL,San Francisco,3362821
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1987 S 10C PF,NGC Universal ID: 27FN,San Francisco,4227728
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1983 NO S 10C PF,NGC Universal ID: 27FJ,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1984 S 10C PF,NGC Universal ID: 27FK,San Francisco,3065110
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1981 S TYPE 2 10C PF,NGC Universal ID: 23PY,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1983 S 10C PF,NGC Universal ID: 27FH,San Francisco,3279126
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1982 S 10C PF,NGC Universal ID: 27FG,San Francisco,3857479
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1981 S 10C PF,NGC Universal ID: 27FF,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1981 S TYPE 1 10C PF,NGC Universal ID: 23PX,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1979 S TYPE 2 10C PF,NGC Universal ID: 23PW,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1980 S 10C PF,NGC Universal ID: 27FE,San Francisco,3554806
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1979 S TYPE 1 10C PF,NGC Universal ID: 23PV,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1979 S 10C PF,NGC Universal ID: 27FD,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1978 S 10C PF,NGC Universal ID: 27FC,San Francisco,3127781
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1977 S 10C PF,NGC Universal ID: 27FB,San Francisco,3251152
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1976 S 10C PF,NGC Universal ID: 27FA,San Francisco,4149730
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1975 S 10C PF,NGC Universal ID: 23PU,San Francisco,2845450
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1974 S 10C PF,NGC Universal ID: 27F9,San Francisco,2612568
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1973 S 10C PF,NGC Universal ID: 27F8,San Francisco,2760339
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1972 S 10C PF,NGC Universal ID: 27F7,San Francisco,3260996
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1971 S 10C PF,NGC Universal ID: 27F6,San Francisco,3220733
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1970 S 10C PF,NGC Universal ID: 23PT,San Francisco,2632810
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1970 NO S 10C PF,NGC Universal ID: 27F5,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1969 S 10C PF,NGC Universal ID: 27F4,San Francisco,2934631
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1968 NO S 10C PF,NGC Universal ID: 27F3,San Francisco,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1967 SMS 10C MS,NGC Universal ID: 27F2,Philadelphia,1863344
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1968 S 10C PF,NGC Universal ID: 23PS,San Francisco,3041506
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1965 SMS 10C MS,NGC Universal ID: 27EY,Philadelphia,2360000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1966 SMS 10C MS,NGC Universal ID: 27EZ,Philadelphia,2261583
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1964 10C SP,NGC Universal ID: 27EX,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1962 10C PF,NGC Universal ID: 27EW,Philadelphia,3218019
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1961 10C PF,NGC Universal ID: 27EV,Philadelphia,3028244
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1964 10C PF,NGC Universal ID: 23PR,Philadelphia,3950762
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1963 10C PF,NGC Universal ID: 23PP,Philadelphia,3075645
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1960 10C PF,NGC Universal ID: 23PN,Philadelphia,1691602
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1958 10C PF,NGC Universal ID: 27ET,Philadelphia,875652
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1959 10C PF,NGC Universal ID: 27EU,Philadelphia,1149291
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1956 10C PF,NGC Universal ID: 27ER,Philadelphia,669384
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1957 10C PF,NGC Universal ID: 27ES,Philadelphia,1247952
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1955 10C PF,NGC Universal ID: 27EP,Philadelphia,378200
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1954 10C PF,NGC Universal ID: 27EN,Philadelphia,233300
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1953 10C PF,NGC Universal ID: 27EM,Philadelphia,128800
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1952 10C PF,NGC Universal ID: 27EL,Philadelphia,81980
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1950 10C PF,NGC Universal ID: 27EJ,Philadelphia,51386
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2019 P 10C MS,NGC Universal ID: DK67,undefined,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2019 D 10C MS,NGC Universal ID: DK68,undefined,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2019 D Explore & Discover 10C MS,NGC Universal ID: DPKW,undefined,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1951 10C PF,NGC Universal ID: 27EK,Philadelphia,57500
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2018 D 10C MS,NGC Universal ID: D5AS,Denver,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2018 P 10C MS,NGC Universal ID: D5AR,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2017 D 10C MS,NGC Universal ID: CS9D,Denver,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2017 P 10C MS,NGC Universal ID: CS9C,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2016 D 10C MS,NGC Universal ID: CCNN,Denver,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2015 D 10C MS,NGC Universal ID: BHXY,Denver,1543500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2016 P 10C MS,NGC Universal ID: CCNM,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2015 P 10C MS,NGC Universal ID: BHXX,Philadelphia,1497510000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2014 D 10C MS,NGC Universal ID: B5SB,Denver,4155600000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2014 P 10C MS,NGC Universal ID: ASTF,Philadelphia,3990800000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2013 D 10C MS,NGC Universal ID: 2U7K,Denver,1025500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2013 P 10C MS,NGC Universal ID: 2U7J,Philadelphia,1086500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2012 D 10C MS,NGC Universal ID: 2TU2,Denver,868000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2012 P 10C MS,NGC Universal ID: 2TTZ,Philadelphia,808000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2010 D SMS 10C MS,NGC Universal ID: 27EH,Denver,583897
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2011 D 10C MS,NGC Universal ID: 23PM,Denver,754000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2010 D 10C MS,NGC Universal ID: 27EG,Denver,562000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2011 P 10C MS,NGC Universal ID: 23PL,Philadelphia,748000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2009 D SMS 10C MS,NGC Universal ID: 27ED,Denver,784614
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2010 P SMS 10C MS,NGC Universal ID: 27EF,Philadelphia,583897
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2009 P SMS 10C MS,NGC Universal ID: 27EB,Philadelphia,784614
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2009 D 10C MS,NGC Universal ID: 27EC,Denver,49500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2010 P 10C MS,NGC Universal ID: 27EE,Philadelphia,557000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2009 P 10C MS,NGC Universal ID: 27EA,Philadelphia,96500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2008 D SMS 10C MS,NGC Universal ID: 27E9,Denver,745464
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2008 P SMS 10C MS,NGC Universal ID: 27E7,Philadelphia,745464
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2008 P 10C MS,NGC Universal ID: 27E6,Philadelphia,391000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2008 D 10C MS,NGC Universal ID: 27E8,Denver,624500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2007 D 10C MS,NGC Universal ID: 27E4,Denver,1042000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2007 P 10C MS,NGC Universal ID: 27E2,Philadelphia,1047500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2007 P SMS 10C MS,NGC Universal ID: 27E3,Philadelphia,895628
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2006 D SMS 10C MS,NGC Universal ID: 27DZ,Denver,847361
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2007 D SMS 10C MS,NGC Universal ID: 27E5,Denver,895628
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2006 D 10C MS,NGC Universal ID: 27DY,Denver,1447000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2005 D SMS 10C MS,NGC Universal ID: 27DV,Denver,1160000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2006 P 10C MS,NGC Universal ID: 27DW,Philadelphia,1381000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2006 P SMS 10C MS,NGC Universal ID: 27DX,Philadelphia,847361
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2005 D 10C MS,NGC Universal ID: 27DU,Denver,1423500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2005 P SMS 10C MS,NGC Universal ID: 27DT,Philadelphia,1160000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2004 P 10C MS,NGC Universal ID: 27DP,Philadelphia,1328000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2003 D 10C MS,NGC Universal ID: 23PK,Denver,986500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2004 D 10C MS,NGC Universal ID: 27DR,Denver,1159500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2005 P 10C MS,NGC Universal ID: 27DS,Philadelphia,1412000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2003 P 10C MS,NGC Universal ID: 23PJ,Philadelphia,1085500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2002 D 10C MS,NGC Universal ID: 23PH,Denver,1379500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2002 P 10C MS,NGC Universal ID: 23PG,Philadelphia,1187500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2001 P 10C MS,NGC Universal ID: 23PE,Philadelphia,1369590000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2001 D 10C MS,NGC Universal ID: 23PF,Denver,1412800000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2000 D 10C MS,NGC Universal ID: 23PD,Denver,1818700000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes2000 P 10C MS,NGC Universal ID: 23PC,Philadelphia,1842500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1998 D 10C MS,NGC Universal ID: 23P9,Denver,1172250000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1999 P 10C MS,NGC Universal ID: 23PA,Philadelphia,2164000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1999 D 10C MS,NGC Universal ID: 23PB,Denver,1397750000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1998 P 10C MS,NGC Universal ID: 23P8,Philadelphia,1163000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1997 D 10C MS,NGC Universal ID: 23P7,Denver,979810000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1996 P 10C MS,NGC Universal ID: 23P3,Philadelphia,1421163000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1997 P 10C MS,NGC Universal ID: 23P6,Philadelphia,991640000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1996 W 10C MS,NGC Universal ID: 23P5,West Point,1457949
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1996 D 10C MS,NGC Universal ID: 23P4,Denver,1400300000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1995 D 10C MS,NGC Universal ID: 23P2,Denver,1274890000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1995 P 10C MS,NGC Universal ID: 23NZ,Philadelphia,1125500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1994 P 10C MS,NGC Universal ID: 23NX,Philadelphia,1189000000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1994 D 10C MS,NGC Universal ID: 23NY,Denver,1303268110
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1993 D 10C MS,NGC Universal ID: 23NW,Denver,750110166
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1993 P 10C MS,NGC Universal ID: 23NV,Philadelphia,766180000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1992 D 10C MS,NGC Universal ID: 23NU,Denver,616273932
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1991 D 10C MS,NGC Universal ID: 23NS,Denver,601241114
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1991 P 10C MS,NGC Universal ID: 23NR,Philadelphia,927220000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1992 P 10C MS,NGC Universal ID: 23NT,Philadelphia,593500000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1990 D 10C MS,NGC Universal ID: 23NP,Denver,839995824
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1990 P 10C MS,NGC Universal ID: 23NN,Philadelphia,1034340000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1988 D 10C MS,NGC Universal ID: 23NK,Denver,962385488
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1989 D 10C MS,NGC Universal ID: 23NM,Denver,896535597
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1989 P 10C MS,NGC Universal ID: 23NL,Philadelphia,1298400000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1988 P 10C MS,NGC Universal ID: 23NJ,Philadelphia,1030550000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1987 D 10C MS,NGC Universal ID: 23NH,Denver,653203402
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1986 D 10C MS,NGC Universal ID: 23NF,Denver,473326970
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1987 P 10C MS,NGC Universal ID: 23NG,Philadelphia,762709481
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1985 D 10C MS,NGC Universal ID: 23ND,Denver,587979970
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1986 P 10C MS,NGC Universal ID: 23NE,Philadelphia,682649693
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1985 P 10C MS,NGC Universal ID: 23NC,Philadelphia,705200962
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1984 D 10C MS,NGC Universal ID: 23NB,Denver,704803976
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1984 P 10C MS,NGC Universal ID: 23NA,Philadelphia,856669000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1983 P 10C MS,NGC Universal ID: 23N8,Philadelphia,647025000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1982 NO P WEAK STRIKE 10C MS,NGC Universal ID: 23N6,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1983 D 10C MS,NGC Universal ID: 23N9,Denver,730129224
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1982 NO P 10C MS,NGC Universal ID: 23N5,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1982 D 10C MS,NGC Universal ID: 23N7,Denver,542713584
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1982 P 10C MS,NGC Universal ID: 23N4,Philadelphia,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1981 P 10C MS,NGC Universal ID: 23N2,Philadelphia,676650000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1981 D 10C MS,NGC Universal ID: 23N3,Denver,712284143
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1980 D 10C MS,NGC Universal ID: 23MZ,Denver,719354321
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1980 P 10C MS,NGC Universal ID: 23MY,Philadelphia,735170000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1979 D 10C MS,NGC Universal ID: 23MX,Denver,390921184
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1978 10C MS,NGC Universal ID: 23MU,Philadelphia,663980000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1978 D 10C MS,NGC Universal ID: 23MV,Denver,282847540
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1977 D 10C MS,NGC Universal ID: 23MT,Denver,376607228
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1979 10C MS,NGC Universal ID: 23MW,Philadelphia,315440000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1976 D 10C MS,NGC Universal ID: 23MR,Denver,695222774
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1977 10C MS,NGC Universal ID: 23MS,Philadelphia,796930000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1976 10C MS,NGC Universal ID: 23MP,Philadelphia,568760000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1975 D 10C MS,NGC Universal ID: 23MN,Denver,313705300
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1975 10C MS,NGC Universal ID: 23MM,Philadelphia,585673900
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1974 10C MS,NGC Universal ID: 23MK,Philadelphia,470248000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1974 D 10C MS,NGC Universal ID: 23ML,Denver,571083000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1973 D 10C MS,NGC Universal ID: 23MJ,Denver,455032426
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1972 D 10C MS,NGC Universal ID: 23MG,Denver,330290000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1973 10C MS,NGC Universal ID: 23MH,Philadelphia,315670000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1971 D 10C MS,NGC Universal ID: 23ME,Denver,377914240
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1971 10C MS,NGC Universal ID: 23MD,Philadelphia,162690000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1972 10C MS,NGC Universal ID: 23MF,Philadelphia,431540000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1970 10C MS,NGC Universal ID: 23MB,Philadelphia,345570000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1970 D 10C MS,NGC Universal ID: 23MC,Denver,754942100
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1968 D 10C MS,NGC Universal ID: 23M8,Denver,480748280
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1969 D 10C MS,NGC Universal ID: 23MA,Denver,563323870
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1969 10C MS,NGC Universal ID: 23M9,Philadelphia,145790000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1968 10C MS,NGC Universal ID: 23M7,Philadelphia,424470000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1967 10C MS,NGC Universal ID: 23M6,Philadelphia,2244007320
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1965 10C MS,NGC Universal ID: 23M4,Philadelphia,1652140570
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1966 10C MS,NGC Universal ID: 23M5,Philadelphia,1382734540
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1964 10C MS,NGC Universal ID: 23M2,Philadelphia,929360000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1964 D 10C MS,NGC Universal ID: 23M3,Denver,1357517180
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1963 D 10C MS,NGC Universal ID: 23LZ,Denver,421476530
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1963 10C MS,NGC Universal ID: 23LY,Philadelphia,123650000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1961 D 10C MS,NGC Universal ID: 23LV,Denver,209146550
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1962 10C MS,NGC Universal ID: 23LW,Philadelphia,72450000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1962 D 10C MS,NGC Universal ID: 23LX,Denver,334948380
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1961 10C MS,NGC Universal ID: 23LU,Philadelphia,93730000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1960 D 10C MS,NGC Universal ID: 23LT,Denver,200160400
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1960 10C MS,NGC Universal ID: 23LS,Philadelphia,70390000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1959 D 10C MS,NGC Universal ID: 23LR,Denver,164919790
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1959 10C MS,NGC Universal ID: 23LP,Philadelphia,85780000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1957 D 10C MS,NGC Universal ID: 23LL,Denver,113354330
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1958 D 10C MS,NGC Universal ID: 23LN,Denver,136564600
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1957 10C MS,NGC Universal ID: 23LK,Philadelphia,160160000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1958 10C MS,NGC Universal ID: 23LM,Philadelphia,31910000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1956 D 10C MS,NGC Universal ID: 23LJ,Denver,108015100
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1955 S 10C MS,NGC Universal ID: 23LG,San Francisco,18510000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1956 10C MS,NGC Universal ID: 23LH,Philadelphia,108640000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1955 10C MS,NGC Universal ID: 23LE,Philadelphia,12450181
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1955 D 10C MS,NGC Universal ID: 23LF,Denver,13959000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1954 S 10C MS,NGC Universal ID: 23LD,San Francisco,22860000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1954 D 10C MS,NGC Universal ID: 23LC,Denver,106397000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1954 10C MS,NGC Universal ID: 23LB,Philadelphia,114010203
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1953 S 10C MS,NGC Universal ID: 23LA,San Francisco,39180000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1953 D 10C MS,NGC Universal ID: 23L9,Denver,136433000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1952 S 10C MS,NGC Universal ID: 23L7,San Francisco,44419500
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1953 10C MS,NGC Universal ID: 23L8,Philadelphia,53490120
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1952 10C MS,NGC Universal ID: 23L5,Philadelphia,99040093
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1952 D 10C MS,NGC Universal ID: 23L6,Denver,122100000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1951 S 10C MS,NGC Universal ID: 23L4,San Francisco,31630000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1951 D 10C MS,NGC Universal ID: 23L3,Denver,56529000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1951 10C MS,NGC Universal ID: 23L2,Philadelphia,103880102
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1950 D 10C MS,NGC Universal ID: 23KY,Denver,46803000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1950 S 10C MS,NGC Universal ID: 23KZ,San Francisco,20440000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1950 10C MS,NGC Universal ID: 23KX,Philadelphia,50130114
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1949 S 10C MS,NGC Universal ID: 23KW,San Francisco,13510000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1949 D 10C MS,NGC Universal ID: 23KV,Denver,26034000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1949 10C MS,NGC Universal ID: 23KU,Philadelphia,30940000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1948 S 10C MS,NGC Universal ID: 23KT,San Francisco,35520000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1948 D 10C MS,NGC Universal ID: 23KS,Denver,52841000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1947 D 10C MS,NGC Universal ID: 23KN,Denver,46835000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1947 S 10C MS,NGC Universal ID: 23KP,San Francisco,34840000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1947 10C MS,NGC Universal ID: 23KM,Philadelphia,121520000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1948 10C MS,NGC Universal ID: 23KR,Philadelphia,74950000
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1946 S 10C MS,NGC Universal ID: 23KL,San Francisco,27900000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1891 O 10C SP,NGC Universal ID: AVYB,New Orleans,0
+Dimes,Roosevelt Dimes (1946-Date),Roosevelt Dimes1946 D 10C MS,NGC Universal ID: 23KK,Denver,61043500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1891 O 10C PF,NGC Universal ID: 27DF,New Orleans,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1891 10C PF,NGC Universal ID: 23DG,Philadelphia,600
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1890 10C PF,NGC Universal ID: 23DF,Philadelphia,590
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1889 10C PF,NGC Universal ID: 23DE,Philadelphia,711
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1888 10C PF,NGC Universal ID: 23DD,Philadelphia,832
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1886 10C PF,NGC Universal ID: 23DB,Philadelphia,886
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1887 10C PF,NGC Universal ID: 23DC,Philadelphia,710
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1885 10C PF,NGC Universal ID: 23DA,Philadelphia,930
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1884 10C PF,NGC Universal ID: 23D9,Philadelphia,875
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1880 10C PF,NGC Universal ID: 23D5,Philadelphia,1355
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1881 10C PF,NGC Universal ID: 23D6,Philadelphia,975
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1882 10C PF,NGC Universal ID: 23D7,Philadelphia,1100
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1883 10C PF,NGC Universal ID: 23D8,Philadelphia,1039
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1879 10C PF,NGC Universal ID: 23D4,Philadelphia,1100
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1878 10C PF,NGC Universal ID: 23D3,Philadelphia,800
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1877 10C PF,NGC Universal ID: 23D2,Philadelphia,510
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1876 CC 10C SP,NGC Universal ID: 27DD,Carson City,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1876 CC 10C PF,NGC Universal ID: 27DE,Carson City,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1876 10C PF,NGC Universal ID: 23CZ,Philadelphia,1150
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 ARROWS 10C PF,NGC Universal ID: 23DH,Philadelphia,800
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 CL 3 NO ARROWS 10C PF,NGC Universal ID: 23CX,Philadelphia,1100
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 10C PF,NGC Universal ID: 23CY,Philadelphia,700
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1874 ARROWS 10C PF,NGC Universal ID: 23DJ,Philadelphia,700
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1871 CC 10C SP,NGC Universal ID: BHGN,Carson City,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1872 10C PF,NGC Universal ID: 23CW,Philadelphia,950
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1871 10C PF,NGC Universal ID: 23CV,Philadelphia,960
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1870 10C PF,NGC Universal ID: 23CU,Philadelphia,1000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1869 10C PF,NGC Universal ID: 23CT,Philadelphia,600
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1867 10C PF,NGC Universal ID: 23CR,Philadelphia,625
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1868 10C PF,NGC Universal ID: 23CS,Philadelphia,600
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1866 10C PF,NGC Universal ID: 23CP,Philadelphia,725
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1865 10C PF,NGC Universal ID: 23CN,Philadelphia,500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1864 10C PF,NGC Universal ID: 23CM,Philadelphia,470
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1863 10C PF,NGC Universal ID: 23BS,Philadelphia,460
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1862 10C PF,NGC Universal ID: 23CL,Philadelphia,550
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1861 10C PF,NGC Universal ID: 23CK,Philadelphia,1000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1858 10C PF,NGC Universal ID: 23CC,Philadelphia,300
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1859 TRANSITION J-233 10C PF,NGC Universal ID: 23CH,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1860 10C PF,NGC Universal ID: 23CJ,Philadelphia,1000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1859 10C PF,NGC Universal ID: 23CD,Philadelphia,800
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1857 10C PF,NGC Universal ID: 23CB,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1856 10C PF,NGC Universal ID: 23CA,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1854 ARROWS 10C PF,NGC Universal ID: 23CF,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1853 NO ARROWS 10C PF,NGC Universal ID: 23C9,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1853 ARROWS 10C PF,NGC Universal ID: 23CE,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1855 ARROWS 10C PF,NGC Universal ID: 23CG,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1852 10C PF,NGC Universal ID: 23C8,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1851 10C PF,NGC Universal ID: 23C7,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1850 10C PF,NGC Universal ID: 23C6,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1848 10C PF,NGC Universal ID: 23C4,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1849 10C PF,NGC Universal ID: 23C5,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1846 10C PF,NGC Universal ID: 23C2,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1847 10C PF,NGC Universal ID: 23C3,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1844 10C PF,NGC Universal ID: 23BY,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1845 10C PF,NGC Universal ID: 23BZ,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1843 10C PF,NGC Universal ID: 23BX,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1841 NO DRAPERY 10C PF,NGC Universal ID: 23BV,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1842 10C PF,NGC Universal ID: 23BW,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1841 10C PF,NGC Universal ID: 23BU,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1840 NO DRAPERY 10C PF,NGC Universal ID: 23BT,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1839 10C PF,NGC Universal ID: 23BR,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1838 10C PF,NGC Universal ID: 23BP,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1837 SEATED 10C PF,NGC Universal ID: 23BN,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1891 O 10C MS,NGC Universal ID: 23BE,New Orleans,4540000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1891 10C MS,NGC Universal ID: 23BD,Philadelphia,15310000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1890 S 10C MS,NGC Universal ID: 23BC,San Francisco,1423076
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1890 10C MS,NGC Universal ID: 23BB,Philadelphia,9910951
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1891 S 10C MS,NGC Universal ID: 23BF,San Francisco,3196116
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1889 S 10C MS,NGC Universal ID: 23BA,San Francisco,972678
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1889 10C MS,NGC Universal ID: 23B9,Philadelphia,7380000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1888 S 10C MS,NGC Universal ID: 23B8,San Francisco,1720000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1888 10C MS,NGC Universal ID: 23B7,Philadelphia,5495655
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1887 S 10C MS,NGC Universal ID: 23B6,San Francisco,4454450
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1886 S 10C MS,NGC Universal ID: 23B4,San Francisco,206524
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1887 10C MS,NGC Universal ID: 23B5,Philadelphia,11283229
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1885 S 10C MS,NGC Universal ID: 23B2,San Francisco,43690
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1886 10C MS,NGC Universal ID: 23B3,Philadelphia,6376684
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1884 S 10C MS,NGC Universal ID: 23AY,San Francisco,564969
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1885 10C MS,NGC Universal ID: 23AZ,Philadelphia,2532497
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1884 10C MS,NGC Universal ID: 23AX,Philadelphia,3365505
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1883 10C MS,NGC Universal ID: 23AW,Philadelphia,7674673
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1882 10C MS,NGC Universal ID: 23AV,Philadelphia,3910000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1880 10C MS,NGC Universal ID: 23AT,Philadelphia,36000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1879 10C MS,NGC Universal ID: 23AS,Philadelphia,14000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1881 10C MS,NGC Universal ID: 23AU,Philadelphia,24000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1878 CC 10C MS,NGC Universal ID: 23AR,Carson City,200000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1877 S 10C MS,NGC Universal ID: 23AN,San Francisco,2340000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1878 10C MS,NGC Universal ID: 23AP,Philadelphia,1677200
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1877 CC 10C MS,NGC Universal ID: 23AM,Carson City,7700000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1877 10C MS,NGC Universal ID: 23AL,Philadelphia,7310000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1876 S 10C MS,NGC Universal ID: 23AK,San Francisco,10420000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1876 10C MS,NGC Universal ID: 23AH,Philadelphia,11450000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1876 CC 10C MS,NGC Universal ID: 23AJ,Carson City,8270000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 S ABOVE BOW 10C MS,NGC Universal ID: 23AG,San Francisco,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 S 10C MS,NGC Universal ID: 27DC,San Francisco,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 CC ABOVE BOW 10C MS,NGC Universal ID: 23AE,Carson City,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 CC BELOW BOW 10C MS,NGC Universal ID: 23AD,Carson City,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 S BELOW BOW 10C MS,NGC Universal ID: 23AF,San Francisco,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 CC 10C MS,NGC Universal ID: 27DB,Carson City,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1874 CC ARROWS 10C MS,NGC Universal ID: 23BL,Carson City,10817
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1875 10C MS,NGC Universal ID: 23AC,Philadelphia,10350000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1874 ARROWS 10C MS,NGC Universal ID: 23BK,Philadelphia,2939300
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1874 S ARROWS 10C MS,NGC Universal ID: 23BM,San Francisco,240000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 CC ARROWS 10C MS,NGC Universal ID: 23BH,Carson City,18791
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 CC NO ARROWS 10C MS,NGC Universal ID: 27DA,Carson City,12400
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 ARROWS 10C MS,NGC Universal ID: 23BG,Philadelphia,2377700
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 S ARROWS 10C MS,NGC Universal ID: 23BJ,San Francisco,455000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 OP 3 NO ARROWS 10C MS,NGC Universal ID: 23AB,Philadelphia,60000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1872 S 10C MS,NGC Universal ID: 23A9,San Francisco,190000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1872 CC 10C MS,NGC Universal ID: 23A8,Carson City,35480
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1872 10C MS,NGC Universal ID: 23A7,Philadelphia,2395500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1871 S 10C MS,NGC Universal ID: 23A6,San Francisco,320000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1873 CL 3 NO ARROWS 10C MS,NGC Universal ID: 23AA,Philadelphia,1506900
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1871 CC 10C MS,NGC Universal ID: 23A5,Carson City,20100
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1871 10C MS,NGC Universal ID: 23A4,Philadelphia,906750
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1870 S 10C MS,NGC Universal ID: 23A3,San Francisco,50000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1869 S 10C MS,NGC Universal ID: 239Z,San Francisco,450000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1870 10C MS,NGC Universal ID: 23A2,Philadelphia,470500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1869 10C MS,NGC Universal ID: 239Y,Philadelphia,256000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1868 S 10C MS,NGC Universal ID: 239X,San Francisco,260000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1868 10C MS,NGC Universal ID: 239W,Philadelphia,464000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1867 S 10C MS,NGC Universal ID: 239V,San Francisco,140000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1867 10C MS,NGC Universal ID: 239U,Philadelphia,6000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1866 10C MS,NGC Universal ID: 239S,Philadelphia,8000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1866 S 10C MS,NGC Universal ID: 239T,San Francisco,135000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1865 10C MS,NGC Universal ID: 239P,Philadelphia,10000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1865 S 10C MS,NGC Universal ID: 239R,San Francisco,175000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1864 10C MS,NGC Universal ID: 239M,Philadelphia,11000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1863 S 10C MS,NGC Universal ID: 239L,San Francisco,157500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1864 S 10C MS,NGC Universal ID: 239N,San Francisco,230000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1862 S 10C MS,NGC Universal ID: 239J,San Francisco,180750
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1863 10C MS,NGC Universal ID: 239K,Philadelphia,14000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1862 10C MS,NGC Universal ID: 239H,Philadelphia,847000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1861 S 10C MS,NGC Universal ID: 239G,San Francisco,172500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1861 10C MS,NGC Universal ID: 239F,Philadelphia,1883000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1860 10C MS,NGC Universal ID: 239D,Philadelphia,606000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1860 O 10C MS,NGC Universal ID: 239E,New Orleans,40000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1860 S 10C MS,NGC Universal ID: 2397,San Francisco,140000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1859 S 10C MS,NGC Universal ID: 2396,San Francisco,60000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1859 10C MS,NGC Universal ID: 2394,Philadelphia,429200
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1859 O 10C MS,NGC Universal ID: 2395,New Orleans,480000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1858 O 10C MS,NGC Universal ID: 2392,New Orleans,290000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1858 S 10C MS,NGC Universal ID: 2393,San Francisco,60000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1857 O 10C MS,NGC Universal ID: 238Y,New Orleans,1540000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1858 10C MS,NGC Universal ID: 238Z,Philadelphia,1540000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1857 10C MS,NGC Universal ID: 238X,Philadelphia,5580000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1856 S 10C MS,NGC Universal ID: 238W,San Francisco,70000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1856 O 10C MS,NGC Universal ID: 238V,New Orleans,1180000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1856 SMALL DATE 10C MS,NGC Universal ID: 238U,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1856 LARGE DATE 10C MS,NGC Universal ID: 238T,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1856 10C MS,NGC Universal ID: 238S,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1855 ARROWS 10C MS,NGC Universal ID: 239C,Philadelphia,2075000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1854 O ARROWS 10C MS,NGC Universal ID: 239B,New Orleans,1770000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1854 ARROWS 10C MS,NGC Universal ID: 239A,Philadelphia,4470000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1853 ARROWS 10C MS,NGC Universal ID: 2398,Philadelphia,12078010
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1853 NO ARROWS 10C MS,NGC Universal ID: 238R,Philadelphia,95000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1853 O ARROWS 10C MS,NGC Universal ID: 2399,New Orleans,1100000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1852 O 10C MS,NGC Universal ID: 238P,New Orleans,430000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1852 10C MS,NGC Universal ID: 238N,Philadelphia,1535500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1851 O 10C MS,NGC Universal ID: 238M,New Orleans,400000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1851 10C MS,NGC Universal ID: 238L,Philadelphia,1026500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1850 O 10C MS,NGC Universal ID: 238K,New Orleans,510000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1849 O 10C MS,NGC Universal ID: 238H,New Orleans,300000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1850 10C MS,NGC Universal ID: 238J,Philadelphia,1931500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1849 10C MS,NGC Universal ID: 238G,Philadelphia,839000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1847 10C MS,NGC Universal ID: 238E,Philadelphia,245000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1848 10C MS,NGC Universal ID: 238F,Philadelphia,451500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1845 O 10C MS,NGC Universal ID: 238C,New Orleans,230000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1846 10C MS,NGC Universal ID: 238D,Philadelphia,31300
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1845 10C MS,NGC Universal ID: 238B,Philadelphia,1755000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1844 10C MS,NGC Universal ID: 238A,Philadelphia,72500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1843 O 10C MS,NGC Universal ID: 2389,New Orleans,150000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1843 10C MS,NGC Universal ID: 2388,Philadelphia,1370000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1842 O 10C MS,NGC Universal ID: 2387,New Orleans,2020000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1842 10C MS,NGC Universal ID: 2386,Philadelphia,1887500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1841 10C MS,NGC Universal ID: 2384,Philadelphia,1622500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1841 O 10C MS,NGC Universal ID: 2385,New Orleans,2007500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1840 O NO DRAPERY 10C MS,NGC Universal ID: 2382,New Orleans,1175000
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1840 NO DRAPERY 10C MS,NGC Universal ID: 237Z,Philadelphia,981500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1840 DRAPERY 10C MS,NGC Universal ID: 2383,Philadelphia,377500
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1839 10C MS,NGC Universal ID: 237X,Philadelphia,1053115
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1838 PARTIAL DRAPERY 10C MS,NGC Universal ID: 237W,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1839 O 10C MS,NGC Universal ID: 237Y,New Orleans,1291600
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1838 LARGE STARS 10C MS,NGC Universal ID: 237U,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1838 SMALL STARS DDR 10C MS,NGC Universal ID: 2TVT,Philadelphia,0
+Dimes,Seated Liberty Dimes (1837-1891),Seated Liberty Dimes1838 O 10C MS,NGC Universal ID: 237T,New Orleans,406034
+Dimes,Early Dimes (1796-1837),Early Dimes1837 CAPPED 10C PF,NGC Universal ID: 27D9,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1837 CAPPED 10C SP,NGC Universal ID: 27D8,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1836 10C PF,NGC Universal ID: 27D7,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1835 10C PF,NGC Universal ID: 237P,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1834 10C PF,NGC Universal ID: 27D6,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1832 10C PF,NGC Universal ID: 27D4,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1833 10C PF,NGC Universal ID: 27D5,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1831 10C PF,NGC Universal ID: 27D3,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1830 10C PF,NGC Universal ID: 237N,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1829 10C PF,NGC Universal ID: 27D2,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1825 10C PF,NGC Universal ID: 27CZ,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1827 10C PF,NGC Universal ID: 237L,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1824/2 10C PF,NGC Universal ID: 27CY,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1822 JR-1 10C PF,NGC Universal ID: 237K,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1828 SMALL DATE JR-1 10C PF,NGC Universal ID: 237M,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1820 10C PF,NGC Universal ID: 27CX,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1821 10C PF,NGC Universal ID: 237J,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1796 10C SP,NGC Universal ID: 27CV,Philadelphia,0
+Dimes,Early Dimes (1796-1837),Early Dimes1837 CAPPED 10C MS,NGC Universal ID: 237H,Philadelphia,359500
+Dimes,Early Dimes (1796-1837),Early Dimes1836 10C MS,NGC Universal ID: 237G,Philadelphia,1190000
+Dimes,Early Dimes (1796-1837),Early Dimes1835 10C MS,NGC Universal ID: 237F,Philadelphia,1410000
+Dimes,Early Dimes (1796-1837),Early Dimes1834 10C MS,NGC Universal ID: 237E,Philadelphia,635000
+Dimes,Early Dimes (1796-1837),Early Dimes1833 10C MS,NGC Universal ID: 237D,Philadelphia,485000
+Dimes,Early Dimes (1796-1837),Early Dimes1831 10C MS,NGC Universal ID: 237B,Philadelphia,771350
+Dimes,Early Dimes (1796-1837),Early Dimes1832 10C MS,NGC Universal ID: 237C,Philadelphia,522500
+Dimes,Early Dimes (1796-1837),Early Dimes1830/29 10C MS,NGC Universal ID: 237A,Philadelphia,510000
+Dimes,Early Dimes (1796-1837),Early Dimes1830 10C MS,NGC Universal ID: 2379,Philadelphia,510000
+Dimes,Early Dimes (1796-1837),Early Dimes1828 SMALL DATE JR-1 10C MS,NGC Universal ID: 2377,Philadelphia,35000
+Dimes,Early Dimes (1796-1837),Early Dimes1829 10C MS,NGC Universal ID: 2378,Philadelphia,770000
+Dimes,Early Dimes (1796-1837),Early Dimes1828 LARGE DATE JR-2 10C MS,NGC Universal ID: 2376,Philadelphia,35000
+Dimes,Early Dimes (1796-1837),Early Dimes1827 10C MS,NGC Universal ID: 2375,Philadelphia,1215000
+Dimes,Early Dimes (1796-1837),Early Dimes1825 10C MS,NGC Universal ID: 2374,Philadelphia,410000
+Dimes,Early Dimes (1796-1837),Early Dimes1824/2 10C MS,NGC Universal ID: 2373,Philadelphia,100000
+Dimes,Early Dimes (1796-1837),Early Dimes1822 JR-1 10C MS,NGC Universal ID: 236Z,Philadelphia,100000
+Dimes,Early Dimes (1796-1837),Early Dimes1821 10C MS,NGC Universal ID: 236Y,Philadelphia,1186512
+Dimes,Early Dimes (1796-1837),Early Dimes1823/2 10C MS,NGC Universal ID: 2372,Philadelphia,440000
+Dimes,Early Dimes (1796-1837),Early Dimes1820 10C MS,NGC Universal ID: 236X,Philadelphia,942587
+Dimes,Early Dimes (1796-1837),Early Dimes1814 10C MS,NGC Universal ID: 236W,Philadelphia,421500
+Dimes,Early Dimes (1796-1837),Early Dimes1811/09 JR-1 10C MS,NGC Universal ID: 236V,Philadelphia,65180
+Dimes,Early Dimes (1796-1837),Early Dimes1807 JR-1 10C MS,NGC Universal ID: 236T,Philadelphia,165000
+Dimes,Early Dimes (1796-1837),Early Dimes1809 JR-1 10C MS,NGC Universal ID: 236U,Philadelphia,51065
+Dimes,Early Dimes (1796-1837),Early Dimes1805 4 BERRIES JR-2 10C MS,NGC Universal ID: 236S,Philadelphia,120780
+Dimes,Early Dimes (1796-1837),Early Dimes1804 10C MS,NGC Universal ID: 236M,Philadelphia,8265
+Dimes,Early Dimes (1796-1837),Early Dimes1804 14 STARS REV JR-2 10C MS,NGC Universal ID: 236P,Philadelphia,8265
+Dimes,Early Dimes (1796-1837),Early Dimes1805 5 BERRIES JR-1 10C MS,NGC Universal ID: 236R,Philadelphia,120780
+Dimes,Early Dimes (1796-1837),Early Dimes1804 13 STARS REV JR-1 10C MS,NGC Universal ID: 236N,Philadelphia,8265
+Dimes,Early Dimes (1796-1837),Early Dimes1803 10C MS,NGC Universal ID: 236L,Philadelphia,33040
+Dimes,Early Dimes (1796-1837),Early Dimes1802 10C MS,NGC Universal ID: 236K,Philadelphia,10975
+Dimes,Early Dimes (1796-1837),Early Dimes1801 10C MS,NGC Universal ID: 236J,Philadelphia,34640
+Dimes,Early Dimes (1796-1837),Early Dimes1800 10C MS,NGC Universal ID: 236H,Philadelphia,21760
+Dimes,Early Dimes (1796-1837),Early Dimes1798/7 16 STARS REV JR-1 10C MS,NGC Universal ID: 236F,Philadelphia,27550
+Dimes,Early Dimes (1796-1837),Early Dimes1798/7 13 STARS REV JR-2 10C MS,NGC Universal ID: 236G,Philadelphia,27550
+Dimes,Early Dimes (1796-1837),Early Dimes1797 10C MS,NGC Universal ID: 27CW,Philadelphia,15017
+Dimes,Early Dimes (1796-1837),Early Dimes1798 10C MS,NGC Universal ID: 236E,Philadelphia,27550
+Dimes,Early Dimes (1796-1837),Early Dimes1797 16 STARS JR-1 10C MS,NGC Universal ID: 236C,Philadelphia,15017
+Dimes,Early Dimes (1796-1837),Early Dimes1797 13 STARS JR-2 10C MS,NGC Universal ID: 236D,Philadelphia,15017

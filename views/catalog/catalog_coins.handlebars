@@ -1,0 +1,56 @@
+<div style="height: 60px"></div>
+<section id="catalog-page" class="bg-light py-5">
+  <div class="container text-center">
+    <h1 class="font-weight-bold mb-5">{{{category}}}</h1>
+
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Coin Name</th>
+          <th>Mint</th>
+          <th>Strike</th>
+          <th>Number Minted</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each coin}}
+        <tr class="text-left">
+          <td>{{{coinYear}}}
+            {{#eq mint "Denver"}}-D{{/eq}}
+            {{#eq mint "Carson City"}}-CC{{/eq}}
+            {{#eq mint "San Francisco"}}-S{{/eq}}
+            {{#eq mint "(San Fransisco)"}}-S{{/eq}}
+            {{#eq mint "New Orleans"}}-O{{/eq}}
+          </td>
+          <td>{{{coinName}}}</td>
+          {{#if mint}}
+          <td>{{{mint}}}</td>
+          {{else}}
+          <td>Unknown</td>
+          {{/if}}
+          {{#eq strike "PF"}}
+          <td>PROOF
+            {{/eq}}
+            {{#eq strike "MS"}}
+          <td>Mint State
+            {{/eq}}
+            {{#eq strike "SP"}}
+          <td>Special
+            {{/eq}}
+            {{#contains coinName "SILVER"}}
+            -AG
+            {{/contains}}
+          </td>
+          {{#eq mintage "0"}}
+          <td>Unknown</td>
+          {{else}}
+          <td>{{{addCommas mintage}}}</td>
+          {{/eq}}
+        </tr>
+        {{/each}}
+      </tbody>
+    </table>
+
+  </div>
+</section>

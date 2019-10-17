@@ -1,0 +1,13 @@
+<div style="height: 60px"></div>
+
+<section id="catalog-top-section" class="bg-light text-muted py-5">
+  <div class="container text-center">
+    <h1>Welcome {{user.firstName}} {{user.lastName}} View {{{denom}}} Categories</h1>
+    {{#each category}}
+    <div class="row my-1">
+      <a href="/collection/coins:{{_id}}" class="mb-5 btn btn-success">Get {{{category}}}</a>
+    </div>
+    {{/each}}
+
+  </div>
+</section>

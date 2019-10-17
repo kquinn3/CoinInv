@@ -1,0 +1,665 @@
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 SILVER GOBRECHT $1 PF,NGC Universal ID: BLWT,Philadelphia,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 8TF $1 MS,NGC Universal ID: 253H,Philadelphia,749500
+Dollars,Trade Dollars (1873-1885),Trade Dollars1873 T$1 MS,NGC Universal ID: 252W,Philadelphia,396635
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1851 ORIGINAL S$1 PF,NGC Universal ID: 2523,Philadelphia,1300
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1840 $1 MS,NGC Universal ID: 24YA,Philadelphia,61005
+Dollars,Early Dollars (1794-1804),Early Dollars1794 BB-1_B-1 $1 MS,NGC Universal ID: 24WY,Philadelphia,1758
+Dollars,Early Dollars (1794-1804),Early Dollars1804 CLASS I $1 PF,NGC Universal ID: 24XH,Philadelphia,0
+Dollars,Early Dollars (1794-1804),Early Dollars1803 BB-303_B-7 $1 PF,NGC Universal ID: 24XG,Philadelphia,0
+Dollars,Early Dollars (1794-1804),Early Dollars1804 CLASS III $1 PF,NGC Universal ID: 24XJ,Philadelphia,0
+Dollars,Early Dollars (1794-1804),Early Dollars1802 BB-302_B-8 $1 PF,NGC Universal ID: 24XF,Philadelphia,0
+Dollars,Early Dollars (1794-1804),Early Dollars1795 FLOWING HAIR $1 SP,NGC Universal ID: BNJK,Philadelphia,0
+Dollars,Early Dollars (1794-1804),Early Dollars1801 BB-301_B-5 $1 PF,NGC Universal ID: 24XE,Philadelphia,0
+Dollars,Early Dollars (1794-1804),Early Dollars1803 $1 MS,NGC Universal ID: 24XD,Philadelphia,85634
+Dollars,Early Dollars (1794-1804),Early Dollars1802 $1 MS,NGC Universal ID: 24XB,Philadelphia,41650
+Dollars,Early Dollars (1794-1804),Early Dollars1802/1 $1 MS,NGC Universal ID: 24XC,Philadelphia,41650
+Dollars,Early Dollars (1794-1804),Early Dollars1800 $1 MS,NGC Universal ID: 24X9,Philadelphia,220920
+Dollars,Early Dollars (1794-1804),Early Dollars1799/8 $1 MS,NGC Universal ID: 24X8,Philadelphia,423515
+Dollars,Early Dollars (1794-1804),Early Dollars1799 $1 MS,NGC Universal ID: 24X7,Philadelphia,423515
+Dollars,Early Dollars (1794-1804),Early Dollars1801 $1 MS,NGC Universal ID: 24XA,Philadelphia,54454
+Dollars,Early Dollars (1794-1804),Early Dollars1798 LARGE EAGLE $1 MS,NGC Universal ID: 24X6,Philadelphia,327536
+Dollars,Early Dollars (1794-1804),Early Dollars1798 SMALL EAGLE $1 MS,NGC Universal ID: 24X5,Philadelphia,327536
+Dollars,Early Dollars (1794-1804),Early Dollars1797 $1 MS,NGC Universal ID: 24X4,Philadelphia,7776
+Dollars,Early Dollars (1794-1804),Early Dollars1796 $1 MS,NGC Universal ID: 24X3,Philadelphia,79920
+Dollars,Early Dollars (1794-1804),Early Dollars1795 DRAPED BUST $1 MS,NGC Universal ID: 24X2,Philadelphia,42738
+Dollars,Early Dollars (1794-1804),Early Dollars1795 FLOWING HAIR $1 MS,NGC Universal ID: 24WZ,Philadelphia,160295
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1873 $1 PF,NGC Universal ID: 252V,Philadelphia,600
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1872 $1 PF,NGC Universal ID: 252U,Philadelphia,950
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1870 $1 PF,NGC Universal ID: 252S,Philadelphia,1000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1871 $1 PF,NGC Universal ID: 252T,Philadelphia,960
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1869 $1 PF,NGC Universal ID: 252R,Philadelphia,600
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1868 $1 PF,NGC Universal ID: 252P,Philadelphia,600
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1867 $1 PF,NGC Universal ID: 252N,Philadelphia,625
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1866 MOTTO $1 PF,NGC Universal ID: 252M,Philadelphia,725
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1866 NO MOTTO $1 PF,NGC Universal ID: 252L,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1864 $1 PF,NGC Universal ID: 252J,Philadelphia,470
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1865 $1 PF,NGC Universal ID: 252K,Philadelphia,500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1863 $1 PF,NGC Universal ID: 252H,Philadelphia,460
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1862 $1 PF,NGC Universal ID: 252G,Philadelphia,550
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1861 $1 PF,NGC Universal ID: 252F,Philadelphia,1000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1860 $1 PF,NGC Universal ID: 252E,Philadelphia,1330
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1859 $1 PF,NGC Universal ID: 252D,Philadelphia,800
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1858 $1 PF,NGC Universal ID: 252C,Philadelphia,300
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1856 $1 PF,NGC Universal ID: 252A,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1857 $1 PF,NGC Universal ID: 252B,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1855 $1 PF,NGC Universal ID: 2529,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1854 $1 PF,NGC Universal ID: 2528,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1853 $1 PF,NGC Universal ID: 2527,Philadelphia,46110
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1851 $1 PF,NGC Universal ID: CPUT,undefined,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1852 $1 PF,NGC Universal ID: CHGE,undefined,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1850 $1 PF,NGC Universal ID: 2522,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1849 $1 PF,NGC Universal ID: 24ZZ,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1848 $1 PF,NGC Universal ID: 24ZY,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1847 $1 PF,NGC Universal ID: 24ZX,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1845 $1 PF,NGC Universal ID: 24ZV,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1844 $1 PF,NGC Universal ID: 24ZU,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1846 $1 PF,NGC Universal ID: 24ZW,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1843 $1 PF,NGC Universal ID: 24ZT,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1842 $1 PF,NGC Universal ID: 24ZS,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1873 CC $1 MS,NGC Universal ID: 24ZN,Carson City,2300
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1841 $1 PF,NGC Universal ID: 24ZR,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1840 $1 PF,NGC Universal ID: 24ZP,Philadelphia,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1872 S $1 MS,NGC Universal ID: 24ZL,San Francisco,9000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1873 $1 MS,NGC Universal ID: 24ZM,Philadelphia,293000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1872 $1 MS,NGC Universal ID: 24ZJ,Philadelphia,1105500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1871 CC $1 MS,NGC Universal ID: 24ZH,Carson City,1376
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1872 CC $1 MS,NGC Universal ID: 24ZK,Carson City,3150
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1871 $1 MS,NGC Universal ID: 24ZG,Philadelphia,1073800
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1870 S $1 MS,NGC Universal ID: 24ZF,San Francisco,0
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1869 $1 MS,NGC Universal ID: 24ZC,Philadelphia,423700
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1870 CC $1 MS,NGC Universal ID: 24ZE,Carson City,11758
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1868 $1 MS,NGC Universal ID: 24ZB,Philadelphia,162100
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1870 $1 MS,NGC Universal ID: 24ZD,Philadelphia,415000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1865 $1 MS,NGC Universal ID: 24Z8,Philadelphia,46500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1867 $1 MS,NGC Universal ID: 24ZA,Philadelphia,46900
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1866 MOTTO $1 MS,NGC Universal ID: 24Z9,Philadelphia,48900
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1863 $1 MS,NGC Universal ID: 24Z6,Philadelphia,27200
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1864 $1 MS,NGC Universal ID: 24Z7,Philadelphia,30700
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1862 $1 MS,NGC Universal ID: 24Z5,Philadelphia,11540
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1861 $1 MS,NGC Universal ID: 24Z4,Philadelphia,77500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1860 $1 MS,NGC Universal ID: 24Z2,Philadelphia,217600
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1859 S $1 MS,NGC Universal ID: 24YZ,San Francisco,20000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1860 O $1 MS,NGC Universal ID: 24Z3,New Orleans,515000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1859 $1 MS,NGC Universal ID: 24YX,Philadelphia,255700
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1859 O $1 MS,NGC Universal ID: 24YY,New Orleans,360000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1856 $1 MS,NGC Universal ID: 24YV,Philadelphia,63500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1857 $1 MS,NGC Universal ID: 24YW,Philadelphia,94000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1855 $1 MS,NGC Universal ID: 24YU,Philadelphia,26000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1854 $1 MS,NGC Universal ID: 24YT,Philadelphia,33140
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1853 $1 MS,NGC Universal ID: 24YS,Philadelphia,46110
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1852 $1 MS,NGC Universal ID: 24YR,Philadelphia,1100
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1851 $1 MS,NGC Universal ID: 24YP,Philadelphia,1300
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1850 O $1 MS,NGC Universal ID: 24YN,New Orleans,40000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1849 $1 MS,NGC Universal ID: 24YL,Philadelphia,62600
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1850 $1 MS,NGC Universal ID: 24YM,Philadelphia,7500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1846 O $1 MS,NGC Universal ID: 24YH,New Orleans,59000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1848 $1 MS,NGC Universal ID: 24YK,Philadelphia,15000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1847 $1 MS,NGC Universal ID: 24YJ,Philadelphia,140750
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1846 $1 MS,NGC Universal ID: 24YG,San Francisco,110600
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1845 $1 MS,NGC Universal ID: 24YF,Philadelphia,24500
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1842 $1 MS,NGC Universal ID: 24YC,Philadelphia,184618
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1841 $1 MS,NGC Universal ID: 24YB,Philadelphia,173000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1844 $1 MS,NGC Universal ID: 24YE,Philadelphia,20000
+Dollars,Seated Liberty Dollars (1840-1873),Seated Liberty Dollars1843 $1 MS,NGC Universal ID: 24YD,Philadelphia,165100
+Dollars,Trade Dollars (1873-1885),Trade Dollars1885 T$1 PF,NGC Universal ID: 27YX,Philadelphia,5
+Dollars,Trade Dollars (1873-1885),Trade Dollars1884 T$1 PF,NGC Universal ID: 27YW,Philadelphia,10
+Dollars,Trade Dollars (1873-1885),Trade Dollars1882 T$1 PF,NGC Universal ID: 27YU,Philadelphia,1097
+Dollars,Trade Dollars (1873-1885),Trade Dollars1883 T$1 PF,NGC Universal ID: 27YV,Philadelphia,979
+Dollars,Trade Dollars (1873-1885),Trade Dollars1881 T$1 PF,NGC Universal ID: 27YT,Philadelphia,960
+Dollars,Trade Dollars (1873-1885),Trade Dollars1880 T$1 PF,NGC Universal ID: 27YS,Philadelphia,1987
+Dollars,Trade Dollars (1873-1885),Trade Dollars1879 T$1 PF,NGC Universal ID: 27YR,Philadelphia,1541
+Dollars,Trade Dollars (1873-1885),Trade Dollars1877 T$1 PF,NGC Universal ID: 27YN,Philadelphia,510
+Dollars,Trade Dollars (1873-1885),Trade Dollars1878 T$1 PF,NGC Universal ID: 27YP,Philadelphia,900
+Dollars,Trade Dollars (1873-1885),Trade Dollars1876 T$1 PF,NGC Universal ID: 27YM,Philadelphia,1150
+Dollars,Trade Dollars (1873-1885),Trade Dollars1875 T$1 PF,NGC Universal ID: 27YL,Philadelphia,700
+Dollars,Trade Dollars (1873-1885),Trade Dollars1874 T$1 PF,NGC Universal ID: 27YK,Philadelphia,700
+Dollars,Trade Dollars (1873-1885),Trade Dollars1878 S T$1 MS,NGC Universal ID: 253G,San Francisco,4162000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1878 CC T$1 MS,NGC Universal ID: 253F,Carson City,97000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1873 T$1 PF,NGC Universal ID: 27YJ,Philadelphia,865
+Dollars,Trade Dollars (1873-1885),Trade Dollars1877 S T$1 MS,NGC Universal ID: 253E,San Francisco,9519000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1877 CC T$1 MS,NGC Universal ID: 253D,Carson City,534000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1876 CC T$1 MS,NGC Universal ID: 253A,Carson City,509000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1877 T$1 MS,NGC Universal ID: 253C,Philadelphia,3039200
+Dollars,Trade Dollars (1873-1885),Trade Dollars1876 T$1 MS,NGC Universal ID: 2539,Philadelphia,455000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1876 S T$1 MS,NGC Universal ID: 253B,San Francisco,5227000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1875 S T$1 MS,NGC Universal ID: 2536,San Francisco,4487000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1875 T$1 MS,NGC Universal ID: 2534,Philadelphia,218200
+Dollars,Trade Dollars (1873-1885),Trade Dollars1875 CC T$1 MS,NGC Universal ID: 2535,Carson City,1573700
+Dollars,Trade Dollars (1873-1885),Trade Dollars1874 T$1 MS,NGC Universal ID: 252Z,Philadelphia,987100
+Dollars,Trade Dollars (1873-1885),Trade Dollars1874 S T$1 MS,NGC Universal ID: 2533,San Francisco,2549000
+Dollars,Trade Dollars (1873-1885),Trade Dollars1874 CC T$1 MS,NGC Universal ID: 2532,Carson City,1373200
+Dollars,Trade Dollars (1873-1885),Trade Dollars1873 S T$1 MS,NGC Universal ID: 252Y,San Francisco,703000
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 COPPER GOBRECHT J-109 $1,NGC Universal ID: BLYE,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 COPPER GOBRECHT J-107 $1,NGC Universal ID: BLYC,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 SILVER GOBRECHT J-108 $1,NGC Universal ID: BLYJ,Philadelphia,0
+Dollars,Trade Dollars (1873-1885),Trade Dollars1873 CC T$1 MS,NGC Universal ID: 252X,Carson City,124500
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 COPPER GOBRECHT J-106 $1,NGC Universal ID: BLY9,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 SILVER PLAIN EDGE S$1 PF,NGC Universal ID: 27YH,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 SILVER GOBRECHT J-105 $1,NGC Universal ID: BLY7,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1839 SILVER GOBRECHT J-104 $1,NGC Universal ID: BLY5,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 COPPER GOBRECHT J-90 $1 PF,NGC Universal ID: BLXZ,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 COPPER GOBRECHT J-89 $1 PF,NGC Universal ID: BLXY,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 COPPER GOBRECHT J-86 $1 PF,NGC Universal ID: BLXV,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 SILVER GOBRECHT J-88 $1 PF,NGC Universal ID: BLXX,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 COPPER GOBRECHT J-87 $1 PF,NGC Universal ID: BLXW,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 SILVER GOBRECHT J-85 $1 PF,NGC Universal ID: BLXU,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 SILVER GOBRECHT J-84 $1 PF,NGC Universal ID: BLXE,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1838 SILVER GOBRECHT $1 PF,NGC Universal ID: BLXD,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 SILVER GOBRECHT J-65 $1 PF,NGC Universal ID: BLX7,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 COPPER GOBRECHT J-66 $1 PF,NGC Universal ID: BLX9,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 COPPER GOBRECHT J-64 $1 PF,NGC Universal ID: BLX6,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 SILVER GOBRECHT J-63 $1 PF,NGC Universal ID: BLX5,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 COPPER GOBRECHT J-62 $1 PF,NGC Universal ID: BLX3,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 SILVER GOBRECHT J-61 $1 PF,NGC Universal ID: BLX2,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 SILVER GOBRECHT J-60 $1 PF,NGC Universal ID: BLWV,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 COPPER GOBRECHT J-59 $1 PF,NGC Universal ID: BLWZ,Philadelphia,0
+Dollars,Gobrecht Dollars (1836-1839),Gobrecht Dollars1836 SILVER GOBRECHT J-58 $1 PF,NGC Universal ID: BLWU,Philadelphia,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1921 MORGAN ZERBE $1 PF,NGC Universal ID: 257A,Philadelphia,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1903 $1 PF,NGC Universal ID: 2823,Philadelphia,755
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1921 MORGAN CHAPMAN $1 PF,NGC Universal ID: 2579,Philadelphia,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1904 $1 PF,NGC Universal ID: 2824,Philadelphia,650
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1902 $1 PF,NGC Universal ID: 2822,Philadelphia,777
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1900 $1 PF,NGC Universal ID: 27ZY,Philadelphia,912
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1899 $1 PF,NGC Universal ID: 27ZX,Philadelphia,846
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1901 $1 PF,NGC Universal ID: 27ZZ,Philadelphia,813
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1897 $1 PF,NGC Universal ID: 27ZV,Philadelphia,731
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1898 $1 PF,NGC Universal ID: 27ZW,Philadelphia,735
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1896 $1 PF,NGC Universal ID: 27ZT,Philadelphia,762
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1896 O $1 SP,NGC Universal ID: 27ZU,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1895 O $1 PF,NGC Universal ID: 27ZS,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1895 $1 PF,NGC Universal ID: 27ZR,Philadelphia,880
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1895 O $1 SP,NGC Universal ID: 2578,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1893 CC $1 PF,NGC Universal ID: 27ZP,Carson City,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1894 $1 PF,NGC Universal ID: 2577,Philadelphia,972
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1892 $1 PF,NGC Universal ID: 27ZM,Philadelphia,1245
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1891 $1 PF,NGC Universal ID: 27ZL,Philadelphia,650
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1890 $1 PF,NGC Universal ID: 27ZK,Philadelphia,590
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1893 $1 PF,NGC Universal ID: 27ZN,Philadelphia,792
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1889 $1 PF,NGC Universal ID: 27ZJ,Philadelphia,811
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887 O $1 SP,NGC Universal ID: 2576,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1888 $1 PF,NGC Universal ID: 27ZH,Philadelphia,833
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1885 CC $1 PF,NGC Universal ID: BJLH,Carson City,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887 $1 PF,NGC Universal ID: 27ZG,Philadelphia,710
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1886 $1 PF,NGC Universal ID: 27ZF,Philadelphia,886
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 CC $1 SP,NGC Universal ID: 2575,Carson City,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1885 $1 PF,NGC Universal ID: 27ZE,Philadelphia,930
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 O $1 SP,NGC Universal ID: 27ZD,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 CC $1 PF,NGC Universal ID: 27ZC,Carson City,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 $1 PF,NGC Universal ID: 27ZB,Philadelphia,875
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 O $1 SP,NGC Universal ID: 27ZA,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 O $1 PF,NGC Universal ID: 27Z9,New Orleans,8725000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 $1 PF,NGC Universal ID: 27Z7,Philadelphia,1039
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 CC $1 SP,NGC Universal ID: 2574,Carson City,1133000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 CC $1 PF,NGC Universal ID: 27Z8,Carson City,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 $1 PF,NGC Universal ID: 27Z6,Philadelphia,1100
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1881 $1 PF,NGC Universal ID: 27Z5,Philadelphia,984
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1880 $1 PF,NGC Universal ID: 27Z4,Philadelphia,1355
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 O $1 PF,NGC Universal ID: 27Z3,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 $1 PF,NGC Universal ID: 27Z2,Philadelphia,1100
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 7TF REV OF 79 $1 PF,NGC Universal ID: 27YZ,Philadelphia,250
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 8TF TOP-100 VAM-9 FIRST D,NGC Universal ID: BJLL,Philadelphia,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 7TF REV OF 78 $1 PF,NGC Universal ID: 2573,Philadelphia,250
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1921 S $1 MS,NGC Universal ID: 256Z,San Francisco,21695000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 8TF $1 PF,NGC Universal ID: 2572,Philadelphia,500
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1921 D $1 MS,NGC Universal ID: 256Y,Denver,20345000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1904 S $1 MS,NGC Universal ID: 256W,San Francisco,2304000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1904 $1 MS,NGC Universal ID: 256U,Philadelphia,2788000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1904 O $1 MS,NGC Universal ID: 256V,New Orleans,3720000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1921 MORGAN $1 MS,NGC Universal ID: 256X,Philadelphia,44690000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1903 O $1 MS,NGC Universal ID: 256S,New Orleans,4450000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1903 $1 MS,NGC Universal ID: 256R,Philadelphia,4652000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1903 S $1 MS,NGC Universal ID: 256T,San Francisco,1241000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1902 S $1 MS,NGC Universal ID: 256P,Philadelphia,1530000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1902 O $1 MS,NGC Universal ID: 256N,New Orleans,8636000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1901 S $1 MS,NGC Universal ID: 256L,San Francisco,2284000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1902 $1 MS,NGC Universal ID: 256M,Philadelphia,7994000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1901 $1 MS,NGC Universal ID: 256J,Philadelphia,6962000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1901 O $1 MS,NGC Universal ID: 256K,New Orleans,13320000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1900 S $1 MS,NGC Universal ID: 256H,San Francisco,3540000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1900 O/CC TOP-100 $1 MS,NGC Universal ID: 256G,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1900 $1 MS,NGC Universal ID: 256E,Philadelphia,8830000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1900 O $1 MS,NGC Universal ID: 256F,New Orleans,12590000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1899 S $1 MS,NGC Universal ID: 256D,San Francisco,2562000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1899 O $1 MS,NGC Universal ID: 256C,New Orleans,12290000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1899 $1 MS,NGC Universal ID: 256B,Philadelphia,330000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1898 S $1 MS,NGC Universal ID: 256A,San Francisco,4102000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1898 $1 MS,NGC Universal ID: 2568,Philadelphia,5884000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1898 O $1 MS,NGC Universal ID: 2569,New Orleans,4440000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1897 S $1 MS,NGC Universal ID: 2567,San Francisco,5825000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1897 O $1 MS,NGC Universal ID: 2566,New Orleans,4004000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1897 $1 MS,NGC Universal ID: 2565,Philadelphia,2822000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1896 S $1 MS,NGC Universal ID: 2564,San Francisco,5000000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1896 O $1 MS,NGC Universal ID: 2563,New Orleans,4900000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1896 $1 MS,NGC Universal ID: 2562,Philadelphia,9976000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1895 S $1 MS,NGC Universal ID: 255Z,San Francisco,400000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1895 O $1 MS,NGC Universal ID: 255Y,New Orleans,450000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1894 S $1 MS,NGC Universal ID: 255X,San Francisco,1260000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1894 $1 MS,NGC Universal ID: 255V,Philadelphia,110000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1894 O $1 MS,NGC Universal ID: 255W,New Orleans,1723000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1893 S $1 MS,NGC Universal ID: 255U,San Francisco,100000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1893 O $1 MS,NGC Universal ID: 255T,New Orleans,300000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1893 CC $1 MS,NGC Universal ID: 255S,Carson City,677000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1893 $1 MS,NGC Universal ID: 255R,Philadelphia,378000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1892 S $1 MS,NGC Universal ID: 255P,San Francisco,1200000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1892 O $1 MS,NGC Universal ID: 255N,New Orleans,2744000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1892 CC $1 MS,NGC Universal ID: 255M,Carson City,1352000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1892 $1 MS,NGC Universal ID: 255L,Philadelphia,1036000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1891 S $1 MS,NGC Universal ID: 255K,San Francisco,5296000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1891 O $1 MS,NGC Universal ID: 255J,New Orleans,7954529
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1891 CC $1 MS,NGC Universal ID: 255H,Carson City,1618000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1890 S $1 MS,NGC Universal ID: 255F,San Francisco,8230373
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1891 $1 MS,NGC Universal ID: 255G,Philadelphia,8693556
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1890 O $1 MS,NGC Universal ID: 255E,New Orleans,10701000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1890 CC $1 MS,NGC Universal ID: 255D,Carson City,2309041
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1890 $1 MS,NGC Universal ID: 255C,Philadelphia,16802000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1889 S $1 MS,NGC Universal ID: 255B,San Francisco,700000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1889 O $1 MS,NGC Universal ID: 255A,New Orleans,11875000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1889 $1 MS,NGC Universal ID: 2558,Philadelphia,21726000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1889 CC $1 MS,NGC Universal ID: 2559,Carson City,350000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1888 S $1 MS,NGC Universal ID: 2557,San Francisco,657000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1888 O $1 MS,NGC Universal ID: 2556,New Orleans,12150000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1888 $1 MS,NGC Universal ID: 2555,Philadelphia,19183000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887 S $1 MS,NGC Universal ID: 2554,San Francisco,1771000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887/6 O TOP-100 VAM-3 $1 MS,NGC Universal ID: 2553,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887/6 TOP-100 VAM-2 $1 MS,NGC Universal ID: 254Z,New Orleans,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887 O $1 MS,NGC Universal ID: 2552,New Orleans,11550000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1886 S $1 MS,NGC Universal ID: 254X,San Francisco,750000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1887 $1 MS,NGC Universal ID: 254Y,Philadelphia,20290000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1886 O $1 MS,NGC Universal ID: 254W,New Orleans,10710000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1886 $1 MS,NGC Universal ID: 254V,Philadelphia,19963000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1885 S $1 MS,NGC Universal ID: 254U,San Francisco,1497000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1885 CC $1 MS,NGC Universal ID: 254S,Carson City,228000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1885 O $1 MS,NGC Universal ID: 254T,New Orleans,9185000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 S $1 MS,NGC Universal ID: 254P,San Francisco,3200000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1885 $1 MS,NGC Universal ID: 254R,Philadelphia,17787000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 $1 MS,NGC Universal ID: 254L,Philadelphia,14070000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 O $1 MS,NGC Universal ID: 254N,New Orleans,9730000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 S $1 MS,NGC Universal ID: 254K,San Francisco,6250000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 O $1 MS,NGC Universal ID: 254J,New Orleans,8725000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1884 CC $1 MS,NGC Universal ID: 254M,Carson City,1136000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 $1 MS,NGC Universal ID: 254G,Philadelphia,12290000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1883 CC $1 MS,NGC Universal ID: 254H,Carson City,1204000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 O/S $1 MS,NGC Universal ID: 254D,New Orleans,6090000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 S $1 MS,NGC Universal ID: 254F,San Francisco,9250000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 O $1 MS,NGC Universal ID: 254C,New Orleans,6090000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 $1 MS,NGC Universal ID: 254A,Philadelphia,11100000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1881 CC $1 MS,NGC Universal ID: 2547,Carson City,296000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1881 O $1 MS,NGC Universal ID: 2548,New Orleans,5708000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1881 S $1 MS,NGC Universal ID: 2549,San Francisco,12760000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1882 CC $1 MS,NGC Universal ID: 254B,Carson City,1133000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1881 $1 MS,NGC Universal ID: 2546,Philadelphia,9163000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1880 S $1 MS,NGC Universal ID: 2544,San Francisco,8900000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1880 CC HITLIST-40 VAM-7 REV O,NGC Universal ID: AP7P,Carson City,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1880 O $1 MS,NGC Universal ID: 2543,New Orleans,5305000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1880 CC $1 MS,NGC Universal ID: 2542,Carson City,495000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 S $1 MS,NGC Universal ID: 253X,San Francisco,9110000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 O $1 MS,NGC Universal ID: 253V,New Orleans,2887000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1880 $1 MS,NGC Universal ID: 253Y,Philadelphia,12600000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 $1 MS,NGC Universal ID: 253S,Philadelphia,14806000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 S REV OF 78 TOP-100 $1 M,NGC Universal ID: 253W,San Francisco,9110000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1879 CC $1 MS,NGC Universal ID: 253T,Carson City,756000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 7TF REV OF 79 $1 MS,NGC Universal ID: 253L,Philadelphia,1500000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 CC $1 MS,NGC Universal ID: 253M,Carson City,2212000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 S $1 MS,NGC Universal ID: 253R,San Francisco,9774000
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 7/8TF WEAK $1 MS,NGC Universal ID: 2TY3,Philadelphia,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 7TF REV OF 78 $1 MS,NGC Universal ID: 253K,Philadelphia,0
+Dollars,Innovation Dollars,Innovation Dollars2018 P G.Washington $1 MS,NGC Universal ID: DLJU,undefined,0
+Dollars,Morgan Dollars (1878-1921),Morgan Dollars1878 7/8TF STRONG $1 MS,NGC Universal ID: 2TXZ,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P GEORGE WASHINGTON $1 MS,NGC Universal ID: 259S,Philadelphia,176680000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2019 S Sacagawea Explore & Discover $1 PF,NGC Universal ID: DPKF,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 P $1 MS,NGC Universal ID: 259K,Philadelphia,767140000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 P $1 MS,NGC Universal ID: 258Z,Philadelphia,360222000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2019 S Sacagawea Mary Ross $1 PF,NGC Universal ID: DPCZ,undefined,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1999 P $1 PF,NGC Universal ID: 282G,Philadelphia,750000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1981 S TYPE 2 $1 PF,NGC Universal ID: 259J,San Francisco,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1981 S $1 PF,NGC Universal ID: 282F,San Francisco,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1981 S TYPE 1 $1 PF,NGC Universal ID: 259H,San Francisco,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1980 S $1 PF,NGC Universal ID: 259G,San Francisco,3554806
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 S TYPE 2 $1 PF,NGC Universal ID: 259F,San Francisco,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 S TYPE 1 $1 PF,NGC Universal ID: 259E,San Francisco,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1999 D $1 MS,NGC Universal ID: 259D,Denver,11776000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 S $1 PF,NGC Universal ID: 282E,San Francisco,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1999 P $1 MS,NGC Universal ID: 259C,Philadelphia,29592000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1981 S $1 MS,NGC Universal ID: 259B,San Francisco,3492000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1980 S $1 MS,NGC Universal ID: 2598,San Francisco,20422000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1980 D $1 MS,NGC Universal ID: 2597,Denver,41628708
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1981 D $1 MS,NGC Universal ID: 259A,Denver,3250000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1981 P $1 MS,NGC Universal ID: 2599,Philadelphia,3000000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1980 P $1 MS,NGC Universal ID: 2596,Philadelphia,27610000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 S $1 MS,NGC Universal ID: 2595,San Francisco,109576000
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 P WIDE RIM $1 MS,NGC Universal ID: 2593,Philadelphia,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 D $1 MS,NGC Universal ID: 2594,Denver,288015744
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2019 S Sacagawea Mary Golda Ross $1 PF,NGC Universal ID: DLDU,undefined,0
+Dollars,Anthony Dollars (1979-1999),Anthony Dollars1979 P NARROW RIM $1 MS,NGC Universal ID: 2592,Philadelphia,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2018 S SACAGAWEA Jim Thorpe $1 PF,NGC Universal ID: D8Y9,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2017 S SACAGAWEA SEQUOYAH $1 PF,NGC Universal ID: CSDW,San Francisco,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2017 S SACAGAWEA SEQUOYAH $1 SP,NGC Universal ID: CZW5,San Francisco,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2016 S SACAGAWEA WARTIME CODE TALKERS $1 PF,NGC Universal ID: CCR2,San Francisco,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2016 S SACAGAWEA WARTIME CODE TALKERS $1 SP,NGC Universal ID: CKKR,San Francisco,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2015 S SACAGAWEA MOHAWK IRONWORKERS $1 PF,NGC Universal ID: BJD4,San Francisco,1050394
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2014 S SACAGAWEA NATIVE HOSPITALITY $1 PF,NGC Universal ID: B37L,San Francisco,665100
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2015 W SACAGAWEA MOHAWK IRONWORKERS $1 SP,NGC Universal ID: C2S5,West Point,88805
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2014 D SACAGAWEA NATIVE HOSPITALITY $1 SP,NGC Universal ID: BH3Y,Denver,50000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2013 S SACAGAWEA TREATY WITH $1 PF,NGC Universal ID: 2VRU,San Francisco,802460
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2012 S SACAGAWEA 17th CENTURY TRADE ROUTES $1 PF,NGC Universal ID: 2TYT,San Francisco,1189445
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2011 S SACAGAWEA WAMPANOAG TREATY $1 PF,NGC Universal ID: 259R,San Francisco,1673010
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2010 S SACAGAWEA GREAT LAW OF PEACE $1 PF,NGC Universal ID: 2843,San Francisco,1689216
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2009 S SACAGAWEA AGRICULTURE $1 PF,NGC Universal ID: 2842,San Francisco,2179867
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2008 S SACAGAWEA $1 PF,NGC Universal ID: 283Z,San Francisco,2169561
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2007 S SACAGAWEA $1 PF,NGC Universal ID: 283Y,San Francisco,2577166
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2006 S $1 PF,NGC Universal ID: 283X,San Francisco,3054436
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2005 S $1 PF,NGC Universal ID: 283W,San Francisco,3344679
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2004 S $1 PF,NGC Universal ID: 283V,San Francisco,2965422
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2003 S $1 PF,NGC Universal ID: 259P,San Francisco,3298439
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2002 S $1 PF,NGC Universal ID: 283U,San Francisco,3211995
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2001 S $1 PF,NGC Universal ID: 283T,San Francisco,3183740
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2019 D Sacagawea Mary Golda Ross $1 MS,NGC Universal ID: DLDX,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 S $1 PF,NGC Universal ID: 283S,San Francisco,4047904
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 P GOODACRE PRESENTATION $1 SP,NGC Universal ID: 2U4B,Philadelphia,5000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2019 P Sacagawea Mary Golda Ross $1 MS,NGC Universal ID: DLDW,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2018 P SACAGAWEA Jim Thorpe $1 MS,NGC Universal ID: D8Y7,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2018 D SACAGAWEA Jim Thorpe $1 MS,NGC Universal ID: D8Y8,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2017 P SACAGAWEA SEQUOYAH $1 MS,NGC Universal ID: CSDU,Philadelphia,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2016 D SACAGAWEA WARTIME CODE TALKERS $1 MS,NGC Universal ID: CCPZ,Denver,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2017 D SACAGAWEA SEQUOYAH $1 MS,NGC Universal ID: CSDV,Denver,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2016 P SACAGAWEA WARTIME CODE TALKERS $1 MS,NGC Universal ID: CCPY,Philadelphia,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2015 D SACAGAWEA MOHAWK IRONWORKERS $1 MS,NGC Universal ID: BJC8,Denver,2240000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2015 P SACAGAWEA MOHAWK IRONWORKERS $1 MS,NGC Universal ID: BJC2,Philadelphia,2800000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2014 D SACAGAWEA NATIVE HOSPITALITY $1 MS,NGC Universal ID: B37K,Denver,5600000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2013 D SACAGAWEA TREATY WITH $1 MS,NGC Universal ID: 2W29,Denver,1820000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2014 P SACAGAWEA NATIVE HOSPITALITY $1 MS,NGC Universal ID: B37J,Philadelphia,3080000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2013 P SACAGAWEA TREATY WITH $1 MS,NGC Universal ID: 2W2A,Philadelphia,1820000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2012 P SACAGAWEA 17th CENTURY TRADE ROUTES $1 MS,NGC Universal ID: 2TVN,Philadelphia,2800000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2011 P SACAGAWEA WAMPANOAG TREATY $1 MS,NGC Universal ID: 259M,Philadelphia,29400000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2011 D SACAGAWEA WAMPANOAG TREATY $1 MS,NGC Universal ID: 259N,Denver,48160000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2012 D SACAGAWEA 17th CENTURY TRADE ROUTES $1 MS,NGC Universal ID: 2TVP,Denver,3080000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars(2010) SMS SACAGAWEA MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2WVV,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2010 D SMS SACAGAWEA GREAT LAW OF PEACE $1 MS,NGC Universal ID: 283P,Denver,583897
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars(2010) SACAGAWEA MISSING EDGE LETTERING $1 MS,NGC Universal ID: 283R,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2010 D SACAGAWEA GREAT LAW OF PEACE $1 MS,NGC Universal ID: 283N,Denver,48720000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2010 P SMS SACAGAWEA GREAT LAW OF PEACE $1 MS,NGC Universal ID: 283M,Philadelphia,583897
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2010 P SACAGAWEA GREAT LAW OF PEACE $1 MS,NGC Universal ID: 283L,Philadelphia,32060000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars(2009) SACAGAWEA MISSING EDGE LETTERING $1 MS,NGC Universal ID: 283K,undefined,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2009 D SMS SACAGAWEA AGRICULTURE $1 MS,NGC Universal ID: 283J,Denver,784614
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2009 D SACAGAWEA AGRICULTURE $1 MS,NGC Universal ID: 283H,Denver,35700000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2009 P SMS SACAGAWEA AGRICULTURE $1 MS,NGC Universal ID: 283G,Philadelphia,784614
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2009 P SACAGAWEA AGRICULTURE $1 MS,NGC Universal ID: 283F,Philadelphia,39200000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2008 D SACAGAWEA $1 MS,NGC Universal ID: 283D,Denver,1820000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2008 D SMS SACAGAWEA $1 MS,NGC Universal ID: 283E,Denver,745464
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2008 P SACAGAWEA $1 MS,NGC Universal ID: 283B,Philadelphia,1820000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2007 D SMS SACAGAWEA $1 MS,NGC Universal ID: 283A,Denver,895628
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2008 P SMS SACAGAWEA $1 MS,NGC Universal ID: 283C,Philadelphia,745464
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2007 P SMS SACAGAWEA $1 MS,NGC Universal ID: 2838,Philadelphia,895628
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2007 P SACAGAWEA $1 MS,NGC Universal ID: 2837,Philadelphia,3640000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2006 D SMS $1 MS,NGC Universal ID: 2836,Denver,847361
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2007 D SACAGAWEA $1 MS,NGC Universal ID: 2839,Denver,3920000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2006 D $1 MS,NGC Universal ID: 2835,Denver,2800000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2006 P SMS $1 MS,NGC Universal ID: 2834,Philadelphia,847361
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2006 P $1 MS,NGC Universal ID: 2833,Philadelphia,4900000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2005 D SMS $1 MS,NGC Universal ID: 2832,Denver,1160000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2005 P SMS $1 MS,NGC Universal ID: 282Y,Philadelphia,1160000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2005 D $1 MS,NGC Universal ID: 282Z,Denver,2520000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2005 P $1 MS,NGC Universal ID: 282X,Philadelphia,2520000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2004 D $1 MS,NGC Universal ID: 282W,Denver,2660000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2004 P $1 MS,NGC Universal ID: 282V,Philadelphia,2660000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2003 D $1 MS,NGC Universal ID: 282U,Denver,3080000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2003 P $1 MS,NGC Universal ID: 282T,Philadelphia,3080000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2002 D $1 MS,NGC Universal ID: 282S,Denver,3732000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2002 P $1 MS,NGC Universal ID: 282R,Philadelphia,3732000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2001 D $1 MS,NGC Universal ID: 282P,Denver,70939500
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2001 P $1 MS,NGC Universal ID: 282N,Philadelphia,62468000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 D MILLENNIUM SET $1 MS,NGC Universal ID: 282M,Denver,750000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 D $1 MS,NGC Universal ID: 259L,Denver,518916000
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars(2000) P SACAGAWEA REVERSE MULED WITH $1 MS,NGC Universal ID: CWUN,Philadelphia,0
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 P PROTOTYPE REVERSE $1 MS,NGC Universal ID: 282K,Philadelphia,5500
+Dollars,Sacagawea Dollars (2000-Date),Sacagawea Dollars2000 P CHEERIOS PROMOTION $1 MS,NGC Universal ID: 282J,Philadelphia,5500
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 S RONALD REAGAN $1 PF,NGC Universal ID: CCRE,San Francisco,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 S GERALD R. FORD $1 PF,NGC Universal ID: CCRD,San Francisco,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 S RICHARD M. NIXON $1 PF,NGC Universal ID: CCRC,San Francisco,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 S LYNDON B. JOHNSON $1 PF,NGC Universal ID: BJBE,San Francisco,1191876
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 S DWIGHT EISENHOWER $1 PF,NGC Universal ID: BJBC,San Francisco,1191876
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 S JOHN F. KENNEDY $1 PF,NGC Universal ID: BJBD,San Francisco,1191876
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 S FRANKLIN ROOSEVELT $1 PF,NGC Universal ID: ATD8,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 S HERBERT HOOVER $1 PF,NGC Universal ID: ATD6,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 S CALVIN COOLIDGE $1 PF,NGC Universal ID: ATD5,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 S HARRY S. TRUMAN $1 PF,NGC Universal ID: BNPC,San Francisco,1191876
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 S WOODROW WILSON $1 PF,NGC Universal ID: 2U8U,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 S WARREN HARDING $1 PF,NGC Universal ID: ATD4,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 S WILLIAM TAFT $1 PF,NGC Universal ID: 2U8T,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 S WILLIAM McKINLEY $1 PF,NGC Universal ID: 2U8R,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 S THEODORE ROOSEVELT $1 PF,NGC Universal ID: 2U8S,San Francisco,1068734
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 S GROVER CLEVELAND 1ST TERM $1 PF,NGC Universal ID: 2TYJ,San Francisco,1438710
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 S GROVER CLEVELAND 2ND TERM $1 PF,NGC Universal ID: 2TYK,San Francisco,1438710
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 S BENJAMIN HARRISON $1 PF,NGC Universal ID: 2TVG,San Francisco,1438710
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 S CHESTER ARTHUR $1 PF,NGC Universal ID: 2TVD,San Francisco,1438710
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 S JAMES GARFIELD $1 PF,NGC Universal ID: 25B6,San Francisco,1972863
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 S ULYSSES S. GRANT $1 PF,NGC Universal ID: 25B4,San Francisco,1972863
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 S RUTHERFORD HAYES $1 PF,NGC Universal ID: 25B5,San Francisco,1972863
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 S ANDREW JOHNSON $1 PF,NGC Universal ID: 25B3,San Francisco,1972863
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 S ABRAHAM LINCOLN $1 PF,NGC Universal ID: 286L,San Francisco,2224613
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 S JAMES BUCHANAN $1 PF,NGC Universal ID: 286K,San Francisco,2224613
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 S FRANKLIN PIERCE $1 PF,NGC Universal ID: 286J,San Francisco,2224613
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 S MILLARD FILLMORE $1 PF,NGC Universal ID: 286H,San Francisco,2224613
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 S ZACHARY TAYLOR $1 PF,NGC Universal ID: 286G,San Francisco,2809452
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 S JAMES K. POLK $1 PF,NGC Universal ID: 286F,San Francisco,2809452
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 S JOHN TYLER $1 PF,NGC Universal ID: 286E,San Francisco,2809452
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 S WILLIAM H. HARRISON $1 PF,NGC Universal ID: 286D,San Francisco,2809452
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 S MARTIN VAN BUREN $1 PF,NGC Universal ID: 286C,San Francisco,3083940
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 S ANDREW JACKSON $1 PF,NGC Universal ID: 286B,San Francisco,3083940
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 S JOHN QUINCY ADAMS $1 PF,NGC Universal ID: 286A,San Francisco,3083940
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 S JAMES MONROE $1 PF,NGC Universal ID: 2869,San Francisco,3083940
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 S JAMES MADISON $1 PF,NGC Universal ID: 2868,San Francisco,3965989
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 S THOMAS JEFFERSON $1 PF,NGC Universal ID: 2867,San Francisco,3965989
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 S JOHN ADAMS $1 PF,NGC Universal ID: 2866,San Francisco,3965989
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 S GEORGE WASHINGTON $1 PF,NGC Universal ID: 2865,San Francisco,3965989
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 D REAGAN $1 MS,NGC Universal ID: CJGS,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 D RONALD REAGAN $1 MS,NGC Universal ID: CCRB,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 P REAGAN $1 MS,NGC Universal ID: CJGN,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 D FORD $1 MS,NGC Universal ID: CJGR,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 P RONALD REAGAN $1 MS,NGC Universal ID: CCR9,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 D GERALD R. FORD $1 MS,NGC Universal ID: CCR8,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 P FORD $1 MS,NGC Universal ID: CJGM,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 D NIXON $1 MS,NGC Universal ID: CJGP,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 P NIXON $1 MS,NGC Universal ID: CJGL,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 P RICHARD M. NIXON $1 MS,NGC Universal ID: CCR4,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 P GERALD R. FORD $1 MS,NGC Universal ID: CCR7,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2016 D RICHARD M. NIXON $1 MS,NGC Universal ID: CCR6,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 D LYNDON B. JOHNSON $1 MS,NGC Universal ID: BJAY,Denver,4200000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 P LYNDON B. JOHNSON $1 MS,NGC Universal ID: BJAX,Philadelphia,7840000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 D JOHN F. KENNEDY $1 MS,NGC Universal ID: BJAR,Denver,5180000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 P JOHN F. KENNEDY $1 MS,NGC Universal ID: BJAM,Philadelphia,6160000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 D DWIGHT EISENHOWER $1 MS,NGC Universal ID: BJAH,Denver,3645998
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 D HARRY S. TRUMAN $1 MS,NGC Universal ID: BNPB,Denver,3500000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 P DWIGHT EISENHOWER $1 MS,NGC Universal ID: BJAF,Philadelphia,4900000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 D FRANKLIN ROOSEVELT $1 MS,NGC Universal ID: ASVT,Denver,3920000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2015 P HARRY S. TRUMAN $1 MS,NGC Universal ID: BNPA,Philadelphia,4900000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 P FRANKLIN ROOSEVELT $1 MS,NGC Universal ID: ASVS,Philadelphia,4760000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 P HERBERT HOOVER $1 MS,NGC Universal ID: ASVP,Philadelphia,4480000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 D HERBERT HOOVER $1 MS,NGC Universal ID: ASVR,Denver,3780000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 D CALVIN COOLIDGE $1 MS,NGC Universal ID: ASVN,Denver,3780000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 P CALVIN COOLIDGE $1 MS,NGC Universal ID: ASVM,Philadelphia,4480000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 D WARREN HARDING $1 MS,NGC Universal ID: ASVL,Denver,3780000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2014 P WARREN HARDING $1 MS,NGC Universal ID: ASVK,Philadelphia,6160000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 D WOODROW WILSON $1 MS,NGC Universal ID: 2U8G,Denver,3360000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 P WOODROW WILSON $1 MS,NGC Universal ID: 2U8H,Philadelphia,4620000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 D WILLIAM TAFT $1 MS,NGC Universal ID: 2U8K,Denver,3360000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 P THEODORE ROOSEVELT $1 MS,NGC Universal ID: 2U8M,Philadelphia,5310700
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 P WILLIAM TAFT $1 MS,NGC Universal ID: 2U8J,Philadelphia,4760000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 D WILLIAM McKINLEY $1 MS,NGC Universal ID: 2U8P,Denver,3365100
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2012) GROVER CLEVELAND 2ND TERM $1 MS,NGC Universal ID: CU8N,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 D THEODORE ROOSEVELT $1 MS,NGC Universal ID: 2U8L,Denver,3920000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 D GROVER CLEVELAND 2ND TERM $1 MS,NGC Universal ID: 2TYH,Denver,3920000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2013 P WILLIAM McKINLEY $1 MS,NGC Universal ID: 2U8N,Philadelphia,4760000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 P GROVER CLEVELAND 2ND TERM $1 MS,NGC Universal ID: 2TYG,Philadelphia,10680000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2012) GROVER CLEVELAND 1ST TERM $1 MS,NGC Universal ID: 2U5S,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 D BENJAMIN HARRISON $1 MS,NGC Universal ID: 2TVC,Denver,4200000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 P BENJAMIN HARRISON $1 MS,NGC Universal ID: 2TVB,Philadelphia,5640000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 P GROVER CLEVELAND 1ST TERM $1 MS,NGC Universal ID: 2TYE,Philadelphia,5460000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 D GROVER CLEVELAND 1ST TERM $1 MS,NGC Universal ID: 2TYF,Denver,4060000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 D CHESTER ARTHUR $1 MS,NGC Universal ID: 2TUZ,Denver,4060000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2011) GARFIELD MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2864,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2012 P CHESTER ARTHUR $1 MS,NGC Universal ID: 2TUY,Philadelphia,6020000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 D JAMES GARFIELD $1 MS,NGC Universal ID: 25B2,Denver,37100000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 P JAMES GARFIELD $1 MS,NGC Universal ID: 25AZ,Philadelphia,37100000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2011) HAYES MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2863,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 D RUTHERFORD HAYES $1 MS,NGC Universal ID: 25AY,Denver,36820000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2011) GRANT MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2862,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 P RUTHERFORD HAYES $1 MS,NGC Universal ID: 25AX,Philadelphia,37660000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 P ULYSSES S. GRANT $1 MS,NGC Universal ID: 25AV,Philadelphia,38080000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 D ULYSSES S. GRANT $1 MS,NGC Universal ID: 25AW,Denver,37940000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2011) A.JOHNSON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285Z,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 D ANDREW JOHNSON $1 MS,NGC Universal ID: 25AU,Denver,37100000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2010) LINCOLN MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285Y,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P SMS ABRAHAM LINCOLN $1 MS,NGC Universal ID: 285W,Philadelphia,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2011 P ANDREW JOHNSON $1 MS,NGC Universal ID: 25AT,Philadelphia,35560000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D SMS ABRAHAM LINCOLN $1 MS,NGC Universal ID: 285X,Denver,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D ABRAHAM LINCOLN $1 MS,NGC Universal ID: 25AS,Denver,48020000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P ABRAHAM LINCOLN $1 MS,NGC Universal ID: 25AR,Philadelphia,49000000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D SMS JAMES BUCHANAN $1 MS,NGC Universal ID: 285U,Denver,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2010) BUCHANAN MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285V,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P SMS JAMES BUCHANAN $1 MS,NGC Universal ID: 285T,Philadelphia,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D JAMES BUCHANAN $1 MS,NGC Universal ID: 25AP,Denver,36540000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P JAMES BUCHANAN $1 MS,NGC Universal ID: 25AN,Philadelphia,36820000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2010) PIERCE MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285S,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D SMS FRANKLIN PIERCE $1 MS,NGC Universal ID: 285R,Denver,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D FRANKLIN PIERCE $1 MS,NGC Universal ID: 25AM,Denver,38360000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P SMS FRANKLIN PIERCE $1 MS,NGC Universal ID: 285P,Philadelphia,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P FRANKLIN PIERCE $1 MS,NGC Universal ID: 25AL,Philadelphia,38220000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2010) FILLMORE MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285N,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D SMS MILLARD FILLMORE $1 MS,NGC Universal ID: 285M,Denver,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 D MILLARD FILLMORE $1 MS,NGC Universal ID: 25AK,Denver,36960000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P SMS MILLARD FILLMORE $1 MS,NGC Universal ID: 285L,Philadelphia,583897
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2010 P MILLARD FILLMORE $1 MS,NGC Universal ID: 25AJ,Philadelphia,37520000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2009) TAYLOR MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285K,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D SMS ZACHARY TAYLOR $1 MS,NGC Universal ID: 285J,Denver,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D ZACHARY TAYLOR $1 MS,NGC Universal ID: 25AH,Denver,36680000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P SMS ZACHARY TAYLOR $1 MS,NGC Universal ID: 285H,Philadelphia,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2009) POLK MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285G,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P ZACHARY TAYLOR $1 MS,NGC Universal ID: 25AG,Philadelphia,41580000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D SMS JAMES K. POLK $1 MS,NGC Universal ID: 285F,Denver,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D JAMES K. POLK $1 MS,NGC Universal ID: 25AF,Denver,41720000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P SMS JAMES K. POLK $1 MS,NGC Universal ID: 285E,Philadelphia,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2009) SMS TYLER MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285D,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P JAMES K. POLK $1 MS,NGC Universal ID: 25AE,Philadelphia,46620000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2009) TYLER MISSING EDGE LETTERING $1 MS,NGC Universal ID: 285C,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D JOHN TYLER $1 MS,NGC Universal ID: 25AD,Denver,43540000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D SMS JOHN TYLER $1 MS,NGC Universal ID: 285B,Denver,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P SMS JOHN TYLER $1 MS,NGC Universal ID: 285A,Philadelphia,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2009) SMS HARRISON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2859,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D SMS WILLIAM H. HARRISON $1 MS,NGC Universal ID: 2857,Denver,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P JOHN TYLER $1 MS,NGC Universal ID: 25AC,Philadelphia,43540000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2009) HARRISON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2858,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 D WILLIAM H. HARRISON $1 MS,NGC Universal ID: 25AB,Denver,55160000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) SMS VAN BUREN MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2855,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P WILLIAM H. HARRISON $1 MS,NGC Universal ID: 25AA,Philadelphia,43260000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2009 P SMS WILLIAM H. HARRISON $1 MS,NGC Universal ID: 2856,Philadelphia,784614
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) VAN BUREN MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2854,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P SMS MARTIN VAN BUREN $1 MS,NGC Universal ID: 2852,Philadelphia,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D MARTIN VAN BUREN $1 MS,NGC Universal ID: 25A9,Denver,50960000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D SMS MARTIN VAN BUREN $1 MS,NGC Universal ID: 2853,Denver,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P MARTIN VAN BUREN $1 MS,NGC Universal ID: 25A8,Philadelphia,51520000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) SMS JACKSON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284Z,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P SMS ANDREW JACKSON $1 MS,NGC Universal ID: 284X,Philadelphia,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D ANDREW JACKSON $1 MS,NGC Universal ID: 25A7,Denver,61070000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D SMS ANDREW JACKSON $1 MS,NGC Universal ID: 284Y,Denver,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P ANDREW JACKSON $1 MS,NGC Universal ID: 25A6,Philadelphia,61180000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) SMS J.Q.ADAMS MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284W,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D SMS JOHN QUINCY ADAMS $1 MS,NGC Universal ID: 284V,Denver,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) J.Q.ADAMS MISSING EDGE LETTERING $1 MS,NGC Universal ID: CRVY,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D JOHN QUINCY ADAMS $1 MS,NGC Universal ID: 25A5,Denver,57720000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P SMS JOHN QUINCY ADAMS $1 MS,NGC Universal ID: 284U,Philadelphia,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P JOHN QUINCY ADAMS $1 MS,NGC Universal ID: 25A4,Philadelphia,57540000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) SMS MONROE MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284T,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2008) MONROE MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284S,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D SMS JAMES MONROE $1 MS,NGC Universal ID: 284R,Denver,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P SMS JAMES MONROE $1 MS,NGC Universal ID: 284P,Philadelphia,745464
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 D JAMES MONROE $1 MS,NGC Universal ID: 25A3,Denver,60230000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2008 P JAMES MONROE $1 MS,NGC Universal ID: 25A2,Philadelphia,64260000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) SMS MADISON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284N,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) MADISON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284M,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D SMS JAMES MADISON $1 MS,NGC Universal ID: 284L,Denver,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D JAMES MADISON $1 MS,NGC Universal ID: 259Z,Denver,87780000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P SMS JAMES MADISON $1 MS,NGC Universal ID: 284K,Philadelphia,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P JAMES MADISON $1 MS,NGC Universal ID: 259Y,Philadelphia,84560000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) JEFFERSON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284H,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) SMS JEFFERSON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284J,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D THOMAS JEFFERSON $1 MS,NGC Universal ID: 259X,Denver,102810000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D SMS THOMAS JEFFERSON $1 MS,NGC Universal ID: 284G,Denver,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P SMS THOMAS JEFFERSON $1 MS,NGC Universal ID: 284F,Philadelphia,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) SMS JOHN ADAMS MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284E,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P THOMAS JEFFERSON $1 MS,NGC Universal ID: 259W,Philadelphia,100800000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D SMS JOHN ADAMS $1 MS,NGC Universal ID: 284C,Denver,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) JOHN ADAMS MISSING EDGE LETTERING $1 MS,NGC Universal ID: 284D,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D JOHN ADAMS DBL.EDG.LET. - INVERTED $1 MS,NGC Universal ID: 284B,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D JOHN ADAMS DBL.EDG.LET. - OVERLAPPED $1 MS,NGC Universal ID: 284A,Denver,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P JOHN ADAMS DBL.EDG.LET. - INVERTED $1 MS,NGC Universal ID: 2848,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D JOHN ADAMS $1 MS,NGC Universal ID: 259V,Denver,112140000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P SMS JOHN ADAMS $1 MS,NGC Universal ID: 2849,Philadelphia,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P JOHN ADAMS DBL.EDG.LET. - OVERLAPPED $1 MS,NGC Universal ID: 2847,Philadelphia,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars(2007) WASHINGTON MISSING EDGE LETTERING $1 MS,NGC Universal ID: 2846,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P JOHN ADAMS $1 MS,NGC Universal ID: 259U,Philadelphia,112420000
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D SMS GEORGE WASHINGTON $1 MS,NGC Universal ID: 2845,Denver,895628
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 P SMS GEORGE WASHINGTON $1 MS,NGC Universal ID: 2844,Philadelphia,895628
+Dollars,Innovation Dollars,Innovation Dollars2018 S G.Washington $1 PF,NGC Universal ID: DLK7,undefined,0
+Dollars,Presidential Dollars (2007-Date),Presidential Dollars2007 D GEORGE WASHINGTON $1 MS,NGC Universal ID: 259T,Denver,163680000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1971 $1 MS,NGC Universal ID: 2584,Philadelphia,47799000
+Dollars,Innovation Dollars,Innovation Dollars2018 D G.Washington $1 MS,NGC Universal ID: DLJV,undefined,0
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1978 S $1 PF,NGC Universal ID: 282D,San Francisco,3127781
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1977 S $1 PF,NGC Universal ID: 282C,San Francisco,3251152
+Dollars,Peace Dollars (1921-1935),Peace Dollars1921 PEACE HIGH RELIEF $1 MS,NGC Universal ID: 2U4E,Philadelphia,1006473
+Dollars,Peace Dollars (1921-1935),Peace Dollars1922 LOW RELIEF $1 PF,NGC Universal ID: 2828,Philadelphia,0
+Dollars,Peace Dollars (1921-1935),Peace Dollars1922 HIGH RELIEF $1 PF,NGC Universal ID: 2827,Philadelphia,0
+Dollars,Peace Dollars (1921-1935),Peace Dollars1935 S $1 MS,NGC Universal ID: 2583,San Francisco,1964000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1934 S $1 MS,NGC Universal ID: 257Z,San Francisco,1011000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1935 $1 MS,NGC Universal ID: 2582,Philadelphia,1576000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1921 PEACE HIGH RELIEF $1 PF,NGC Universal ID: 2UAU,Philadelphia,0
+Dollars,Peace Dollars (1921-1935),Peace Dollars1934 $1 MS,NGC Universal ID: 257X,Philadelphia,954057
+Dollars,Peace Dollars (1921-1935),Peace Dollars1934 D $1 MS,NGC Universal ID: 257Y,Denver,1569500
+Dollars,Peace Dollars (1921-1935),Peace Dollars1928 S $1 MS,NGC Universal ID: 257W,San Francisco,1632000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1928 $1 MS,NGC Universal ID: 257V,Philadelphia,360649
+Dollars,Peace Dollars (1921-1935),Peace Dollars1927 S $1 MS,NGC Universal ID: 257U,San Francisco,866000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1927 $1 MS,NGC Universal ID: 257S,Philadelphia,848000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1926 D $1 MS,NGC Universal ID: 257P,Denver,2348700
+Dollars,Peace Dollars (1921-1935),Peace Dollars1926 S $1 MS,NGC Universal ID: 257R,San Francisco,6980000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1927 D $1 MS,NGC Universal ID: 257T,Denver,1268900
+Dollars,Peace Dollars (1921-1935),Peace Dollars1926 $1 MS,NGC Universal ID: 257N,Philadelphia,1939000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1925 S $1 MS,NGC Universal ID: 257M,San Francisco,1610000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1924 S $1 MS,NGC Universal ID: 257K,San Francisco,1728000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1925 $1 MS,NGC Universal ID: 257L,Philadelphia,10198000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1923 S $1 MS,NGC Universal ID: 257H,San Francisco,19020000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1924 $1 MS,NGC Universal ID: 257J,Philadelphia,11811000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1923 D $1 MS,NGC Universal ID: 257G,Denver,6811000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1922 D $1 MS,NGC Universal ID: 257D,Denver,15063000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1922 S $1 MS,NGC Universal ID: 257E,San Francisco,17475000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1923 $1 MS,NGC Universal ID: 257F,Philadelphia,30800000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1922 $1 MS,NGC Universal ID: 257C,Philadelphia,51737000
+Dollars,Peace Dollars (1921-1935),Peace Dollars1922 MEDIUM RELIEF $1 MS,NGC Universal ID: 2825,Philadelphia,0
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 S SILVER $1 PF,NGC Universal ID: B77U,San Francisco,4000000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 S T-2 CLAD $1 PF,NGC Universal ID: B77T,San Francisco,4149730
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 S T-1 CLAD $1 PF,NGC Universal ID: B77S,San Francisco,2845450
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1974 S SILVER $1 PF,NGC Universal ID: 258V,San Francisco,1306579
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1974 S CLAD $1 PF,NGC Universal ID: 282B,San Francisco,2612568
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1973 S SILVER $1 PF,NGC Universal ID: 258U,San Francisco,1013646
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1973 S CLAD $1 PF,NGC Universal ID: 282A,San Francisco,2760339
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1978 D $1 MS,NGC Universal ID: 258R,Denver,33012890
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1972 S SILVER $1 PF,NGC Universal ID: 258T,San Francisco,1811631
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1978 $1 MS,NGC Universal ID: 258P,Philadelphia,25702000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1971 S SILVER $1 PF,NGC Universal ID: 258S,San Francisco,4265234
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1977 D $1 MS,NGC Universal ID: 258N,Denver,32983006
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1977 $1 MS,NGC Universal ID: 258M,Philadelphia,12596000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 S SILVER $1 MS,NGC Universal ID: B76R,San Francisco,11000000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 D TYPE 2 $1 MS,NGC Universal ID: B76P,Denver,82179564
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 D TYPE 1 $1 MS,NGC Universal ID: B76N,Denver,21048710
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 TYPE 2 $1 MS,NGC Universal ID: B76M,Philadelphia,113318000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1776-1976 TYPE 1 $1 MS,NGC Universal ID: B76K,Philadelphia,4019000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1974 D $1 MS,NGC Universal ID: 258E,Denver,46517000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1974 $1 MS,NGC Universal ID: 258D,Philadelphia,27366000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1973 S SILVER $1 MS,NGC Universal ID: 258C,San Francisco,1833140
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1974 S SILVER $1 MS,NGC Universal ID: 258F,San Francisco,1900156
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1973 D $1 MS,NGC Universal ID: 258B,Denver,2000000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1973 $1 MS,NGC Universal ID: 258A,Philadelphia,2000056
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1972 S SILVER $1 MS,NGC Universal ID: 2589,San Francisco,2193056
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1972 D $1 MS,NGC Universal ID: 2588,Denver,92548511
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1972 $1 MS,NGC Universal ID: 2587,Philadelphia,75890000
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1971 S SILVER $1 MS,NGC Universal ID: 2586,San Francisco,6868530
+Dollars,Eisenhower Dollars (1971-1978),Eisenhower Dollars1971 D $1 MS,NGC Universal ID: 2585,Denver,68587424

@@ -1,0 +1,135 @@
+<div style="height: 60px"></div>
+<section id="catalog-page" class="bg-light py-5">
+  <div class="container text-center">
+    <h1 class="font-weight-bold mb-5">{{{category}}}</h1>
+
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Coin Name</th>
+          <th class="d-none d-md-block">Mint</th>
+          <th>Strike</th>
+
+          <th class="d-none d-md-block">Number Minted</th>
+
+          <th>Qty</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each coin}}
+        <tr class="text-left">
+          <td>{{{coinYear}}}
+            {{#eq mint "Denver"}}-D{{/eq}}
+            {{#eq mint "Carson City"}}-CC{{/eq}}
+            {{#eq mint "San Francisco"}}-S{{/eq}}
+            {{#eq mint "(San Fransisco)"}}-S{{/eq}}
+            {{#eq mint "New Orleans"}}-O{{/eq}}
+          </td>
+          <td>{{{coinName}}}</td>
+          {{#if mint}}
+          <td class="d-none d-md-block">{{{mint}}}</td>
+          {{else}}
+          <td class="d-none d-md-block">Unknown</td>
+          {{/if}}
+          {{#eq strike "PF"}}
+          <td>PROOF
+            {{/eq}}
+            {{#eq strike "MS"}}
+          <td>Mint State
+            {{/eq}}
+            {{#eq strike "SP"}}
+          <td>Special
+            {{/eq}}
+            {{#contains coinName "SILVER"}}
+            -AG
+            {{/contains}}
+          </td>
+
+          {{#eq mintage "0"}}
+          <td class="d-none d-md-block">Unknown</td>
+          {{else}}
+          <td class="d-none d-md-block">{{{addCommas mintage}}}</td>
+          {{/eq}}
+          <td id="count-{{_id}}">{{{count}}}</td>
+          <td>
+
+            <button type="button" data-toggle="modal" data-target="#addCoinModal" id="add-{{_id}}"
+              class="text-success btn-add-coin"><i data-toggle="tooltip" data-placement="left"
+                title="Click to add a coin. You will be able to enter the condition in the popup."
+                class="fa fa-plus"></i></button>
+
+          </td>
+          {{#eq count 0}}
+          {{else}}
+          <td>
+            <button type="button" data-toggle="modal" data-target="#delCoinModal" id="del-{{_id}}"
+              class="text-danger btn-del-coin"><i data-toggle="tooltip" data-placement="left"
+                title="Click to Delete one or more coins based on the condition of the coin"
+                class="fa fa-trash"></i></button>
+          </td>
+          <td>
+            <button type="button" data-toggle="modal" data-target="#editCoinModal" id="edit-{{_id}}"
+              class="text-primary btn-edit-coin"><i data-toggle="tooltip" data-placement="left"
+                title="Click to Edit one or more coins based on the condition of the coin"
+                class="fa fa-edit"></i></button>
+          </td>
+          {{/eq}}
+        </tr>
+        {{/each}}
+      </tbody>
+    </table>
+
+  </div>
+</section>
+
+{{!-- Add Coin Modal --}}
+<div class="modal" id="addCoinModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header justify-content-center">
+        <h5 class="modal-title">Add Coin</h5>
+      </div>
+      <div class="modal-body" id="modal-coin-info">
+      </div>
+      <div class="modal-footer">
+        <button id="cancel-add" data-dismiss="modal" class="btn bg-danger text-white">Cancel</button>
+        <button id="submit-add" data-dismiss="modal" class="btn modal-color">Add Coin</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{!-- Del Coin Modal --}}
+<div class="modal" id="delCoinModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header justify-content-center">
+        <h5 class="modal-title">Delete Coins</h5>
+      </div>
+      <div class="modal-body" id="modal-del-coin-info">
+      </div>
+      <div class="modal-footer">
+        <button id="cancel-del" data-dismiss="modal" class="btn bg-danger text-white">Cancel</button>
+        <button id="submit-del" data-dismiss="modal" class="btn modal-color">Delete Coin</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{!-- Edit Coin Modal --}}
+<div class="modal" id="editCoinModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header justify-content-center">
+        <h5 class="modal-title">Edit Coins</h5>
+      </div>
+      <div class="modal-body" id="modal-edit-coin-info">
+      </div>
+      <div class="modal-footer">
+        <button id="cancel-edit" data-dismiss="modal" class="btn bg-danger text-white">Cancel</button>
+        <button id="submit-edit" data-dismiss="modal" class="btn modal-color">Edit Coins</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,480 @@
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1938 D JEFFERSON 5C MS,NGC Universal ID: 22T5,Denver,5376000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1883 NO CENTS 5C MS,NGC Universal ID: 2772,Philadelphia,5474300
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1938 5C MS,NGC Universal ID: 22T4,Philadelphia,19496000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 TYPE 1 5C MS,NGC Universal ID: 22PW,Philadelphia,30992000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1883 SHIELD 5C PF,NGC Universal ID: 276Z,Philadelphia,5419
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1882 5C PF,NGC Universal ID: 276Y,Philadelphia,3100
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1881 5C PF,NGC Universal ID: 276X,Philadelphia,3575
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1866 RAYS 5C MS,NGC Universal ID: 22NX,Philadelphia,14742500
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1880 5C PF,NGC Universal ID: 276W,Philadelphia,3955
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1878 5C PF,NGC Universal ID: 276V,Philadelphia,2350
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1879 5C PF,NGC Universal ID: 22PG,Philadelphia,3200
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1874 5C PF,NGC Universal ID: 276R,Philadelphia,700
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1877 5C PF,NGC Universal ID: 276U,Philadelphia,900
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1875 5C PF,NGC Universal ID: 276S,Philadelphia,700
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1876 5C PF,NGC Universal ID: 276T,Philadelphia,1150
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1873 CLOSED 3 5C PF,NGC Universal ID: 276P,Philadelphia,1100
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1872 5C PF,NGC Universal ID: 276N,Philadelphia,950
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1871 5C PF,NGC Universal ID: 276M,Philadelphia,960
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1870 5C PF,NGC Universal ID: 276L,Philadelphia,1000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1869 5C PF,NGC Universal ID: 276K,Philadelphia,600
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1868 5C PF,NGC Universal ID: 276J,Philadelphia,600
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1867 RAYS 5C PF,NGC Universal ID: 276H,Philadelphia,25
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1883/2 SHIELD 5C MS,NGC Universal ID: 22PD,Philadelphia,0
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1866 RAYS 5C PF,NGC Universal ID: 276G,Philadelphia,600
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1883 SHIELD 5C MS,NGC Universal ID: 22PE,Philadelphia,1451500
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1867 NO RAYS 5C PF,NGC Universal ID: 22PF,Philadelphia,600
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1882 5C MS,NGC Universal ID: 22PC,Philadelphia,11472900
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1881 5C MS,NGC Universal ID: 276F,Philadelphia,68800
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1879 5C MS,NGC Universal ID: 276D,Philadelphia,25900
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1880 5C MS,NGC Universal ID: 276E,Philadelphia,16000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1876 5C MS,NGC Universal ID: 22PB,Philadelphia,2530000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1875 5C MS,NGC Universal ID: 22PA,Philadelphia,2097000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1874 5C MS,NGC Universal ID: 22P9,Philadelphia,3538000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1873 5C MS,NGC Universal ID: 276C,Philadelphia,4550000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1873 CLOSED 3 5C MS,NGC Universal ID: 22P7,Philadelphia,436050
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1873 OPEN 3 5C MS,NGC Universal ID: 22P8,Philadelphia,4113950
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1870 5C MS,NGC Universal ID: 22P4,Philadelphia,4806000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1871 5C MS,NGC Universal ID: 22P5,Philadelphia,561000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1872 5C MS,NGC Universal ID: 22P6,Philadelphia,6036000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1869 5C MS,NGC Universal ID: 22P3,Philadelphia,16395000
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1867 NO RAYS 5C MS,NGC Universal ID: 22NZ,Philadelphia,28890500
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1867 RAYS 5C MS,NGC Universal ID: 22NY,Philadelphia,2019000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1937 5C PF,NGC Universal ID: 278Z,Philadelphia,5769
+Nickels,Shield Five Cents (1866-1883),Shield Five Cents1868 5C MS,NGC Universal ID: 22P2,Philadelphia,28817000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1936 BRILLIANT 5C PF,NGC Universal ID: 278Y,Philadelphia,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1916 5C PF,NGC Universal ID: 278V,Philadelphia,600
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1936 SATIN 5C PF,NGC Universal ID: 278X,Philadelphia,4420
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1915 5C PF,NGC Universal ID: 278U,Philadelphia,1050
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1914 5C PF,NGC Universal ID: 278T,Philadelphia,1275
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1927 5C SP,NGC Universal ID: 278W,Philadelphia,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 TYPE 1 5C PF,NGC Universal ID: 278R,Philadelphia,1520
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 TYPE 2 5C PF,NGC Universal ID: 278S,Philadelphia,1514
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1938 D/S BUFFALO 5C MS,NGC Universal ID: 22T3,Denver,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1938 D/D BUFFALO 5C MS,NGC Universal ID: 22T2,Denver,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1938 D BUFFALO 5C MS,NGC Universal ID: 22SZ,Denver,7020000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1937 S 5C MS,NGC Universal ID: 22SY,San Francisco,5635000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1937 D 5C MS,NGC Universal ID: 22SW,Denver,17826000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1937 D 3 LEGS 5C MS,NGC Universal ID: 22SX,Denver,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1937 5C MS,NGC Universal ID: 22SV,Philadelphia,79480000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1936 S 5C MS,NGC Universal ID: 22SU,San Francisco,14930000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1935 D 5C MS,NGC Universal ID: 22SP,Denver,12092000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1936 D 5C MS,NGC Universal ID: 22ST,Denver,24814000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1935 S 5C MS,NGC Universal ID: 22SR,San Francisco,10300000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1936 5C MS,NGC Universal ID: 22SS,Philadelphia,118997000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1934 D 5C MS,NGC Universal ID: 22SM,Denver,7480000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1935 5C MS,NGC Universal ID: 22SN,Philadelphia,58264000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1934 5C MS,NGC Universal ID: 22SL,Philadelphia,20213003
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1931 S 5C MS,NGC Universal ID: 22SK,San Francisco,1200000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1930 S 5C MS,NGC Universal ID: 22SJ,San Francisco,5435000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1929 S 5C MS,NGC Universal ID: 22SG,San Francisco,7754000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1929 D 5C MS,NGC Universal ID: 22SF,Denver,8370000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1930 5C MS,NGC Universal ID: 22SH,Philadelphia,22849000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1929 5C MS,NGC Universal ID: 22SE,Philadelphia,36446000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1928 S 5C MS,NGC Universal ID: 22SD,San Francisco,6936000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1928 5C MS,NGC Universal ID: 22SB,Philadelphia,23411000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1927 S 5C MS,NGC Universal ID: 22SA,San Francisco,3430000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1927 D 5C MS,NGC Universal ID: 22S9,Denver,5730000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1928 D 5C MS,NGC Universal ID: 22SC,Denver,6436000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1926 S 5C MS,NGC Universal ID: 22S7,San Francisco,970000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1927 5C MS,NGC Universal ID: 22S8,Philadelphia,37981000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1926 D 5C MS,NGC Universal ID: 22S6,Denver,5638000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1926 5C MS,NGC Universal ID: 22S5,Philadelphia,44693000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1925 S 5C MS,NGC Universal ID: 22S4,San Francisco,6256000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1925 5C MS,NGC Universal ID: 22S2,Philadelphia,35565100
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1925 D 5C MS,NGC Universal ID: 22S3,Denver,4450000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1924 S 5C MS,NGC Universal ID: 22RZ,San Francisco,1437000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1924 5C MS,NGC Universal ID: 22RX,Philadelphia,21620000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1924 D 5C MS,NGC Universal ID: 22RY,Denver,5258000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1923 S 5C MS,NGC Universal ID: 22RW,San Francisco,6142000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1923 5C MS,NGC Universal ID: 22RV,Philadelphia,35715000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1920 S 5C MS,NGC Universal ID: 22RS,San Francisco,9689000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1921 S 5C MS,NGC Universal ID: 22RU,San Francisco,1557000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1921 5C MS,NGC Universal ID: 22RT,Philadelphia,10663000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1920 D 5C MS,NGC Universal ID: 22RR,Denver,9418000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1920 5C MS,NGC Universal ID: 22RP,Philadelphia,63093000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1919 S 5C MS,NGC Universal ID: 22RN,San Francisco,7521000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1919 D 5C MS,NGC Universal ID: 22RM,Denver,8006000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1918 S 5C MS,NGC Universal ID: 22RK,San Francisco,4882000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1918/7 D 5C MS,NGC Universal ID: 22RJ,Denver,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1918 D 5C MS,NGC Universal ID: 22RH,Denver,8362000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1919 5C MS,NGC Universal ID: 22RL,Philadelphia,60868000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1918 5C MS,NGC Universal ID: 22RG,Philadelphia,32086314
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1917 S 5C MS,NGC Universal ID: 22RF,San Francisco,4193000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1916 S 5C MS,NGC Universal ID: 22RC,San Francisco,11860000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1916 D 5C MS,NGC Universal ID: 22RB,Denver,13333000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1917 5C MS,NGC Universal ID: 22RD,Philadelphia,51424029
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1917 D 5C MS,NGC Universal ID: 22RE,Denver,9910800
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1915 D 5C MS,NGC Universal ID: 22R8,Denver,7569500
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1916 DOUBLED DIE OBV 5C MS,NGC Universal ID: 2TSS,Philadelphia,0
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1915 5C MS,NGC Universal ID: 22R7,Philadelphia,20986220
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1915 S 5C MS,NGC Universal ID: 22R9,San Francisco,1505000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1916 5C MS,NGC Universal ID: 22RA,Philadelphia,63497466
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1914 S 5C MS,NGC Universal ID: 22R6,San Francisco,3470000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 S TYPE 2 5C MS,NGC Universal ID: 22R3,San Francisco,1209000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1914 D 5C MS,NGC Universal ID: 22R5,Denver,3912000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1914 5C MS,NGC Universal ID: 22R4,Philadelphia,20664463
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 D TYPE 2 5C MS,NGC Universal ID: 22R2,Denver,4156000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 D TYPE 1 5C MS,NGC Universal ID: 22PX,Denver,5337000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 S TYPE 1 5C MS,NGC Universal ID: 22PY,San Francisco,2105000
+Nickels,Buffalo Five Cents (1913-1938),Buffalo Five Cents1913 TYPE 2 5C MS,NGC Universal ID: 22PZ,Philadelphia,29857186
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1913 LIBERTY 5C PF,NGC Universal ID: 278P,Philadelphia,5
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1911 5C PF,NGC Universal ID: 278M,Philadelphia,1733
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1908 5C PF,NGC Universal ID: 278J,Philadelphia,1620
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1909 5C PF,NGC Universal ID: 278K,Philadelphia,4763
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1910 5C PF,NGC Universal ID: 278L,Philadelphia,2405
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1912 5C PF,NGC Universal ID: 278N,Philadelphia,2145
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1907 5C PF,NGC Universal ID: 278H,Philadelphia,1475
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1906 5C PF,NGC Universal ID: 278G,Philadelphia,1725
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1905 5C PF,NGC Universal ID: 278F,Philadelphia,2152
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1904 5C PF,NGC Universal ID: 278E,Philadelphia,1817
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1903 5C PF,NGC Universal ID: 278D,Philadelphia,1790
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1902 5C PF,NGC Universal ID: 278C,Philadelphia,2018
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1899 5C PF,NGC Universal ID: 2789,Philadelphia,2031
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1901 5C PF,NGC Universal ID: 278B,Philadelphia,1985
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1900 5C PF,NGC Universal ID: 278A,Philadelphia,2262
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1898 5C PF,NGC Universal ID: 2788,Philadelphia,1795
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1895 5C PF,NGC Universal ID: 2785,Philadelphia,2062
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1897 5C PF,NGC Universal ID: 2787,Philadelphia,1938
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1896 5C PF,NGC Universal ID: 2786,Philadelphia,1862
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1893 5C PF,NGC Universal ID: 2783,Philadelphia,2195
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1894 5C PF,NGC Universal ID: 2784,Philadelphia,2632
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1890 5C PF,NGC Universal ID: 277Y,Philadelphia,2740
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1889 5C PF,NGC Universal ID: 277X,Philadelphia,3336
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1892 5C PF,NGC Universal ID: 2782,Philadelphia,2745
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1891 5C PF,NGC Universal ID: 277Z,Philadelphia,2350
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1888 5C PF,NGC Universal ID: 277W,Philadelphia,4582
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1887 5C PF,NGC Universal ID: 277V,Philadelphia,2960
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1886 5C PF,NGC Universal ID: 277U,Philadelphia,4290
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1885 5C PF,NGC Universal ID: 277T,Philadelphia,3790
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1884 5C PF,NGC Universal ID: 22PV,Philadelphia,3942
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1883 CENTS 5C PF,NGC Universal ID: 277S,Philadelphia,6783
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1883 NO CENTS 5C PF,NGC Universal ID: 22PU,Philadelphia,5219
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1912 D 5C MS,NGC Universal ID: 277P,Denver,8474000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1912 5C MS,NGC Universal ID: 277N,Philadelphia,26234569
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1912 S 5C MS,NGC Universal ID: 277R,San Francisco,238000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1911 5C MS,NGC Universal ID: 277M,Philadelphia,39557639
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1908 5C MS,NGC Universal ID: 22PT,Philadelphia,22684557
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1909 5C MS,NGC Universal ID: 277K,Philadelphia,11585763
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1910 5C MS,NGC Universal ID: 277L,Philadelphia,30166948
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1907 5C MS,NGC Universal ID: 277J,Philadelphia,39213325
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1903 5C MS,NGC Universal ID: 277E,Philadelphia,28004935
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1906 5C MS,NGC Universal ID: 277H,Philadelphia,38612000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1902 5C MS,NGC Universal ID: 277D,Philadelphia,31487228
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1904 5C MS,NGC Universal ID: 277F,Philadelphia,21403167
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1905 5C MS,NGC Universal ID: 277G,Philadelphia,29825124
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1901 5C MS,NGC Universal ID: 277C,Philadelphia,26478228
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1898 5C MS,NGC Universal ID: 22PP,Philadelphia,12530292
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1897 5C MS,NGC Universal ID: 22PN,Philadelphia,20426797
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1900 5C MS,NGC Universal ID: 22PS,Philadelphia,27253733
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1899 5C MS,NGC Universal ID: 22PR,Philadelphia,26027000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1896 5C MS,NGC Universal ID: 277B,Philadelphia,8841058
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1894 5C MS,NGC Universal ID: 2779,Philadelphia,5410500
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1893 5C MS,NGC Universal ID: 2778,Philadelphia,13368000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1895 5C MS,NGC Universal ID: 277A,Philadelphia,9977822
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1890 5C MS,NGC Universal ID: 22PM,Philadelphia,16256532
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1889 5C MS,NGC Universal ID: 2775,Philadelphia,15878025
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1888 5C MS,NGC Universal ID: 2774,Philadelphia,10167901
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1891 5C MS,NGC Universal ID: 2776,Philadelphia,16832000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1892 5C MS,NGC Universal ID: 2777,Philadelphia,11696897
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1885 5C MS,NGC Universal ID: 2773,Philadelphia,1472700
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1887 5C MS,NGC Universal ID: 22PL,Philadelphia,15260692
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1884 5C MS,NGC Universal ID: 22PJ,Philadelphia,11270000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1886 5C MS,NGC Universal ID: 22PK,Philadelphia,3326000
+Nickels,Liberty Head Five Cents (1883-1913),Liberty Head Five Cents1883 CENTS 5C MS,NGC Universal ID: 22PH,Philadelphia,16026200
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2016 S 5C PF,NGC Universal ID: CCMR,San Francisco,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2017 S 5C SP,NGC Universal ID: CZW8,San Francisco,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2018 S 5C PF,NGC Universal ID: D5B5,San Francisco,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2017 S 5C PF,NGC Universal ID: CS9B,San Francisco,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2019 S 5C PF,NGC Universal ID: DK53,undefined,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2013 S 5C PF,NGC Universal ID: 2U7H,San Francisco,1237926
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2014 S 5C PF,NGC Universal ID: ASTE,San Francisco,665100
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2015 S 5C PF,NGC Universal ID: BHXV,San Francisco,1022410
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2011 S 5C PF,NGC Universal ID: 22YW,San Francisco,1453276
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2012 S 5C PF,NGC Universal ID: 2TTY,San Francisco,1237415
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2010 S 5C PF,NGC Universal ID: 27BV,San Francisco,1689216
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2007 S 5C PF,NGC Universal ID: 27BS,San Francisco,2577166
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2006 S 5C PF,NGC Universal ID: 27BR,San Francisco,3054436
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2008 S 5C PF,NGC Universal ID: 27BT,San Francisco,2169561
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2009 S 5C PF,NGC Universal ID: 27BU,San Francisco,2179867
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 S BISON 5C PF,NGC Universal ID: 27BN,San Francisco,3344679
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2003 S 5C PF,NGC Universal ID: 22YV,San Francisco,3298439
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 S OCEAN VIEW 5C PF,NGC Universal ID: 27BP,San Francisco,3344679
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2004 S KEELBOAT 5C PF,NGC Universal ID: 27BM,San Francisco,2965422
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2004 S HANDSHAKE 5C PF,NGC Universal ID: 27BL,San Francisco,2992069
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1999 S 5C PF,NGC Universal ID: 27BG,San Francisco,3362462
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2002 S 5C PF,NGC Universal ID: 27BK,San Francisco,3211995
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1998 S 5C PF,NGC Universal ID: 27BF,San Francisco,2957286
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2001 S 5C PF,NGC Universal ID: 27BJ,San Francisco,3184606
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2000 S 5C PF,NGC Universal ID: 27BH,San Francisco,4047993
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1997 P 5C SP,NGC Universal ID: 27BE,Philadelphia,25000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1996 S 5C PF,NGC Universal ID: 27BC,San Francisco,2915212
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1994 P 5C SP,NGC Universal ID: 27BA,Philadelphia,167703
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1997 S 5C PF,NGC Universal ID: 27BD,San Francisco,1975000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1995 S 5C PF,NGC Universal ID: 27BB,San Francisco,2707481
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1994 S 5C PF,NGC Universal ID: 27B9,San Francisco,3269923
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1992 S 5C PF,NGC Universal ID: 27B7,San Francisco,4176560
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1993 S 5C PF,NGC Universal ID: 27B8,San Francisco,3394792
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1990 S 5C PF,NGC Universal ID: 22YU,San Francisco,3299559
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1989 S 5C PF,NGC Universal ID: 27B5,San Francisco,3220194
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1991 S 5C PF,NGC Universal ID: 27B6,San Francisco,2867787
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1988 S 5C PF,NGC Universal ID: 27B4,San Francisco,3262948
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1987 S 5C PF,NGC Universal ID: 27B3,San Francisco,4227728
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1986 S 5C PF,NGC Universal ID: 27B2,San Francisco,3010497
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1985 S 5C PF,NGC Universal ID: 27AZ,San Francisco,3362821
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1984 S 5C PF,NGC Universal ID: 27AY,San Francisco,3065110
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1983 S 5C PF,NGC Universal ID: 27AX,San Francisco,3279126
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1982 S 5C PF,NGC Universal ID: 27AW,San Francisco,3857479
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1981 S TYPE 1 5C PF,NGC Universal ID: 22YS,San Francisco,4063083
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1981 S TYPE 2 5C PF,NGC Universal ID: 22YT,San Francisco,4063083
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1980 S 5C PF,NGC Universal ID: 27AU,San Francisco,3554806
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1981 S 5C PF,NGC Universal ID: 27AV,San Francisco,4063083
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1979 S TYPE 2 5C PF,NGC Universal ID: 22YR,San Francisco,3677175
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1979 S 5C PF,NGC Universal ID: 27AT,San Francisco,3677175
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1979 S TYPE 1 5C PF,NGC Universal ID: 22YP,San Francisco,3677175
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1978 S 5C PF,NGC Universal ID: 27AS,San Francisco,3127781
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1977 S 5C PF,NGC Universal ID: 27AR,San Francisco,3251152
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1976 S 5C PF,NGC Universal ID: 27AP,San Francisco,4149730
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1973 S 5C PF,NGC Universal ID: 27AL,San Francisco,2760339
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1974 S 5C PF,NGC Universal ID: 27AM,San Francisco,2612568
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1975 S 5C PF,NGC Universal ID: 27AN,San Francisco,2845450
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1972 S 5C PF,NGC Universal ID: 27AK,San Francisco,3260996
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1971 NO S 5C PF,NGC Universal ID: 22YN,San Francisco,3220733
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1970 S 5C PF,NGC Universal ID: 27AH,San Francisco,2632810
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1971 S 5C PF,NGC Universal ID: 27AJ,San Francisco,3220733
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1967 SMS 5C MS,NGC Universal ID: 27AF,San Francisco,1863344
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1969 S 5C PF,NGC Universal ID: 27AG,San Francisco,2934631
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1968 S 5C PF,NGC Universal ID: 22YM,San Francisco,3041506
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1966 SMS 5C MS,NGC Universal ID: 27AE,San Francisco,2261583
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1964 5C PF,NGC Universal ID: 27AC,Philadelphia,3950762
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1965 SMS 5C MS,NGC Universal ID: 27AD,San Francisco,2360000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1964 5C SP,NGC Universal ID: 22YL,Philadelphia,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1963 5C PF,NGC Universal ID: 27AB,Philadelphia,3075645
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1962 5C PF,NGC Universal ID: 27AA,Philadelphia,3218019
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1960 5C PF,NGC Universal ID: 22YJ,Philadelphia,1691602
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1961 5C PF,NGC Universal ID: 22YK,Philadelphia,3028144
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1958 5C PF,NGC Universal ID: 27A8,Philadelphia,875652
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1959 5C PF,NGC Universal ID: 27A9,Philadelphia,1149291
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1956 5C PF,NGC Universal ID: 22YG,Philadelphia,669384
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1957 5C PF,NGC Universal ID: 22YH,Philadelphia,1247952
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1955 5C PF,NGC Universal ID: 22YF,Philadelphia,378200
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1954 5C PF,NGC Universal ID: 27A7,Philadelphia,233300
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1953 5C PF,NGC Universal ID: 22YE,Philadelphia,128800
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1952 5C PF,NGC Universal ID: 27A6,Philadelphia,81980
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1951 5C PF,NGC Universal ID: 22YD,Philadelphia,57500
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1950 5C PF,NGC Universal ID: 27A5,Philadelphia,51386
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1942 NICKEL 5C PF,NGC Universal ID: 27A3,Philadelphia,29600
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1942 P SILVER 5C PF,NGC Universal ID: 27A4,Philadelphia,27600
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1941 5C PF,NGC Universal ID: 27A2,Philadelphia,18720
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1940 REV OF 38 5C PF,NGC Universal ID: 279Y,Philadelphia,14158
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1940 5C PF,NGC Universal ID: 22YC,Philadelphia,14158
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 REV OF 40 5C PF,NGC Universal ID: 2TR4,Philadelphia,12535
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1940 REV OF 40 5C PF,NGC Universal ID: 279Z,Philadelphia,14158
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 REV OF 38 5C PF,NGC Universal ID: 279X,Philadelphia,12535
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2019 D Explore & Discover 5C MS,NGC Universal ID: DPKR,undefined,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 5C PF,NGC Universal ID: 22YB,Philadelphia,12535
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2019 D 5C MS,NGC Universal ID: DK66,undefined,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1938 5C PF,NGC Universal ID: 279W,Philadelphia,19365
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2017 D EARLY RELEASES 5C MS,NGC Universal ID: CZY7,Denver,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2019 P 5C MS,NGC Universal ID: DK65,undefined,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2018 P 5C MS,NGC Universal ID: D5AW,Philadelphia,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2018 D 5C MS,NGC Universal ID: D5AX,Denver,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2017 D 5C MS,NGC Universal ID: CS96,Denver,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2016 D 5C MS,NGC Universal ID: CCMN,Denver,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2016 P 5C MS,NGC Universal ID: CCMK,Philadelphia,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2017 P 5C MS,NGC Universal ID: CS94,Philadelphia,0
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2015 D 5C MS,NGC Universal ID: BHXU,Denver,846720000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2015 P 5C MS,NGC Universal ID: BHXT,Philadelphia,752880000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2014 D 5C MS,NGC Universal ID: ASSX,Denver,570720000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2014 P 5C MS,NGC Universal ID: ASSW,Philadelphia,635520000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2013 D 5C MS,NGC Universal ID: 2U7G,Denver,615600000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2013 P 5C MS,NGC Universal ID: 2U7F,Philadelphia,607440000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2012 P 5C MS,NGC Universal ID: 2TTW,Philadelphia,464640000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2012 D 5C MS,NGC Universal ID: 2TTX,Denver,558960000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2011 D 5C MS,NGC Universal ID: 22YA,Denver,540240000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2011 P 5C MS,NGC Universal ID: 22Y9,Philadelphia,450000000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2010 D SMS 5C MS,NGC Universal ID: 279V,Denver,583897
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2010 P SMS 5C MS,NGC Universal ID: 279T,Philadelphia,583897
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2010 P 5C MS,NGC Universal ID: 279S,Philadelphia,260640000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2010 D 5C MS,NGC Universal ID: 279U,Denver,229920000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2009 D SMS 5C MS,NGC Universal ID: 279R,Denver,784614
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2009 D 5C MS,NGC Universal ID: 279P,Denver,46800000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2009 P SMS 5C MS,NGC Universal ID: 279N,Philadelphia,784614
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2008 D 5C MS,NGC Universal ID: 279K,Denver,345600000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2009 P 5C MS,NGC Universal ID: 279M,Philadelphia,39840000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2008 D SMS 5C MS,NGC Universal ID: 279L,Denver,745464
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2008 P SMS 5C MS,NGC Universal ID: 279J,Philadelphia,745464
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2007 D SMS 5C MS,NGC Universal ID: 279G,Denver,895628
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2008 P 5C MS,NGC Universal ID: 279H,Philadelphia,279840000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2007 P SMS 5C MS,NGC Universal ID: 279E,Philadelphia,895628
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2007 D 5C MS,NGC Universal ID: 279F,Denver,626160000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2007 P 5C MS,NGC Universal ID: 279D,Philadelphia,571680000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2006 D SMS 5C MS,NGC Universal ID: 279C,Denver,847361
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2006 P SMS 5C MS,NGC Universal ID: 279B,Philadelphia,847361
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2006 P 5C MS,NGC Universal ID: 22Y8,Philadelphia,693120000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2006 D 5C MS,NGC Universal ID: 22Y7,Denver,809280000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 D SMS OCEAN VIEW 5C MS,NGC Universal ID: 279A,Denver,1160000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 D OCEAN VIEW 5C MS,NGC Universal ID: 22Y6,Denver,411120000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 P SMS OCEAN VIEW 5C MS,NGC Universal ID: 2799,Philadelphia,1160000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 D SMS BISON 5C MS,NGC Universal ID: 2798,Denver,1160000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 P OCEAN VIEW 5C MS,NGC Universal ID: 22Y5,Philadelphia,394080000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 D BISON 5C MS,NGC Universal ID: 22Y4,Denver,487680000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 P SMS BISON 5C MS,NGC Universal ID: 2796,Philadelphia,1160000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2005 P BISON 5C MS,NGC Universal ID: 22Y3,Philadelphia,448320000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2004 P KEELBOAT 5C MS,NGC Universal ID: 22XZ,Denver,366720000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2004 D KEELBOAT 5C MS,NGC Universal ID: 22Y2,Denver,344880000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2004 D HANDSHAKE 5C MS,NGC Universal ID: 2795,Denver,372000000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2004 P HANDSHAKE 5C MS,NGC Universal ID: 22XY,Philadelphia,361440000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2003 D 5C MS,NGC Universal ID: 22XX,Denver,383040000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2002 P 5C MS,NGC Universal ID: 22XU,Philadelphia,539280000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2003 P 5C MS,NGC Universal ID: 22XW,Philadelphia,441840000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2002 D 5C MS,NGC Universal ID: 22XV,Denver,691200000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2001 D 5C MS,NGC Universal ID: 22XT,Denver,627680000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2001 P 5C MS,NGC Universal ID: 22XS,Philadelphia,675704000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2000 P 5C MS,NGC Universal ID: 22XP,Philadelphia,846840000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents2000 D 5C MS,NGC Universal ID: 22XR,Denver,1509520000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1999 D 5C MS,NGC Universal ID: 22XN,Denver,1066720000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1999 P 5C MS,NGC Universal ID: 22XM,Philadelphia,1212000000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1998 D 5C MS,NGC Universal ID: 22XL,Denver,635360000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1998 P 5C MS,NGC Universal ID: 22XK,Philadelphia,688272000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1997 D 5C MS,NGC Universal ID: 22XJ,Denver,466640000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1996 P 5C MS,NGC Universal ID: 22XF,Philadelphia,829332000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1996 D 5C MS,NGC Universal ID: 22XG,Denver,817736000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1997 P 5C MS,NGC Universal ID: 22XH,Philadelphia,470972000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1995 D 5C MS,NGC Universal ID: 22XE,Denver,888112000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1995 P 5C MS,NGC Universal ID: 22XD,Philadelphia,774156000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1994 P 5C MS,NGC Universal ID: 22XB,Philadelphia,722160000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1993 D 5C MS,NGC Universal ID: 22XA,Denver,406084135
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1994 D 5C MS,NGC Universal ID: 22XC,Denver,715762110
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1993 P 5C MS,NGC Universal ID: 22X9,Philadelphia,412076000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1992 D 5C MS,NGC Universal ID: 22X8,Denver,450565113
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1991 D 5C MS,NGC Universal ID: 22X6,Denver,436496678
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1992 P 5C MS,NGC Universal ID: 22X7,Philadelphia,399552000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1990 D 5C MS,NGC Universal ID: 22X4,Denver,663938503
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1991 P 5C MS,NGC Universal ID: 22X5,Philadelphia,614104000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1990 P 5C MS,NGC Universal ID: 22X3,Philadelphia,661636000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1989 D 5C MS,NGC Universal ID: 22X2,Denver,570842474
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1988 P 5C MS,NGC Universal ID: 22WX,Philadelphia,771360000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1987 D 5C MS,NGC Universal ID: 22WW,Denver,410590604
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1988 D 5C MS,NGC Universal ID: 22WY,Denver,663771652
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1989 P 5C MS,NGC Universal ID: 22WZ,Philadelphia,898812000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1985 P 5C MS,NGC Universal ID: 22WR,Philadelphia,647114962
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1986 D 5C MS,NGC Universal ID: 22WU,Denver,361819140
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1985 D 5C MS,NGC Universal ID: 22WS,Denver,459747446
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1986 P 5C MS,NGC Universal ID: 22WT,Philadelphia,536883483
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1987 P 5C MS,NGC Universal ID: 22WV,Philadelphia,371499481
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1983 D 5C MS,NGC Universal ID: 22WM,Denver,536726276
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1984 P 5C MS,NGC Universal ID: 22WN,Philadelphia,746769000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1982 D 5C MS,NGC Universal ID: 22WK,Denver,373726544
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1983 P 5C MS,NGC Universal ID: 22WL,Philadelphia,561615000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1984 D 5C MS,NGC Universal ID: 22WP,Denver,517675146
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1980 D 5C MS,NGC Universal ID: 22WF,Denver,502323448
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1981 P 5C MS,NGC Universal ID: 22WG,Philadelphia,657504000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1982 P 5C MS,NGC Universal ID: 22WJ,Philadelphia,292355000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1980 P 5C MS,NGC Universal ID: 22WE,Philadelphia,593004000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1981 D 5C MS,NGC Universal ID: 22WH,Denver,364801843
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1979 D 5C MS,NGC Universal ID: 22WD,Denver,325867672
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1979 5C MS,NGC Universal ID: 22WC,Philadelphia,463188000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1978 D 5C MS,NGC Universal ID: 22WB,Denver,313092780
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1978 5C MS,NGC Universal ID: 22WA,Philadelphia,391308000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1977 D 5C MS,NGC Universal ID: 22W9,Denver,297313460
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1977 5C MS,NGC Universal ID: 22W8,Philadelphia,585376000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1975 5C MS,NGC Universal ID: 22W4,Philadelphia,181772000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1976 5C MS,NGC Universal ID: 22W6,Philadelphia,367124000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1976 D 5C MS,NGC Universal ID: 22W7,Denver,563964147
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1975 D 5C MS,NGC Universal ID: 22W5,Denver,401875300
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1974 D 5C MS,NGC Universal ID: 22W3,Denver,277373000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1974 5C MS,NGC Universal ID: 22W2,Philadelphia,601752000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1973 D 5C MS,NGC Universal ID: 22VZ,Denver,261405000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1973 5C MS,NGC Universal ID: 22VY,Philadelphia,384396000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1972 D 5C MS,NGC Universal ID: 22VX,Denver,351694600
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1971 D 5C MS,NGC Universal ID: 22VV,Denver,316144800
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1972 5C MS,NGC Universal ID: 22VW,Philadelphia,202036000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1971 5C MS,NGC Universal ID: 22VU,Philadelphia,106884000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1970 D 5C MS,NGC Universal ID: 22VS,Denver,515485380
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1970 S 5C MS,NGC Universal ID: 22VT,San Francisco,238832004
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1969 S 5C MS,NGC Universal ID: 22VR,San Francisco,120165000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1969 D 5C MS,NGC Universal ID: 22VP,Denver,202807500
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1968 D 5C MS,NGC Universal ID: 22VM,Denver,91227880
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1968 S 5C MS,NGC Universal ID: 22VN,San Francisco,100396004
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1967 5C MS,NGC Universal ID: 22VL,Multiple,107325800
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1966 5C MS,NGC Universal ID: 22VK,Multiple,156208283
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1965 5C MS,NGC Universal ID: 22VJ,Multiple,136131380
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1964 D 5C MS,NGC Universal ID: 22VH,Denver,1787297160
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1964 5C MS,NGC Universal ID: 22VG,Philadelphia,1024672000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1963 D 5C MS,NGC Universal ID: 22VF,Denver,276829460
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1963 5C MS,NGC Universal ID: 22VE,Philadelphia,175776000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1962 D 5C MS,NGC Universal ID: 22VD,Denver,280195720
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1961 5C MS,NGC Universal ID: 22VA,Philadelphia,73640100
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1962 5C MS,NGC Universal ID: 22VC,Philadelphia,97384000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1961 D 5C MS,NGC Universal ID: 22VB,Denver,229342760
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1960 D 5C MS,NGC Universal ID: 22V9,Denver,192582180
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1960 5C MS,NGC Universal ID: 22V8,Philadelphia,55416000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1958 D 5C MS,NGC Universal ID: 22V5,Denver,168249120
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1959 5C MS,NGC Universal ID: 22V6,Philadelphia,27248000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1959 D 5C MS,NGC Universal ID: 22V7,Denver,160738240
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1957 D 5C MS,NGC Universal ID: 22V3,Denver,136828900
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1958 5C MS,NGC Universal ID: 22V4,Philadelphia,17088000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1957 5C MS,NGC Universal ID: 22V2,Philadelphia,38408000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1956 D 5C MS,NGC Universal ID: 22UZ,Denver,67222940
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1956 5C MS,NGC Universal ID: 22UY,Philadelphia,35216000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1955 D/S 5C MS,NGC Universal ID: 22UX,Denver,74464100
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1955 5C MS,NGC Universal ID: 22UV,Philadelphia,7888000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1955 D 5C MS,NGC Universal ID: 22UW,Denver,74464100
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1954 S 5C MS,NGC Universal ID: 22UU,San Francisco,29384000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1954 5C MS,NGC Universal ID: 22US,Philadelphia,47684050
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1954 D 5C MS,NGC Universal ID: 22UT,Denver,117136560
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1953 S 5C MS,NGC Universal ID: 22UR,San Francisco,19210900
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1953 D 5C MS,NGC Universal ID: 22UP,Denver,59878600
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1953 5C MS,NGC Universal ID: 22UN,Philadelphia,46644000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1952 D 5C MS,NGC Universal ID: 22UL,Denver,30638000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1952 S 5C MS,NGC Universal ID: 22UM,San Francisco,20572000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1952 5C MS,NGC Universal ID: 22UK,Philadelphia,63988000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1951 S 5C MS,NGC Universal ID: 22UJ,San Francisco,7776000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1951 D 5C MS,NGC Universal ID: 22UH,Denver,20460000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1949 S 5C MS,NGC Universal ID: 22UD,San Francisco,9716000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1950 5C MS,NGC Universal ID: 22UE,Philadelphia,9796000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1951 5C MS,NGC Universal ID: 22UG,Philadelphia,28552000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1950 D 5C MS,NGC Universal ID: 22UF,Denver,2630030
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1949 D 5C MS,NGC Universal ID: 22UC,Denver,36498000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1948 S 5C MS,NGC Universal ID: 22UA,San Francisco,11300000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1948 D 5C MS,NGC Universal ID: 22U9,Denver,44734000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1948 5C MS,NGC Universal ID: 22U8,Philadelphia,89348000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1949 5C MS,NGC Universal ID: 22UB,Philadelphia,60652000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1947 S 5C MS,NGC Universal ID: 22U7,San Francisco,24720000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1946 S 5C MS,NGC Universal ID: 22U4,San Francisco,13560000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1947 5C MS,NGC Universal ID: 22U5,Philadelphia,95000000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1947 D 5C MS,NGC Universal ID: 22U6,Denver,37822000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1946 D 5C MS,NGC Universal ID: 22U3,Denver,45292200
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1946 5C MS,NGC Universal ID: 22U2,Philadelphia,161116000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1945 D 5C MS,NGC Universal ID: 22TY,Denver,37158000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1945 P 5C MS,NGC Universal ID: 22TX,Philadelphia,119408100
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1945 S 5C MS,NGC Universal ID: 22TZ,San Francisco,58939000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1944 D 5C MS,NGC Universal ID: 22TV,Denver,32309000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1944 S 5C MS,NGC Universal ID: 22TW,San Francisco,21640000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1943 S 5C MS,NGC Universal ID: 22TT,San Francisco,104060000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1944 P 5C MS,NGC Universal ID: 22TU,Philadelphia,119150000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1943/2 P 5C MS,NGC Universal ID: 22TR,Philadelphia,271165000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1943 D 5C MS,NGC Universal ID: 22TS,Denver,15294000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1943 P 5C MS,NGC Universal ID: 22TP,Philadelphia,271165000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1942 S 5C MS,NGC Universal ID: 22TN,San Francisco,32900000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1942 P SILVER 5C MS,NGC Universal ID: 22TM,Philadelphia,57873000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1942 NICKEL 5C MS,NGC Universal ID: 22TK,Philadelphia,49789000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1942 D 5C MS,NGC Universal ID: 22TL,Denver,13938000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1941 S 5C MS,NGC Universal ID: 22TJ,San Francisco,43445000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1940 D 5C MS,NGC Universal ID: 22TE,Denver,43540000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1941 D 5C MS,NGC Universal ID: 22TH,Denver,53432000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1940 5C MS,NGC Universal ID: 22TD,Philadelphia,176485000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1940 S 5C MS,NGC Universal ID: 22TF,San Francisco,39690000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1941 5C MS,NGC Universal ID: 22TG,Philadelphia,203265000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 S 5C MS,NGC Universal ID: 2794,San Francisco,6630000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 S REV OF 40 5C MS,NGC Universal ID: 22TC,San Francisco,6630000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 D REV OF 38 5C MS,NGC Universal ID: 22T9,Denver,3514000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 S REV OF 38 5C MS,NGC Universal ID: 22TB,San Francisco,6630000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 D REV OF 40 5C MS,NGC Universal ID: 22TA,Denver,3514000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 DOUBLED DIE REV 5C MS,NGC Universal ID: 2TR3,Philadelphia,3514000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 D 5C MS,NGC Universal ID: 2793,Denver,3514000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 5C MS,NGC Universal ID: 2792,Philadelphia,120615000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 REV OF 40 5C MS,NGC Universal ID: 22T8,Philadelphia,3514000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1939 REV OF 38 5C MS,NGC Universal ID: 22T7,Philadelphia,3514000
+Nickels,Jefferson Five Cents (1938-Date),Jefferson Five Cents1938 S 5C MS,NGC Universal ID: 22T6,San Francisco,4105000

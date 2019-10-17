@@ -1,0 +1,79 @@
+body {
+  color: #fff;
+  background: gray;
+}
+
+.navbar {
+  border-bottom: #00b880 3px solid;
+  opacity: 0.8;
+}
+
+#home-section {
+  background: url(../img/scattered_coins.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+#home-section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+  background: rgba(0, 0, 0, 0.7);
+}
+#home-section .home-inner {
+  padding-top: 150px;
+}
+#home-section .card-form {
+  opacity: 0.8;
+}
+#home-section .fas,
+#create-section .fas {
+  color: #00b880;
+  background: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* #arrange-head-section .fas {
+  background: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+} */
+.coin-card p {
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+#catalog-page {
+  color: #000;
+}
+
+#catalog-page a {
+  color: #000;
+  text-decoration: none;
+}
+#catalog-page a:hover {
+  background: #00b880;
+  text-decoration: none;
+}
+
+.modal-color {
+  background: #00b880;
+  color: #fff;
+}
+.modal-dialog {
+  width: 300px;
+}
+.modal-header {
+  background: #00b880;
+  color: #fff;
+}
+
+.modal-body {
+  color: #000;
+}

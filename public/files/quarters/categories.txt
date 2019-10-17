@@ -1,0 +1,7 @@
+Quarters,Early Quarters (1796-1838)
+Quarters,Seated Liberty Quarters (1838-1891)
+Quarters,Barber Quarters (1892-1916)
+Quarters,Standing Liberty Quarters (1916-1930)
+Quarters,Washington Quarters (1932-1998)
+Quarters,State & Territorial Quarters (1999-2009)
+Quarters,America the Beautiful Quarters

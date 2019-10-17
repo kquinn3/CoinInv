@@ -1,0 +1,164 @@
+<section id="catalog-page" class="bg-light py-5">
+  <div class="container">
+    <h1 class="font-weight-bold mb-3 text-center">Dashboard for {{user.firstName}} {{user.lastName}}</h1>
+    <h6 class="text-center">You have the the following coins by category in your collection</h6>
+    <h6 class="text-center">Click on the category to view your collection</h6>
+
+    <div class="row my-5">
+      <div class="col-lg-5 offset-1">
+        <div class="text-center">
+          <img class="mb-3 rounded-circle" src="img/Pennies.jpg" alt="Penny">
+        </div>
+        <br>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Penny Category</th>
+              <th>Count</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#each Penny}}
+            <tr>
+              <td>
+                <h6><a href="/collection/coins:{{_id}}">{{{category}}}</a></h6>
+              </td>
+              <td>{{{count}}}</td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="col-lg-5 offset-1">
+        <div class="text-center">
+          <img class="mb-3 rounded-circle" src="img/Nickels.jpg" alt="Nickel">
+        </div>
+        <br>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Nickel Category</th>
+              <th>Count</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#each Nickel}}
+            <tr>
+              <td>
+                <h6><a href="/collection/coins:{{_id}}">{{{category}}}</a></h6>
+              </td>
+              <td>{{{count}}}</td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="row my-5">
+      <div class="col-lg-5 offset-1">
+        <div class="text-center">
+          <img class="mb-3 rounded-circle" src="img/Dimes.jpg" alt="Dime">
+        </div>
+        <br>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Dime Category</th>
+              <th>Count</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#each Dime}}
+            <tr>
+              <td>
+                <h6><a href="/collection/coins:{{_id}}">{{{category}}}</a></h6>
+              </td>
+              <td>{{{count}}}</td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="col-lg-5 offset-1">
+        <div class="text-center">
+          <img class="mb-3 rounded-circle" src="img/Quarters.jpg" alt="Quarter">
+        </div>
+        <br>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Quarter Category</th>
+              <th>Count</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#each Quarter}}
+            <tr>
+              <td>
+                <h6><a href="/collection/coins:{{_id}}">{{{category}}}</a></h6>
+              </td>
+              <td>{{{count}}}</td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="row my-5">
+      <div class="col-lg-5 offset-1">
+        <div class="text-center">
+          <img class="mb-3 rounded-circle" src="img/HalfDollars.jpg" alt="Half Dollar">
+        </div>
+        <br>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Half Dollar Category</th>
+              <th>Count</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#each HalfDollar}}
+            <tr>
+              <td>
+                <h6><a href="/collection/coins:{{_id}}">{{{category}}}</a></h6>
+              </td>
+              <td>{{{count}}}</td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="col-lg-5 offset-1">
+        <div class="text-center">
+          <img class="mb-3 rounded-circle" src="img/Dollars.jpg" alt="Dollar">
+          <div class="text-center">
+            <br>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Dollar Category</th>
+                  <th>Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                {{#each Dollar}}
+                <tr>
+                  <td>
+                    <h6><a href="/collection/coins:{{_id}}">{{{category}}}</a></h6>
+                  </td>
+                  <td>{{{count}}}</td>
+                </tr>
+                {{/each}}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+</section>

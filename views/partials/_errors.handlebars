@@ -1,0 +1,11 @@
+{{#eq skipSpace "YES"}}
+<div style="height: 60px"></div>
+{{/eq}}
+{{#if failErr}}
+<div class="text-center alert alert-danger">{{failErr}}</div>
+{{/if}}
+{{#each errors}}
+<div class="text-center alert alert-danger">{{text}}</div>
+{{else}}
+
+{{/each}}
