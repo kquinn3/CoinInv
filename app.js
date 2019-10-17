@@ -19,7 +19,7 @@ Category = require("./models/category");
 
 //Load Routes
 const index = require("./routes/index");
-const admintools = require("./routes/admintools");
+// const admintools = require("./routes/admintools");
 const api = require("./routes/api");
 const catalog = require("./routes/catalog");
 const collection = require("./routes/collection");
@@ -82,7 +82,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 //Use Routes
 app.use("/", index);
-app.use("/admintools", admintools);
+// app.use("/admintools", admintools);
 app.use("/api", api);
 app.use("/catalog", catalog);
 app.use("/collection", collection);
