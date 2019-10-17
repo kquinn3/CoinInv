@@ -27,7 +27,7 @@ Array.from(btnAddCoin).forEach(addCoin => {
     else elementAdd = e.target.id;
     const elementAddCoin = elementAdd.split(/-/)[1];
     processAddCoin(elementAddCoin).then(coinData => {
-      console.log(coinData);
+      //console.log(coinData);
     });
   });
 });
@@ -39,7 +39,7 @@ async function processAddCoin(coinID) {
   await createModal(coin)
     .then(cond => {
       coinCond = cond;
-      console.log("Key is pressed");
+      //console.log("Key is pressed");
     })
     .catch(() => {
       cancelAdd = true;
@@ -81,7 +81,7 @@ async function postCoin(coin, cond) {
 }
 
 async function getCoinFromApi(coin) {
-  console.log(`${coinURL}:${coin}`);
+  //console.log(`${coinURL}:${coin}`);
   const response = await fetch(`${coinURL}:${coin}`);
   const data = response.json();
   return data;
@@ -128,14 +128,14 @@ Array.from(btnDelCoin).forEach(delCoin => {
 function deleteEventList(delCoin) {
   delCoin.addEventListener("click", e => {
     let elementDel;
-    console.log(e.target);
+    //console.log(e.target);
     if (e.target.tagName === "I") elementDel = e.target.parentElement.id;
     else elementDel = e.target.id;
-    console.log(elementDel);
+    //console.log(elementDel);
     const elementDelCoin = elementDel.split(/-/)[1];
 
     processDelCoin(elementDelCoin).then(coinData => {
-      console.log(coinData);
+      //console.log(coinData);
     });
   });
 }

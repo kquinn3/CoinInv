@@ -36,7 +36,7 @@ router.get("/coins:_id", (req, res) => {
     }
     let cat = category.category;
     FindCoins(user, cat).then(coinByCat => {
-      console.log(coinByCat);
+      //console.log(coinByCat);
       let dataObject = {
         title: `Coin Inventory | Collection-${category.category}`,
         script: "../js/page_collection.js",
@@ -93,7 +93,7 @@ router.post("/add/:id", (req, res) => {
 
 //Add coin through fetch without rendering
 router.get("/addcoin/:passInfo", (req, res) => {
-  console.log(req.params.passInfo);
+  //console.log(req.params.passInfo);
   const id = req.params.passInfo.split(/_/)[1];
   const condition = req.params.passInfo.split(/_/)[2];
   const user = req.user;
