@@ -89,4 +89,7 @@ body {
   .table th {
     padding: 0.5em;
   }
+  .table button {
+    padding: 0;
+  }
 }
