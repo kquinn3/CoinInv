@@ -35,7 +35,10 @@ const keys = require("./config/keys");
 //Connect to mongoose
 mongoose
   .connect(keys.mongoURI, {
-    useMongoClient: true
+    useNewUrlParser: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+    useUnifiedTopology: true
   })
   .then(() => console.log("MongoDB Connected..."))
   .catch(err => console.log(err));
@@ -89,7 +92,7 @@ app.use("/collection", collection);
 app.use("/user", user);
 app.use("/storage", storage);
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 5002;
 app.listen(port, () => {
   console.log(`Server started on port ${port}`);
 });
